@@ -1,3 +1,5 @@
-baseurl = "http://yourSiteHere"
+baseurl = "http://ccnmtl.columbia.edu/draft/anders/flgstatic/"
 languageCode = "en-us"
-title = "my new hugo site"
+title = "Film Language Glassary"
+[taxonomies]
+  term = "terms"
