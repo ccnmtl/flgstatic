@@ -1,4 +1,4 @@
-
+{{ partial "header.html" . }}
 <pre>[video player goes here]</pre>
 
 {{ if isset .Params "thumb" }}
@@ -20,3 +20,4 @@
 <ul>
 {{ range .Params.clipterms }}<li><a href="/term/{{ . | urlize | lower}}/">{{ . }}</li>{{ end }}
 </ul>
+{{ partial "footer.html" . }}

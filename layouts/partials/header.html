@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="utf-8">
+
+    {{ partial "meta.html" . }}
+
+    <title>Film Language Glossary: {{ .Title }}</title>
+    <link rel="canonical" href="{{ .Permalink }}">
+    {{ if .RSSlink }}<link href="{{ .RSSlink }}" rel="alternate" type="application/rss+xml" title="{{ .Title }}" />{{ end }}
+
+<link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css"/>
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+
+
+    {{ partial "head_includes.html" . }}
+</head>
+<body lang="en">
+
+
+<div class="container">
+        <nav class="navbar navbar-default navbar-inverse" role="navigation">
+                <div class="container-fluid">
+                        <div class="navbar-header">
+                                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-exampl
+e-navbar-collapse-1">
+                                        <span class="sr-only">Toggle navigation</span>
+                                        <span class="icon-bar"></span>
+                                        <span class="icon-bar"></span>
+                                        <span class="icon-bar"></span>
+                                </button>
+                                <a class="navbar-brand" href="/">Film
+                                Language Glossary</a>
+                        </div>
+
+      <ul class="nav navbar-nav">
+        <li><a href="/term/">Term Index</a></li>
+        <li><a href="/clip/">Clip Index</a></li>
+      </ul>
+
+                        <ul class="nav navbar-nav navbar-right pull-right">
+                                <li><a href="/about/">about</a></li>
+                        </ul>
+                </div>
+        </nav>
