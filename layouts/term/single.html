@@ -1,0 +1,33 @@
+<h1>{{.Title}}</h1>
+
+{{.Content}}
+
+{{ $taxonomy := index .Site.Taxonomies.clipterms .Params.term }}
+
+{{ range $taxonomy.Pages }}
+
+<h3><a href="{{.Permalink}}">{{.Title}}</a></h3>
+
+<p><i>{{.Params.length}}</i></p>
+
+{{ if isset .Params "thumb" }}
+<a href="{{.Permalink}}"><img src="{{ .Params.thumb }}" /></a>
+{{ end }}
+
+<dl>
+<dt>Film</dt>
+<dd>{{.Params.film}}, {{.Params.year}}</dd>
+<dt>Director</dt>
+<dd>{{.Params.director}}</dd>
+<dt>Source</dt>
+<dd>{{.Params.source}}
+<dt>Related Term(s)</dt>
+<dd>
+<ul>
+{{ range .Params.clipterms }}<li><a href="/term/{{ . | urlize | lower}}/">{{ . }}</li>{{ end }}
+</ul>
+</dd>
+</dl>
+{{ end }}
+
+

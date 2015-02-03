@@ -1,5 +1,5 @@
-baseurl = "http://ccnmtl.columbia.edu/draft/anders/flgstatic/"
+baseurl = "http://ccnmtl.columbia.edu/"
 languageCode = "en-us"
 title = "Film Language Glassary"
 [taxonomies]
-  term = "terms"
+  clipterm = "clipterms"

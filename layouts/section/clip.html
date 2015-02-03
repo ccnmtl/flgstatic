@@ -1,0 +1,18 @@
+
+<table>
+<tr>
+<th>
+<th>Sequence</th>
+<th>Film</th>
+<th>Directory</th>
+<th>Year</th>
+<tr>
+{{ range .Data.Pages }}
+<tr>
+<td><a href="{{.Permalink}}">{{ .Title }}</a> ({{.Params.length}})</td>
+<td>{{ .Params.film }}</td>
+<td>{{ .Params.director }}</td>
+<td>{{ .Params.year }}</td>
+</tr>
+{{ end }}
+</table>
