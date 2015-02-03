@@ -3,6 +3,6 @@ runserver:
 
 deploy:
 	rm -rf public/*
-	hugo
-#	rsync -avp --delete public/ dest.example.org:/var/www/flg/
+	/usr/local/bin/hugo-0.12
+	rsync -avp --delete public/ selma.ccnmtl.columbia.edu:/var/www/flgstatic/
 
