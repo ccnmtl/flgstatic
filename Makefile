@@ -3,6 +3,5 @@ runserver:
 
 deploy:
 	rm -rf public/*
-	/usr/local/bin/hugo-0.12
-	rsync -avp --delete public/ selma.ccnmtl.columbia.edu:/var/www/flgstatic/
+	/usr/local/bin/hugo-0.12 -s . && rsync -avp --delete public/ selma.ccnmtl.columbia.edu:/var/www/flgstatic/
 
