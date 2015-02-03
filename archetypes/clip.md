@@ -6,5 +6,6 @@ director = ""
 year = ""
 source = ""
 commentary = ""
-terms = []
+clipterms = []
+thumb = ""
 +++
