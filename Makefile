@@ -1,4 +1,4 @@
-server:
+runserver:
 	hugo server --watch --buildDrafts --verboseLog=true -v
 
 deploy:
