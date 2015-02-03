@@ -7,7 +7,7 @@ film = "Georgetown Loop (Colorado)"
 length = "3:00"
 source = "2002 Kino Int. Corp"
 thumb = "http://ccnmtl.columbia.edu/projects/filmglossary/web/thumbs/georgetown_loop.jpg"
-title = "georgetown loop colorado"
+title = "Georgetown Loop (Colorado)"
 year = "1903"
 
 +++
