@@ -1,0 +1,9 @@
+{{ $title := .Get 0 }}
+
+{{ range .Page.Node.Site.Recent }}
+{{ $t1l := $title | urlize | lower }}
+{{ $t2l := .Title | urlize | lower }}
+{{ if eq $t1l $t2l }}
+{{ .Render "embed" }}
+{{ end }}
+{{ end }}

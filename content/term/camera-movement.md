@@ -19,6 +19,8 @@ devices. Early film exhibitions, made up of many short films, would
 often include one of these "effect sequences," as The Georgetown Loop
 (1903).
 
+{{% embed_clip "Georgetown Loop (Colorado)" %}}
+
 ## Rise of Narrative
 
 Although camera movement was never completely ignored as a formal
@@ -27,8 +29,12 @@ dramatic effect it would truly emerge only in the 1920s, with the
 German Expressionist cinema, especially in the work of directors such
 as F. W. Murnau, Fritz Lang, and E. A. Dupont.
 
+{{% embed_clip "Haunted by Spirits" %}}
+
 In the Soviet cinema, the documentary pioneer Dziga Vertov also made
 interesting use of camera movement.
+
+{{% embed_clip "Life on the Go" %}}
 
 ## Transition to Sound
 
@@ -40,6 +46,8 @@ frequent highlighting of dance sequences, encouraged the development
 of various technical devices to assist in camera movement, such as the
 crane.
 
+{{% embed_clip "Shadow Waltz" %}}
+
 Certain directors became known for their frequent use of the moving
 camera: Orson Welles, Max Ophuls, Kenji Mizoguchi, and Jean Renoir are
 among the best known. Conceiving scenes around the extended use of a
@@ -47,6 +55,8 @@ moving camera meant that these directors dramatically increased the
 duration of shots in their films (by the late 1940s, shots lasting up
 to a minute were not uncommon) and filmed with deep focus, to create a
 large field for the camera to explore.
+
+{{% embed_clip "Last, Great Party" %}}
 
 ## Post-War Period
 
@@ -60,6 +70,8 @@ handheld but would also guarantee a smooth, gliding motion, the most
 famous (and enduring) being the Steadicam. The Steadicam would allow
 the same freedom to follow the action but would eliminate the rougher
 texture of ordinary handheld shots.
+
+{{% embed_clip "Copacabana" %}}
 
 ## Today
 

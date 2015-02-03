@@ -7,7 +7,7 @@ film = "The Magnificent Ambersons"
 length = "2:14"
 source = "1996 Turner Broadcasting System"
 thumb = ""
-title = "last great party"
+title = "Last, Great Party"
 year = "1942"
 quicktime = "last_great_party.mov"
 +++

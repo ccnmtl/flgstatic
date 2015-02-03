@@ -1,0 +1,42 @@
+
+<div class="media">
+<div class="media-left">
+<div id="movieplayer9949" align="center">
+<script type="text/javascript">
+var height = 256; var autoplay="false";
+      
+height = height +16; autoplay="false"
+//QT_WriteOBJECT('http://ccnmtl.columbia.edu/projects/filmglossary/mov/{{.Params.quicktime}}','320',height,'','href','http://ccnmtl.columbia.edu/projects/filmglossary/mov/{{.Params.quicktime}}','target','myself','scale','tofit','controller','true','kioskmode','true','autoplay',autoplay);
+</script>
+
+<div id="trigger9949" style="display:block" align="center">
+  <a href="http://ccnmtl.columbia.edu/projects/filmglossary/mov/{{.Params.quicktime}}" target="_blank" 
+    onclick="javascript:document.getElementById('movieplayer9949').style.display='block';document.getElementById('trigger9949').style.display='none';return false">
+    <img src="{{.Params.thumb}}" alt="Click to Play" width="320" height="256" 
+    border="0" /></a>
+</div>
+</div>
+</div>
+
+<div class="media-body">
+<h3 class="media-heading"><a href="{{.Permalink}}">{{.Title}}</a></h3>
+
+<p><i>{{.Params.length}}</i></p>
+
+
+<dl>
+<dt>Film</dt>
+<dd>{{.Params.film}}, {{.Params.year}}</dd>
+<dt>Director</dt>
+<dd>{{.Params.director}}</dd>
+<dt>Source</dt>
+<dd>{{.Params.source}}
+<dt>Related Term(s)</dt>
+<dd>
+<ul>
+{{ range .Params.clipterms }}<li><a href="/term/{{ . | urlize | lower}}/">{{ . }}</a></li>{{ end }}
+</ul>
+</dd>
+</dl>
+</div>
+</div>

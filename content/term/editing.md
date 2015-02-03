@@ -25,14 +25,20 @@ of cross-cutting between parallel actions or single actions. The
 director most often credited with making significant use of the basic
 concepts of film editing was D. W. Griffith.
 
+{{% embed_clip "Determined Upon Suicide" %}}
+
 In the 1920s, the Soviets, who looked to Griffith as a model, went
 even further with editing, seeing the single shot as part of a greater
 whole. *The Battleship Potemkin* (1925), directed by Sergei Eisenstein,
 is an example of the theory and practice of [montage](../montage/).
 
+{{% embed_clip "Odessa Steps" %}}
+
 Alfred Hitchcock often used montage in his work to create dramatic
 effect. In this sequence from *Sabotage* (1936), we see how Hitchcock
 creates suspense through montage.
+
+{{% embed_clip "There's a Bomb in the Package" %}}
 
 ## Continuity Editing
 
@@ -41,8 +47,12 @@ the 1930s and '40s is known as invisible cutting, or continuity
 editing. With continuity editing, the narrative is dominant and the
 audience is not meant to be aware of the changing shots.
 
+{{% embed_clip "Rico's Promotion" %}}
+
 Carol Reed's *The Third Man* offers an excellent example of continuity
 editing, and specifically of [eye-line match](../eye-line-match/).
+
+{{% embed_clip "Funeral" %}}
 
 ## Post-War Development
 
@@ -55,6 +65,8 @@ meant to be invisible to the audience. Here, in Jean-Luc Godard's
 *Breathless* (1959), is an example of the [jump cut](../jump-cut/), a
 technique that is meant to call attention to the process of
 filmmaking.
+
+{{% embed_clip "Lunch Date" %}}
 
 Beginning in the 1970s, many directors in Hollywood, such as Martin
 Scorsese, Robert Altman, and Hal Ashby, started experimenting with

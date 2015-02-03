@@ -9,3 +9,5 @@ shot](../handheld-shot/), employing a kind of special hydraulic
 harness that smoothes out the bumps and jerkiness associated with the
 typical handheld style.
 
+{{% embed_clip "Copacabana" %}}
+

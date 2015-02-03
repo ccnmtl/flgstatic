@@ -7,7 +7,7 @@ film = "Goodfellas"
 length = "2:40"
 source = "1999 Warner Home Video"
 thumb = ""
-title = "copacabana"
+title = "Copacabana"
 year = "1990"
 quicktime = "copacabana.mov"
 

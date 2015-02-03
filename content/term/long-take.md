@@ -14,6 +14,8 @@ sections. Georges Méliès's *A Trip to the Moon* (1902) demonstrates an
 early use of long takes, albeit ones that tended more toward the
 theatrical than the cinematic.
 
+{{% embed_clip "Take-Off" %}}
+
 In the early 1940s, the long take began to assume a more important
 role in the discussion of film aesthetics. The film critic and
 theoretician André Bazin has written about cinema's unique ability to
@@ -26,8 +28,15 @@ Renoir and Orson Welles. Throughout Welles's *Citizen Kane* (1941), for
 instance, there are a number of examples of deep focus combined with
 the long take.
 
+
+{{% embed_clip "Negative Review" %}}
+
+
 A number of films today make use of the long take. Others through the
 years include Alfred Hitchcock's *Rope* (1948), which, through editing,
 creates the impression of an entire film taking placing during one
 take, and Mike Figgis's *Timecode* (2000), which shot digitally four
 ninety-minute takes concurrently.
+
+
+{{% embed_clip "Earthquake" %}}
