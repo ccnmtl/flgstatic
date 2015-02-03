@@ -9,7 +9,7 @@
 <th>Directory</th>
 <th>Year</th>
 <tr>
-{{ range .Data.Pages }}
+{{ range .Data.Pages.ByTitle }}
 <tr>
 <td><a href="{{.Permalink}}">{{ .Title }}</a> ({{.Params.length}})</td>
 <td>{{ .Params.film }}</td>

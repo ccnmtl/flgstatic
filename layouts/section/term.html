@@ -3,7 +3,7 @@
 <h1>Terms</h1>
 
 <ul>
-{{ range .Data.Pages }}
+{{ range .Data.Pages.ByTitle }}
 <li><a href="{{.Permalink}}">{{.Title}}</a></li>
 {{ end }}
 </ul>

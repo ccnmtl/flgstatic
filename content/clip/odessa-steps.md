@@ -7,7 +7,7 @@ film = "The Battleship Potemkin"
 length = "1:52"
 source = "1976 Sovexport Film"
 thumb = ""
-title = "odessa steps"
+title = "Odessa Steps"
 year = "1925"
 
 +++
