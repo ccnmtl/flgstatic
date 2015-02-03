@@ -9,6 +9,6 @@ source = "2001 Kino Int. Corp."
 thumb = "http://ccnmtl.columbia.edu/projects/filmglossary/web/thumbs/haunted_by_spirits.jpg"
 title = "Haunted by Spirits"
 year = "1924"
-
+quicktime = "haunted_by_spirits.mov"
 +++
 

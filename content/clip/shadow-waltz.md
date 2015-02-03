@@ -9,6 +9,7 @@ source = "1993 Key Video"
 thumb = "http://ccnmtl.columbia.edu/projects/filmglossary/web/thumbs/shadow_waltz.jpg"
 title = "Shadow Waltz"
 year = "1933"
+quicktime = "shadow_waltz.mov"
 
 +++
 

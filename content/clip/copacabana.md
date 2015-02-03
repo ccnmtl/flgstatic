@@ -9,6 +9,7 @@ source = "1999 Warner Home Video"
 thumb = ""
 title = "copacabana"
 year = "1990"
+quicktime = "copacabana.mov"
 
 +++
 

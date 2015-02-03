@@ -9,6 +9,6 @@ source = "1996 Image Entertainment"
 thumb = "http://ccnmtl.columbia.edu/projects/filmglossary/web/thumbs/life_on_the_go.jpg"
 title = "Life on the Go"
 year = "1929"
-
+quicktime = "life_on_the_go.mov"
 +++
 
