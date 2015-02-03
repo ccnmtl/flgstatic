@@ -1,0 +1,5 @@
+baseurl = "http://ccnmtl.columbia.edu/"
+languageCode = "en-us"
+title = "Film Language Glassary"
+[taxonomies]
+  clipterm = "clipterms"

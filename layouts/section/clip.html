@@ -1,0 +1,21 @@
+{{ partial "header.html" . }}
+
+<h1>Clips</h1>
+
+<table class="table table-striped table-condensed">
+<tr>
+<th>Sequence</th>
+<th>Film</th>
+<th>Directory</th>
+<th>Year</th>
+<tr>
+{{ range .Data.Pages }}
+<tr>
+<td><a href="{{.Permalink}}">{{ .Title }}</a> ({{.Params.length}})</td>
+<td>{{ .Params.film }}</td>
+<td>{{ .Params.director }}</td>
+<td>{{ .Params.year }}</td>
+</tr>
+{{ end }}
+</table>
+{{ partial "footer.html" . }}
