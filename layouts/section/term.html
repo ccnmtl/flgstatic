@@ -2,10 +2,13 @@
 
 <h1>Terms</h1>
 
-<ul>
+
 {{ range .Data.Pages.ByTitle }}
-<li><a href="{{.Permalink}}">{{.Title}}</a></li>
+<p>
+<a href="{{.Permalink}}">{{.Title}}</a><br />
+{{ .Summary }}
+</p>
 {{ end }}
-</ul>
+
 
 {{ partial "footer.html" . }}

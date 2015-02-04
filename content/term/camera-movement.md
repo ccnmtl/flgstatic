@@ -6,6 +6,8 @@ title = "Camera Movement"
 
 Camera movement refers to the actual or perceived physical movement of the camera apparatus through space. At its most basic level, camera movement creates a sensation in the spectator that he or she is moving through space.
 
+<!--more-->
+
 ## Early Development
 
 While it would be impossible to cite with any certainty the first instance of camera movement in film history, the first notable application of this technique can be seen in the work of the Lumière cameraman Eugenio Promio, who at various times mounted his camera on a moving train, a streetcar, an automobile, and a Venetian gondola. By 1900, cameras could also be mounted on swivel heads, which led to the increased use of pan, or panoramic, shots.
