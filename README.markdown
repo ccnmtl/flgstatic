@@ -38,7 +38,7 @@ specified). Fill in the rest of the fields and save.
 
 To run a preview version of the site, run:
 
-   $ make runserver
+    $ make runserver
 
 and open http://localhost:1301/ to view it. Hugo will watch for
 changes, automatically rebuilding the site. It will even automatically
