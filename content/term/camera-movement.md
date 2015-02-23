@@ -21,7 +21,7 @@ devices. Early film exhibitions, made up of many short films, would
 often include one of these "effect sequences," as The Georgetown Loop
 (1903).
 
-{{% embed_clip "Georgetown Loop (Colorado)" %}}
+{{< embed_clip "Georgetown Loop (Colorado)" >}}
 
 ## Rise of Narrative
 
