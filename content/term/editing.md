@@ -5,12 +5,12 @@ title = "Editing"
 +++
 
 Editing is the process of putting a film together--the selection and
-arrangement of shots and scenes. Editing can condense space and time,
-emphasize separate elements and bring them together, and organize
-material in such a way that patterns of meaning become apparent. In
-addition, editing can determine how a film is perceived: for instance,
-quick, rapid cuts can create a feeling of tension, while a long take
-can create a more dramatic effect.
+arrangement of shots and scenes. <!--more-->Editing can condense space
+and time, emphasize separate elements and bring them together, and
+organize material in such a way that patterns of meaning become
+apparent. In addition, editing can determine how a film is perceived:
+for instance, quick, rapid cuts can create a feeling of tension, while
+a long take can create a more dramatic effect.
 
 The first photoplays generally had no cutting, owing to the fact that
 they were single-reel films; once filming began, you could not stop

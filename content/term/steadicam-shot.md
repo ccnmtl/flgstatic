@@ -7,7 +7,7 @@ title = "Steadicam Shot"
 A Steadicam shot is a variant on the [handheld
 shot](../handheld-shot/), employing a kind of special hydraulic
 harness that smoothes out the bumps and jerkiness associated with the
-typical handheld style.
+typical handheld style.<!--more-->
 
-{{% embed_clip "Copacabana" %}}
+{{< embed_clip "Copacabana" >}}
 
