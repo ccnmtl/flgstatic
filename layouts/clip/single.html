@@ -1,5 +1,20 @@
 {{ partial "header.html" . }}
 
+{{ if .Params.mp4_orig }}
+<video id="vid">
+   <source src="{{.Params.mp4_orig}}" type="video/mp4">
+{{ if .Params.mp4_comment }}
+   <source src="{{.Params.mp4_comment}}" type="video/mp4">
+{{ end }}
+</video><br />
+
+<button id="play">play</button>
+<button id="switch">switch</button>
+
+<script src="/js/srcswap.js"></script>
+
+
+{{ else }}
 <script src="http://ccnmtl.columbia.edu/projects/filmglossary/scripts/ac_quicktime.js" language="JavaScript" type="text/javascript"></script>
 <script language="JavaScript" type="text/javascript">
 var height = 256; var autoplay="false";
@@ -15,6 +30,8 @@ height = height +16; autoplay="false"
     <img src="{{.Params.thumb}}" alt="Click to Play" width="320" height="256" 
     border="0" /></a>
 </div>
+
+{{ end }}
 
 <h1>{{.Title}}</h1>
 <p><i>{{.Params.length}}</i></p>
