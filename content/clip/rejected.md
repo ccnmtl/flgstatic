@@ -7,6 +7,6 @@ film = "Taxi Driver"
 length = "1:13"
 source = "1997 Columbia Tristar Home Video"
 clipterms = ["Dolly (Dolly shot)"]
-quicktime = "rejected.mov"
+mp4_orig = "http://stream.ccnmtl.columbia.edu/public/3d15b842-8e2c-4113-8009-13ff11a9a411-FLG_TEST_taxi_driver-mp4-aac-480w-850kbps-ffmpeg.mp4"
 year = "1976"
 +++
