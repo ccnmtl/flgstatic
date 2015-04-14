@@ -1,5 +1,6 @@
 baseurl = "http://ccnmtl.columbia.edu/"
 languageCode = "en-us"
 title = "Film Language Glossary"
+MetaDataFormat = "yaml"
 [taxonomies]
   clipterm = "clipterms"

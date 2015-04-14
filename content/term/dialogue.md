@@ -1,8 +1,8 @@
-+++
-title = "Dialogue"
-term = "dialogue"
-date = "2015-03-20T13:28:57+01:00"
-+++
+---
+date: '2015-03-20T13:28:57+01:00'
+term: dialogue
+title: Dialogue
+---
 
 Dialogue is speech delivered by or between characters. <!--more-->With the advent
 of [sound](../sound/), in the late 1920s, Hollywood films became

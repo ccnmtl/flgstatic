@@ -1,9 +1,8 @@
-+++
-date = "2015-02-03T11:39:17+01:00"
-term = "montage"
-title = "Montage"
-
-+++
+---
+date: '2015-02-03T11:39:17+01:00'
+term: montage
+title: Montage
+---
 
 Taken from the French word *monter*, meaning "to assemble," this process
 of [editing](../editing/) was developed in the theories and films of the Soviet

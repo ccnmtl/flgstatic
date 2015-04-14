@@ -1,13 +1,14 @@
-+++
-title = "Bathtub Talk"
-quicktime = "bathtub_talk.mov"
-director_last = "Gordon"
-source = "1996 Universal Home Video"
-length = "1:26"
-clipterms = [ "Split Screen",]
-year = "1959"
-date = "2015-03-20T11:35:19+01:00"
-commentary = ""
-film = "Pillow Talk"
-director_first = "Michael"
-+++
+---
+clipterms:
+- Split Screen
+commentary: ''
+date: '2015-03-20T11:35:19+01:00'
+director_first: Michael
+director_last: Gordon
+film: Pillow Talk
+length: '1:26'
+quicktime: bathtub_talk.mov
+source: 1996 Universal Home Video
+title: Bathtub Talk
+year: '1959'
+---

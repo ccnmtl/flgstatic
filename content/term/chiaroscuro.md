@@ -1,8 +1,8 @@
-+++
-title = "Chiaroscuro"
-term = "chiaroscuro"
-date = "2015-03-20T13:28:36+01:00"
-+++
+---
+date: '2015-03-20T13:28:36+01:00'
+term: chiaroscuro
+title: Chiaroscuro
+---
 
 Derived from the Italian words for "bright" (chiaro) and "dark"
 (oscuro).  Often associated with German Expressionism and film noir,

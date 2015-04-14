@@ -1,13 +1,14 @@
-+++
-title = "Dancing"
-quicktime = "dancing.mov"
-director_last = "Wilder"
-source = "1991 MGM/UA Home Video"
-length = "0:47"
-clipterms = [ "Swish Pan",]
-year = "1959"
-date = "2015-03-20T11:36:00+01:00"
-commentary = ""
-film = "Some Like it Hot"
-director_first = "Billy"
-+++
+---
+clipterms:
+- Swish Pan
+commentary: ''
+date: '2015-03-20T11:36:00+01:00'
+director_first: Billy
+director_last: Wilder
+film: Some Like it Hot
+length: 0:47
+quicktime: dancing.mov
+source: 1991 MGM/UA Home Video
+title: Dancing
+year: '1959'
+---

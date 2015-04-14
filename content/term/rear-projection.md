@@ -1,8 +1,8 @@
-+++
-title = "Rear Projection"
-term = "rear-projection"
-date = "2015-03-20T13:29:03+01:00"
-+++
+---
+date: '2015-03-20T13:29:03+01:00'
+term: rear-projection
+title: Rear Projection
+---
 
 Rear projection involves the projection of either a still or a moving
 picture onto the back of a translucent screen. <!--more-->The screen appears

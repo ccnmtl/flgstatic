@@ -1,8 +1,8 @@
-+++
-title = "Eye-Line Match"
-term = "eye-line-match"
-date = "2015-03-20T13:28:59+01:00"
-+++
+---
+date: '2015-03-20T13:28:59+01:00'
+term: eye-line-match
+title: Eye-Line Match
+---
 
 Eye-line match is a method of continuity editing whereby a cut between
 two shots creates the illusion of the character (in the first shot)

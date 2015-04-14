@@ -1,8 +1,8 @@
-+++
-title = "Depth of Field"
-term = "depth-of-field"
-date = "2015-03-20T13:28:57+01:00"
-+++
+---
+date: '2015-03-20T13:28:57+01:00'
+term: depth-of-field
+title: Depth of Field
+---
 
 Depth of field is the area, range of distance, or field (between the
 nearest and farthest planes) in which the elements captured in a

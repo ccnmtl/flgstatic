@@ -1,8 +1,8 @@
-+++
-title = "Exposure"
-term = "exposure"
-date = "2015-03-20T13:28:59+01:00"
-+++
+---
+date: '2015-03-20T13:28:59+01:00'
+term: exposure
+title: Exposure
+---
 
 Exposure is the act of making film available to light so that an image
 is formed in the emulsion.<!--more--> The scene's lighting--natural or set
@@ -25,4 +25,3 @@ addition to the f-stop, the t-top calculates the transmission of
 light. An exposure calculator can be used to determine the exposure
 setting as well. Finally, camera speed and film emulsion can also
 determine exposure.
-

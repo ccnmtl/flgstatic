@@ -1,8 +1,8 @@
-+++
-title = "Black-and-White Film"
-term = "black-and-white-film"
-date = "2015-03-20T13:28:35+01:00"
-+++
+---
+date: '2015-03-20T13:28:35+01:00'
+term: black-and-white-film
+title: Black-and-White Film
+---
 
 Black-and-white film contains an emulsion that, when processed,
 changes colors into various shades of gray.<!--more-->
@@ -21,4 +21,3 @@ making films in color soon became the rule. However, there were still
 many films shot in black-and-white, ranging from international art
 films to independent U.S. productions. Today, to shoot in
 black-and-white is often an artistic or financial decision.
-

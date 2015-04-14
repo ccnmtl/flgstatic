@@ -1,8 +1,8 @@
-+++
-title = "Celluloid"
-term = "celluloid"
-date = "2015-03-20T13:28:36+01:00"
-+++
+---
+date: '2015-03-20T13:28:36+01:00'
+term: celluloid
+title: Celluloid
+---
 
 Cellulose nitrate was the original transparent material used as a base
 for film, which was then coated with light-sensitive emulsion. <!--more-->But the

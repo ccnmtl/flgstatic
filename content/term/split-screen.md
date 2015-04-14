@@ -1,8 +1,8 @@
-+++
-title = "Split Screen"
-term = "split-screen"
-date = "2015-03-20T13:29:04+01:00"
-+++
+---
+date: '2015-03-20T13:29:04+01:00'
+term: split-screen
+title: Split Screen
+---
 
 Split screen is the combination of two or more scenes films separately
 which appear in the same frame.

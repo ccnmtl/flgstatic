@@ -1,13 +1,15 @@
-+++
-title = "First Sighting"
-quicktime = "first_sighting.mov"
-director_last = "Hitchcock"
-source = "1999 Universal"
-length = "1:30"
-clipterms = [ "Lighting", "Point of View",]
-year = "1958"
-date = "2015-03-20T11:36:03+01:00"
-commentary = ""
-film = "Vertigo"
-director_first = "Alfred"
-+++
+---
+clipterms:
+- Lighting
+- Point of View
+commentary: ''
+date: '2015-03-20T11:36:03+01:00'
+director_first: Alfred
+director_last: Hitchcock
+film: Vertigo
+length: '1:30'
+quicktime: first_sighting.mov
+source: 1999 Universal
+title: First Sighting
+year: '1958'
+---

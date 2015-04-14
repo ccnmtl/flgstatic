@@ -1,8 +1,8 @@
-+++
-title = "Fade"
-term = "fade"
-date = "2015-03-20T13:28:59+01:00"
-+++
+---
+date: '2015-03-20T13:28:59+01:00'
+term: fade
+title: Fade
+---
 
 The fade is a means of gradually beginning or ending a scene, and is
 achieved in the camera by opening or closing the aperture; in an
@@ -13,4 +13,3 @@ transitioning into the next scene, which slowly comes into view
 (fade-in); or, in a fade to black, when a scene or film ends with an
 image gradually becoming darker (or lighter, in the case of fade to
 white).
-

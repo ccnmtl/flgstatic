@@ -1,8 +1,8 @@
-+++
-date = "2015-02-03T11:18:31+01:00"
-term = "camera-movement"
-title = "Camera Movement"
-+++
+---
+date: '2015-02-03T11:18:31+01:00'
+term: camera-movement
+title: Camera Movement
+---
 
 Camera movement refers to the actual or perceived physical movement of the camera apparatus through space. At its most basic level, camera movement creates a sensation in the spectator that he or she is moving through space.
 

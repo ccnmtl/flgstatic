@@ -1,8 +1,8 @@
-+++
-title = "Parallel Editing"
-term = "parallel-editing"
-date = "2015-03-20T13:29:02+01:00"
-+++
+---
+date: '2015-03-20T13:29:02+01:00'
+term: parallel-editing
+title: Parallel Editing
+---
 
 Parallel editing is a technique whereby cutting occurs between two or
 more related actions occurring at the same time in two separate

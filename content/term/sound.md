@@ -1,8 +1,8 @@
-+++
-title = "Sound"
-term = "sound"
-date = "2015-03-20T13:29:04+01:00"
-+++
+---
+date: '2015-03-20T13:29:04+01:00'
+term: sound
+title: Sound
+---
 
 Sound is the audio portion of a film. <!--more-->This includes
 [dialogue](../dialogue/), [music](../music/), and effects.
@@ -93,5 +93,3 @@ surround speakers.
 Digital sound, another advancement, converts sound into a series of
 binary numbers, placing them in a computer's memory without
 deterioration.
-
-

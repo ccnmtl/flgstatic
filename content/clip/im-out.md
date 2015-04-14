@@ -1,13 +1,14 @@
-+++
-title = "I'm Out"
-quicktime = "im_out.mov"
-director_last = "Hill"
-source = "1998 Universal Home Video"
-length = "0:22"
-clipterms = [ "Wipe",]
-year = "1973"
-date = "2015-03-20T11:36:04+01:00"
-commentary = ""
-film = "Sting, The"
-director_first = "George Roy"
-+++
+---
+clipterms:
+- Wipe
+commentary: ''
+date: '2015-03-20T11:36:04+01:00'
+director_first: George Roy
+director_last: Hill
+film: Sting, The
+length: 0:22
+quicktime: im_out.mov
+source: 1998 Universal Home Video
+title: I'm Out
+year: '1973'
+---

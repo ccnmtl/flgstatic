@@ -1,8 +1,8 @@
-+++
-date = "2015-02-03T11:50:49+01:00"
-term = "long-take"
-title = "Long Take"
-+++
+---
+date: '2015-02-03T11:50:49+01:00'
+term: long-take
+title: Long Take
+---
 
 The long take, a shot of some duration, was not an aesthetic choice
 when it was first used. Filmmakers in the early days of cinema had no

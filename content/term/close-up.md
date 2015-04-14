@@ -1,8 +1,8 @@
-+++
-title = "Close-Up"
-term = "close-up"
-date = "2015-03-20T13:28:56+01:00"
-+++
+---
+date: '2015-03-20T13:28:56+01:00'
+term: close-up
+title: Close-Up
+---
 
 A close-up is a shot in which a person's face fills most of the
 screen, although the term can also refer to any shot that appears to
@@ -71,4 +71,3 @@ an actor's face was followed by different images, changed the meaning
 of the actor's expression.  Rather than being a window onto the soul,
 the face in close up, for Eisenstein, to the extent it conveyed any
 immediate meaning, did so as a token or "type."
-

@@ -1,8 +1,8 @@
-+++
-title = "Take"
-term = "take"
-date = "2015-03-20T13:29:05+01:00"
-+++
+---
+date: '2015-03-20T13:29:05+01:00'
+term: take
+title: Take
+---
 
 A take is one run of the camera, recording a single
 shot. <!--more-->During the production of a film, it is not unusual
@@ -13,4 +13,3 @@ number of the take written on it. In addition, the number of the take
 is spoken aloud and recorded onto the soundtrack. Both the
 photographing and the recording of the take number are done in
 anticipation of the editing of the film.
-

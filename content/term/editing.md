@@ -1,8 +1,8 @@
-+++
-date = "2015-02-03T11:44:40+01:00"
-term = "editing"
-title = "Editing"
-+++
+---
+date: '2015-02-03T11:44:40+01:00'
+term: editing
+title: Editing
+---
 
 Editing is the process of putting a film together--the selection and
 arrangement of shots and scenes. <!--more-->Editing can condense space

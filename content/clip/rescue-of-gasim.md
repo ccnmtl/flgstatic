@@ -1,13 +1,15 @@
-+++
-title = "Rescue of Gasim"
-quicktime = "rescue_of_gasim.mov"
-director_last = "Lean"
-source = "1990 Columbia TriStar Home Video"
-length = "0:48"
-clipterms = [ "Non-Diegetic Sound", "Soundtrack",]
-year = "1962"
-date = "2015-03-20T11:37:26+01:00"
-commentary = ""
-film = "Lawrence of Arabia"
-director_first = "David"
-+++
+---
+clipterms:
+- Non-Diegetic Sound
+- Soundtrack
+commentary: ''
+date: '2015-03-20T11:37:26+01:00'
+director_first: David
+director_last: Lean
+film: Lawrence of Arabia
+length: 0:48
+quicktime: rescue_of_gasim.mov
+source: 1990 Columbia TriStar Home Video
+title: Rescue of Gasim
+year: '1962'
+---

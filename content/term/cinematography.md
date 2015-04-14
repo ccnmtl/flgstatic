@@ -1,8 +1,8 @@
-+++
-title = "Cinematography"
-term = "cinematography"
-date = "2015-03-20T13:28:55+01:00"
-+++
+---
+date: '2015-03-20T13:28:55+01:00'
+term: cinematography
+title: Cinematography
+---
 
 Derived from the French word <i>cinématographe</i> coined by the Lumière
 brothers, cinematography literally means "writing in movement" and is
@@ -15,5 +15,3 @@ concerns, such as [camera angle](../camera-angle/), framing, duration
 of shot, distance, and [movement](../camera-movement/).  The member of a film
 crew who is responsible for cinematography is known as the
 cinematographer, or director of photography.
-
-

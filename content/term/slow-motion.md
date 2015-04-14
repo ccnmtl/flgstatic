@@ -1,8 +1,8 @@
-+++
-title = "Slow Motion"
-term = "slow-motion"
-date = "2015-03-20T13:29:03+01:00"
-+++
+---
+date: '2015-03-20T13:29:03+01:00'
+term: slow-motion
+title: Slow Motion
+---
 
 Changing the frames-per-second when shooting a film can result in a
 variety of effects--for instance, slow motion.  Slow motion is

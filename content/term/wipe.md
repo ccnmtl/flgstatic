@@ -1,8 +1,8 @@
-+++
-title = "Wipe"
-term = "wipe"
-date = "2015-03-20T13:29:06+01:00"
-+++
+---
+date: '2015-03-20T13:29:06+01:00'
+term: wipe
+title: Wipe
+---
 
 Although contemporary filmgoers are familiar with
 [dissolves](../dissolve/) and quick cuts as the standard for moving
@@ -20,4 +20,3 @@ Hoping to recall that era, the director George Roy Hill revived the
 wipe/split-screen effect in his nostalgic 1973 film, The Sting.
 
 {{<embed_clip "I'm Out" >}}
-

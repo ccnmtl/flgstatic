@@ -1,8 +1,8 @@
-+++
-title = "Cinerama"
-term = "cinerama"
-date = "2015-03-20T13:28:55+01:00"
-+++
+---
+date: '2015-03-20T13:28:55+01:00'
+term: cinerama
+title: Cinerama
+---
 
 Facing an economic challenge from television in the 1950s, Hollywood
 studios relied on spectacle to draw audiences back to movie

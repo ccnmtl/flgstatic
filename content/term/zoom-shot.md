@@ -1,8 +1,8 @@
-+++
-title = "Zoom Shot"
-term = "zoom-shot"
-date = "2015-03-20T13:29:06+01:00"
-+++
+---
+date: '2015-03-20T13:29:06+01:00'
+term: zoom-shot
+title: Zoom Shot
+---
 
 Taken with a lens that has a variable focal length, a zoom shot is one
 that permits the cinematographer to change the distance between the

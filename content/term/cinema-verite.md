@@ -1,8 +1,8 @@
-+++
-title = "Cinema Verité"
-term = "cinema-verite"
-date = "2015-03-20T13:28:37+01:00"
-+++
+---
+date: '2015-03-20T13:28:37+01:00'
+term: cinema-verite
+title: "Cinema Verit\xE9"
+---
 
 Also referred to as free cinema or direct cinema, cinema verité is a
 French term that means "true cinema" or "cinema truth." It is a style

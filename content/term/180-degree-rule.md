@@ -1,8 +1,8 @@
-+++
-title = "180-Degree Rule"
-term = "180-degree-rule"
-date = "2015-03-20T13:48:51+01:00"
-+++
+---
+date: '2015-03-20T13:48:51+01:00'
+term: 180-degree-rule
+title: 180-Degree Rule
+---
 
 The 180-degree rule of shooting and [editing](../editing/) keeps the
 camera on one side of the action. <!--more-->As a matter of convention, the

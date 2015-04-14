@@ -1,8 +1,8 @@
-+++
-title = "Frames-per-Second"
-term = "frames-per-second"
-date = "2015-03-20T13:29:00+01:00"
-+++
+---
+date: '2015-03-20T13:29:00+01:00'
+term: frames-per-second
+title: Frames-per-Second
+---
 
 Frames-per-second is the rate at which film is exposed in a
 camera. <!--more-->Silent films were shot and projected in a range from 16 to 18
@@ -15,4 +15,3 @@ effects. For instance, shooting a scene at 48 frames-per-second and
 then projecting it at 24 frames-per-second creates [slow
 motion](../slow-motion/), since each frame is shown at twice the
 length of the original.
-

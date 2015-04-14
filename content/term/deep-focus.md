@@ -1,8 +1,8 @@
-+++
-title = "Deep Focus"
-term = "deep-focus"
-date = "2015-03-20T13:28:57+01:00"
-+++
+---
+date: '2015-03-20T13:28:57+01:00'
+term: deep-focus
+title: Deep Focus
+---
 
 Deep focus is a style or technique of
 [cinematography](../cinemetography/) and staging with great [depth of

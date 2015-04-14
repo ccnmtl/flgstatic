@@ -1,8 +1,8 @@
-+++
-title = "Aspect Ratio"
-term = "aspect-ratio"
-date = "2015-03-20T13:28:35+01:00"
-+++
+---
+date: '2015-03-20T13:28:35+01:00'
+term: aspect-ratio
+title: Aspect Ratio
+---
 
 Aspect ratio refers to how the image appears on the screen based on
 how it was shot--the ratio of width (horizontal or top) to height
@@ -24,4 +24,3 @@ videos for wide-screen televisions usually have an aspect ratio of
 
 
 <img src="http://ccnmtl.columbia.edu/projects/filmglossary/web/pics/aspectratio.jpg" alt="Aspect Ratio samples" width="395" height="345" border="0" />
-

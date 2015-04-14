@@ -1,8 +1,8 @@
-+++
-title = "Point of View"
-term = "point-of-view"
-date = "2015-03-20T13:29:03+01:00"
-+++
+---
+date: '2015-03-20T13:29:03+01:00'
+term: point-of-view
+title: Point of View
+---
 
 Point of view (POV) is a variation of eye-line match. The two are
 similar, in that a character looks offscreen and we see where he or

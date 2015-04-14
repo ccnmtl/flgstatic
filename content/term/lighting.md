@@ -1,8 +1,8 @@
-+++
-title = "Lighting"
-term = "lighting"
-date = "2015-03-20T13:29:01+01:00"
-+++
+---
+date: '2015-03-20T13:29:01+01:00'
+term: lighting
+title: Lighting
+---
 
 Lighting is responsible for the quality of a film's images and often a
 film's dramatic effect. <!--more-->Early photoplays were usually filmed outside,
@@ -45,4 +45,3 @@ more naturalistic way than early color films did. This scene from the
 film is lit entirely by candlelight.
 
 {{< embed_clip "A Gamester's Life" >}}
-

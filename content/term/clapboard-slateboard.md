@@ -1,8 +1,8 @@
-+++
-title = "Clapboard (Slateboard)"
-term = "clapboard-slateboard"
-date = "2015-03-20T13:28:56+01:00"
-+++
+---
+date: '2015-03-20T13:28:56+01:00'
+term: clapboard-slateboard
+title: Clapboard (Slateboard)
+---
 
 <img
 src="http://ccnmtl.columbia.edu/projects/filmglossary/web/pics/clapboard.jpg"
@@ -18,4 +18,3 @@ synchronization of [sound](../sound/) and picture, in anticipation of
 the [editing](../editing/) of the film. In addition to the take
 number, other information on the slate could include the date, the
 scene number, the name of the film, and the cameraman.
-

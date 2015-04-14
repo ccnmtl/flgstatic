@@ -1,8 +1,8 @@
-+++
-title = "Dolly (Dolly Shot)"
-term = "dolly-dolly-shot"
-date = "2015-03-20T13:28:58+01:00"
-+++
+---
+date: '2015-03-20T13:28:58+01:00'
+term: dolly-dolly-shot
+title: Dolly (Dolly Shot)
+---
 
 A dolly is a mobile platform on wheels with a camera, which can be
 driven or pushed by a dolly pusher or dolly grip.<!--more--> The camera on the

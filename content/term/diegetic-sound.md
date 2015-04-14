@@ -1,8 +1,8 @@
-+++
-title = "Diegetic Sound"
-term = "diegetic-sound"
-date = "2015-03-20T13:28:58+01:00"
-+++
+---
+date: '2015-03-20T13:28:58+01:00'
+term: diegetic-sound
+title: Diegetic Sound
+---
 
 Diegetic sound is any sound that emanates from the story (or
 narrative) world of a film, which is referred to in film studies as

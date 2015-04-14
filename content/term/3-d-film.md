@@ -1,8 +1,8 @@
-+++
-title = "3-D Film"
-term = "3-d-film"
-date = "2015-03-20T13:28:35+01:00"
-+++
+---
+date: '2015-03-20T13:28:35+01:00'
+term: 3-d-film
+title: 3-D Film
+---
 
 With competition from television and other leisure activities
 following the Second World War, Hollywood introduced a number of

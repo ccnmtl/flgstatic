@@ -1,13 +1,14 @@
-+++
-thumb = "http://ccnmtl.columbia.edu/projects/filmglossary/web/thumbs/bullet_time.jpg"
-title = "Bullet Time"
-director_last = "Andy Wachowski"
-source = "2000 Warner Home Video"
-length = "0:29"
-clipterms = [ "Virtual Camera Movement",]
-year = "1999"
-date = "2015-02-02T16:22:12+01:00"
-commentary = ""
-film = "The Matrix"
-director_first = "Larry Wachowski"
-+++
+---
+clipterms:
+- Virtual Camera Movement
+commentary: ''
+date: '2015-02-02T16:22:12+01:00'
+director_first: Larry Wachowski
+director_last: Andy Wachowski
+film: The Matrix
+length: 0:29
+source: 2000 Warner Home Video
+thumb: http://ccnmtl.columbia.edu/projects/filmglossary/web/thumbs/bullet_time.jpg
+title: Bullet Time
+year: '1999'
+---

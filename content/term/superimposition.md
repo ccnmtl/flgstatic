@@ -1,8 +1,8 @@
-+++
-title = "Superimposition"
-term = "superimposition"
-date = "2015-03-20T13:29:04+01:00"
-+++
+---
+date: '2015-03-20T13:29:04+01:00'
+term: superimposition
+title: Superimposition
+---
 
 Superimposition is when two or more image are placed over each other
 in the frame.<!--more--> This effect can be accomplished by exposing

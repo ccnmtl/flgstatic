@@ -1,13 +1,14 @@
-+++
-title = "Who Are You!?!"
-quicktime = "who_are_you.mov"
-director_last = "Suzuki"
-source = "1999 Criterion Collection"
-length = "0:23"
-clipterms = [ "Point of View",]
-year = "1967"
-date = "2015-03-20T11:37:30+01:00"
-commentary = ""
-film = "Branded to Kill"
-director_first = "Seijun"
-+++
+---
+clipterms:
+- Point of View
+commentary: ''
+date: '2015-03-20T11:37:30+01:00'
+director_first: Seijun
+director_last: Suzuki
+film: Branded to Kill
+length: 0:23
+quicktime: who_are_you.mov
+source: 1999 Criterion Collection
+title: Who Are You!?!
+year: '1967'
+---

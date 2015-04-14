@@ -1,13 +1,14 @@
-+++
-title = "The Keaton Band"
-quicktime = "the_keaton_band.mov"
-director_last = "Keaton"
-source = "1999 Kino on Video"
-length = "0:56"
-clipterms = [ "Double (Multiple) Exposure",]
-year = "1921"
-date = "2015-03-20T11:37:28+01:00"
-commentary = ""
-film = "Playhouse, The"
-director_first = "Buster"
-+++
+---
+clipterms:
+- Double (Multiple) Exposure
+commentary: ''
+date: '2015-03-20T11:37:28+01:00'
+director_first: Buster
+director_last: Keaton
+film: Playhouse, The
+length: 0:56
+quicktime: the_keaton_band.mov
+source: 1999 Kino on Video
+title: The Keaton Band
+year: '1921'
+---

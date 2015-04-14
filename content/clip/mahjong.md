@@ -1,13 +1,15 @@
-+++
-title = "Mahjong"
-quicktime = "mahjong.mov"
-director_last = "Yimou"
-source = "2000 MGM Home Entertainment"
-length = "1:06"
-clipterms = [ "Diegetic Sound", "Mise-en-Scène",]
-year = "1991"
-date = "2015-03-20T11:36:05+01:00"
-commentary = ""
-film = "Raise the Red Lantern"
-director_first = "Zhang"
-+++
+---
+clipterms:
+- Diegetic Sound
+- "Mise-en-Sc\xE8ne"
+commentary: ''
+date: '2015-03-20T11:36:05+01:00'
+director_first: Zhang
+director_last: Yimou
+film: Raise the Red Lantern
+length: '1:06'
+quicktime: mahjong.mov
+source: 2000 MGM Home Entertainment
+title: Mahjong
+year: '1991'
+---

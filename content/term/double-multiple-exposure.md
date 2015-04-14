@@ -1,8 +1,8 @@
-+++
-title = "Double (Multiple) Exposure"
-term = "double-multiple-exposure"
-date = "2015-03-20T13:28:58+01:00"
-+++
+---
+date: '2015-03-20T13:28:58+01:00'
+term: double-multiple-exposure
+title: Double (Multiple) Exposure
+---
 
 Double exposure is the superimposition of two images, one over the
 other, which results from exposing the same film twice. <!--more-->This

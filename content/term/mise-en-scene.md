@@ -1,8 +1,8 @@
-+++
-title = "Mise-en-Scène"
-term = "mise-en-scene"
-date = "2015-03-20T13:29:02+01:00"
-+++
+---
+date: '2015-03-20T13:29:02+01:00'
+term: mise-en-scene
+title: "Mise-en-Sc\xE8ne"
+---
 
 Literally translated as "staging in action," mise-en-scène originated
 in the theater and is used in film to refer to everything that goes

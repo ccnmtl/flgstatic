@@ -1,8 +1,8 @@
-+++
-title = "Voice-Over"
-term = "voice-over"
-date = "2015-03-20T13:29:05+01:00"
-+++
+---
+date: '2015-03-20T13:29:05+01:00'
+term: voice-over
+title: Voice-Over
+---
 
 Voice-over is dialogue, usually narration, that comes from an unseen,
 offscreen voice, character, or narrator. <!--more-->It is an example of

@@ -1,13 +1,14 @@
-+++
-title = "Ping Pong Game"
-quicktime = "ping_pong_game.mov"
-director_last = "Tati"
-source = "2001 Criterion Collection"
-length = "0:32"
-clipterms = [ "Sound",]
-year = "1953 "
-date = "2015-03-20T11:37:25+01:00"
-commentary = ""
-film = "Mr. Hulot's Holiday"
-director_first = "Jacques"
-+++
+---
+clipterms:
+- Sound
+commentary: ''
+date: '2015-03-20T11:37:25+01:00'
+director_first: Jacques
+director_last: Tati
+film: Mr. Hulot's Holiday
+length: 0:32
+quicktime: ping_pong_game.mov
+source: 2001 Criterion Collection
+title: Ping Pong Game
+year: '1953 '
+---

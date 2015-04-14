@@ -1,8 +1,8 @@
-+++
-title = "Color Film"
-term = "color-film"
-date = "2015-03-20T13:28:56+01:00"
-+++
+---
+date: '2015-03-20T13:28:56+01:00'
+term: color-film
+title: Color Film
+---
 
 Color film has been a possibility since the beginning of
 cinema. Technical problems and economic circumstances early on meant
@@ -86,4 +86,3 @@ taking place in Mexico and metallic blue for scenes taking place in
 Ohio.
 
 {{< embed_clip "Mexico/Ohio" >}}
-

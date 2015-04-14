@@ -1,8 +1,8 @@
-+++
-title = "Camera Angle"
-term = "camera-angle"
-date = "2015-03-20T13:28:36+01:00"
-+++
+---
+date: '2015-03-20T13:28:36+01:00'
+term: camera-angle
+title: Camera Angle
+---
 
 Camera angle refers to where the camera is placed in relation to the
 subject of the image. In general, the camera is placed approximately
