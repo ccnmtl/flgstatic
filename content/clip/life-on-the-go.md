@@ -2,7 +2,8 @@
 clipterms = ["Camera Movement", "Montage"]
 commentary = ""
 date = "2015-02-03T11:29:34+01:00"
-director = "Dziga Vertov"
+director_last = "Vertov"
+director_first = "Dziga"
 film = "The Man With the Movie Camera"
 length = "1:35"
 source = "1996 Image Entertainment"

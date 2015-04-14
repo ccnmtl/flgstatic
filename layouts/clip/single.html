@@ -38,7 +38,7 @@ height = height +16; autoplay="false"
 
 <table>
 <tr><th>Film</th><td>{{.Params.film}}, {{.Params.year}}</td></tr>
-<tr><th>Director</th><td>{{.Params.director}}</td></tr>
+<tr><th>Director</th><td>{{if .Params.director}}{{.Params.director}}{{else}}{{.Params.director_first}} {{.Params.director_last}}{{end}}</td></tr>
 <tr><th>Source</th><td>{{.Params.source}}</td></tr>
 </table>
 

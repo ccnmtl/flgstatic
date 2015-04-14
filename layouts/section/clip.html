@@ -6,14 +6,15 @@
 <tr>
 <th>Sequence</th>
 <th>Film</th>
-<th>Directory</th>
+<th>Director</th>
 <th>Year</th>
 <tr>
 {{ range .Data.Pages.ByTitle }}
 <tr>
 <td><a href="{{.Permalink}}">{{ .Title }}</a> ({{.Params.length}})</td>
 <td>{{ .Params.film }}</td>
-<td>{{ .Params.director }}</td>
+<td>{{ if .Params.director }}{{.Params.director}}{{else}}{{ .Params.director_last }},
+	{{.Params.director_first}}{{ end }}</td>
 <td>{{ .Params.year }}</td>
 </tr>
 {{ end }}

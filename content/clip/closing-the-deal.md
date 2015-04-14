@@ -1,12 +1,13 @@
 +++
 title = "Closing the Deal"
-commentary = ""
-date = "2015-03-20T11:35:59+01:00"
-director = "Ulmer, Edgar G"
-film = "Detour"
-length = "0:52"
-source = "2000 Image Entertainment"
-clipterms = ["Rear Projection"]
 quicktime = "closing_the_deal.mov"
+director_last = "Ulmer"
+source = "2000 Image Entertainment"
+length = "0:52"
+clipterms = [ "Rear Projection",]
 year = " 1945"
+date = "2015-03-20T11:35:59+01:00"
+commentary = ""
+film = "Detour"
+director_first = "Edgar G"
 +++

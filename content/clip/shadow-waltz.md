@@ -2,7 +2,8 @@
 clipterms = ["Camera Movement"]
 commentary = ""
 date = "2015-02-03T11:32:32+01:00"
-director = "Mervyn LeRoy"
+director_last = "LeRoy"
+director_first = "Mervyn"
 film = "Gold Diggers of 1933"
 length = "0:20"
 source = "1993 Key Video"

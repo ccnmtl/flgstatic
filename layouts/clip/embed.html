@@ -45,7 +45,7 @@ height = height +16; autoplay="false"
 <dt>Film</dt>
 <dd>{{.Params.film}}, {{.Params.year}}</dd>
 <dt>Director</dt>
-<dd>{{.Params.director}}</dd>
+<dd>{{ if .Params.director }} {{.Params.director}}{{ else }}{{.Params.director_first}} {{.Params.director_last}}{{end}}</dd>
 <dt>Source</dt>
 <dd>{{.Params.source}}
 <dt>Related Term(s)</dt>

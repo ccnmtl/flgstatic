@@ -1,12 +1,13 @@
 +++
 title = "Massing the Troops"
-commentary = ""
-date = "2015-03-20T11:36:06+01:00"
-director = "Gance, Abel "
-film = "Napoléon"
-length = "0:46"
-source = "1981 MCA Home Video"
-clipterms = ["Split Screen"]
 quicktime = "massing_the_troops.mov"
+director_last = "Gance"
+source = "1981 MCA Home Video"
+length = "0:46"
+clipterms = [ "Split Screen",]
 year = "1927"
+date = "2015-03-20T11:36:06+01:00"
+commentary = ""
+film = "Napoléon"
+director_first = "Abel"
 +++

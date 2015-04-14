@@ -2,7 +2,8 @@
 clipterms = ["Camera Movement"]
 commentary = ""
 date = "2015-02-03T11:21:59+01:00"
-director = "G.W. \"Billy\" Blitzer"
+director_first = "G.W. \"Billy\""
+director_last = "Blitzer"
 film = "Georgetown Loop (Colorado)"
 length = "3:00"
 source = "2002 Kino Int. Corp"

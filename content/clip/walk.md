@@ -1,12 +1,13 @@
 +++
 title = "Walk"
-commentary = ""
-date = "2015-03-20T11:37:30+01:00"
-director = "Ming-liang, Tsai"
-film = "Goodbye, Dragon Inn"
-length = "0:43"
-source = "2005 Fox Lorber Video"
-clipterms = ["Deep Focus","Depth of Field"]
 quicktime = "walk.mov"
+director_last = "Ming-liang"
+source = "2005 Fox Lorber Video"
+length = "0:43"
+clipterms = [ "Deep Focus", "Depth of Field",]
 year = "2003"
+date = "2015-03-20T11:37:30+01:00"
+commentary = ""
+film = "Goodbye, Dragon Inn"
+director_first = "Tsai"
 +++
