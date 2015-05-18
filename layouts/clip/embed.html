@@ -2,23 +2,15 @@
 <div class="media">
 <div class="media-left">
 {{ if .Params.mp4_orig }}
-<video id="vid">
+<video id="vid" class="video-js vjs-default-skin" controls
+ preload="auto" width="640" height="264"
+  poster="really-cool-video-poster.jpg" data-setup='{}'>
    <source src="{{.Params.mp4_orig}}" type="video/mp4">
 {{ if .Params.mp4_comment }}
    <source src="{{.Params.mp4_comment}}" type="video/mp4">
 {{ end }}
 </video><br />
 
-<script>
-  // convert video tag to mediaelement player
-  $('video').mediaelementplayer({
-    // Hide controls when playing and mouse is not over the video
-    alwaysShowControls: false,
-    // the order of controls you want on the control bar (and other plugins below)
-    features: ['playpause','progress','current','duration','tracks','volume','fullscreen'],                     
-  });
-</script>
-  
 <button id="play">play</button>
 <button id="switch">switch</button>
 

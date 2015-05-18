@@ -9,14 +9,14 @@
     <link rel="canonical" href="{{ .Permalink }}">
     {{ if .RSSlink }}<link href="{{ .RSSlink }}" rel="alternate" type="application/rss+xml" title="{{ .Title }}" />{{ end }}
 
+<script src="//code.jquery.com/jquery-2.1.4.min.js"></script>
 <link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css"/>
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
 
-<script src="/mediaelement/jquery.js"></script>
-<script src="/mediaelement/mediaelement-and-player.min.js"></script>
-<link rel="stylesheet" href="/mediaelement/mediaelementplayer.css" />
+<link href="http://vjs.zencdn.net/4.12/video-js.css" rel="stylesheet">
+<script src="http://vjs.zencdn.net/4.12/video.js"></script>
 
-    {{ partial "head_includes.html" . }}
+   {{ partial "head_includes.html" . }}
 </head>
 <body lang="en">
 
