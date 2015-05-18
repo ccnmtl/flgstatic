@@ -9,6 +9,16 @@
 {{ end }}
 </video><br />
 
+<script>
+  // convert video tag to mediaelement player
+  $('video').mediaelementplayer({
+    // Hide controls when playing and mouse is not over the video
+    alwaysShowControls: false,
+    // the order of controls you want on the control bar (and other plugins below)
+    features: ['playpause','progress','current','duration','tracks','volume','fullscreen'],                     
+  });
+</script>
+  
 <button id="play">play</button>
 <button id="switch">switch</button>
 
