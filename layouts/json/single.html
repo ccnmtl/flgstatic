@@ -1,0 +1,19 @@
+[{{ range $index, $page := .Site.Pages }}{{ if eq $page.Type "clip" }}{{ if $index }},{{ end }}
+{
+   "type": "{{$page.Type}}",
+   "url": "{{$page.Permalink}}",
+   "title": "{{$page.Title}}",
+   "film": "{{$page.Params.film}}",
+   "director_first": "{{$page.Params.director_first}}",
+   "director_last": "{{$page.Params.director_last}}",
+   "source": "{{$page.Params.source}}",
+   "year": "{{$page.Params.year}}",
+   "length": "{{$page.Params.length}}",
+   "clipterms": [{{ range $ctindex, $term := $page.Params.clipterms }}{{ if $ctindex }}, {{ end }}"{{ $term }}"{{ end }}]
+}{{ end }}{{ if eq $page.Type "term" }}{{ if $index }},{{ end }}
+{
+   "type": "{{$page.Type}}",
+   "url": "{{$page.Permalink}}",
+   "title": "{{$page.Title}}",
+   "content": "{{ $page.PlainWords }}"
+}{{ end }}{{ end }}]
