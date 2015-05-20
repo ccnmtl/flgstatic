@@ -9,6 +9,9 @@ index.ref('url');
 var data = {};
 $.getJSON('/js/all.json').done(function(item) {
     item.forEach(function(d) {
+        if (d.type === 'clip') {
+            d.director = d['director_first'] + ' ' + d['director_last'];
+        }
         index.add(d);
         data[d.url] = d;
     });
