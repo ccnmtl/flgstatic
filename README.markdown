@@ -81,3 +81,9 @@ Templates are in the `layouts` directory. Hugo templating is very
 powerful but not always intuitive. You will need to spend some quality
 time with the Hugo documentation to figure out which templates
 correspond to which pages and how they all fit together.
+
+### Templates
+
+* `layouts/page/single.html` is for generic pages, which exclude individual term and clip.
+* `layouts/term/single.html` is for individual term.
+* `layouts/clip/single.html` is for individual clip.
