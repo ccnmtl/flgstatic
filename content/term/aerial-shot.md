@@ -2,6 +2,8 @@
 date: '2015-03-20T13:28:35+01:00'
 term: aerial-shot
 title: Aerial Shot
+relatedterms:
+- Establishing Shot
 ---
 
 An aerial shot is typically made from a helicopter or created with
