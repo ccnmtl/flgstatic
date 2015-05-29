@@ -3,6 +3,37 @@
 
 <h1>{{.Title}}</h1>
 
+        <div class="row">
+          <div class="col-md-9">
 {{.Content}}
 
+          </div>
+          <div class="col-md-3">
+          <hr class="visible-xs visible-sm" />
+
+            <div class="widget-share">
+            <h4>Share This</h4>
+            <ul class="widget-share-icons clearfix">
+                <li><span class="widget-share-icon share-facebook"><a class="demo-popover" href="javascript://" data-container="body" data-toggle="popover" data-placement="bottom" data-content="Facebook sharing API will be displayed on screen."></a></span></li>
+                <li><span class="widget-share-icon share-twitter"><a class="demo-popover" href="javascript://" data-container="body" data-toggle="popover" data-placement="bottom" data-content="Twitter sharing API will be displayed on screen."></a></span></li>
+                <li><span class="widget-share-icon share-googleplus"><a class="demo-popover" href="javascript://" data-container="body" data-toggle="popover" data-placement="bottom" data-content="Google+ sharing API will be displayed on screen."></a></span></li>
+                <li><span class="widget-share-icon share-email"><a class="demo-popover" href="javascript://" data-container="body" data-toggle="popover" data-placement="bottom" data-content="Email API will be displayed on screen."></a></span></li>
+                <li><span class="widget-share-icon share-url"><a class="demo-popover" href="javascript://" data-container="body" data-toggle="popover" data-placement="bottom" data-content="URL API will be displayed on screen."></a></span></li>
+            </ul>
+            </div>
+
+          <hr class="visible-xs visible-sm" />
+
+{{ if .Params.relatedterms }}
+<div class="widget-related-terms">
+    <h4>Explore Related Terms</h4>
+    <ul>
+    {{ range .Params.relatedterms }}<li><a href="/term/{{ . | urlize | lower}}/">{{ . }}</a></li>{{ end }}
+    </ul>
+</div>
+{{ end }}
+
+
+          </div>
+        </div>
 {{ partial "footer.html" . }}
