@@ -16,7 +16,7 @@ The first photoplays generally had no cutting, owing to the fact that
 they were single-reel films; once filming began, you could not stop
 until the film ran out.
 
-## Parallel Action and Montage
+### Parallel Action and Montage
 
 Some of the earliest forays into basic editing occurs in the work of
 Edwin Porter, in particular, *The Life of the American Fireman* (1903)
@@ -40,7 +40,7 @@ creates suspense through montage.
 
 {{% embed_clip "There's a Bomb in the Package" %}}
 
-## Continuity Editing
+### Continuity Editing
 
 The style of editing that would become pervasive in Hollywood during
 the 1930s and '40s is known as invisible cutting, or continuity
@@ -54,7 +54,7 @@ editing, and specifically of [eye-line match](../eye-line-match/).
 
 {{% embed_clip "Funeral" %}}
 
-## Post-War Development
+### Post-War Development
 
 Since the Second World War, individual movements and new technical
 innovations have led to new changes in editing styles--for instance,

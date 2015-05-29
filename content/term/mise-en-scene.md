@@ -12,7 +12,7 @@ set design and the visual environment, and [sound](../sound/).
 
 <!--more-->
 
-## Early Cinema
+### Early Cinema
 
 Early cinema's finished products were often closer to stage dramas,
 with a static camera stringing together a series of narrative
@@ -32,7 +32,7 @@ plays in mise-en-scène.
 
 {{< embed_clip "Entering the Bedroom" >}}
 
-## Hollywood Styles
+### Hollywood Styles
 
 In Hollywood during the 1930s and '40s, the style and look of a film
 could easily be associated with a particular studio. Vincente
@@ -50,7 +50,7 @@ escape and the state of being on the run.
 
 {{< embed_clip "Trapped!" >}}
 
-## International Styles
+### International Styles
 
 There are numerous interesting examples of mise-en-scène throughout
 world cinema. Here, in a scene from Youssef Chahine's 1956 film <i>Cairo
@@ -65,7 +65,7 @@ intricate use of mise-en-scène that brings together an elaborate
 
 {{< embed_clip "Mahjong" >}}
 
-## Mise-en-scène and Realism
+### Mise-en-scène and Realism
 
 Because mise-en-scène is often focused on the composition of the
 individual frame, scenes that rely less on [editing](../editing/) are

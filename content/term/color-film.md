@@ -11,7 +11,7 @@ industry.
 
 <!--more-->
 
-## Early Color
+### Early Color
 
 The earliest examples of color film were hand-colored, frame by frame,
 as seen in Segundo de Chomon's The Golden Beetle (1907).
@@ -42,7 +42,7 @@ stock, whose soundtrack areas were not affected by the dyeing
 process. However, it was decided that filming with a color film stock
 made more sense than converting black-and-white images to color.
 
-## Technicolor
+### Technicolor
 
 Technicolor was first introduced in the mid-1920s. It was a two-color
 process, in which two filmstrips--one red and one green--were pasted
@@ -61,7 +61,7 @@ or artificial light.
 
 {{< embed_clip "Sad News" >}}
 
-## Further Advancements and Aesthetic Innovations
+### Further Advancements and Aesthetic Innovations
 
 By the early 1950s, Eastman Color had replaced Technicolor as a
 negative source, owing to the convenience of shooting a single
