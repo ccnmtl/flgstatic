@@ -2,13 +2,24 @@
 date: '2015-02-03T11:18:31+01:00'
 term: camera-movement
 title: Camera Movement
+relatedterms:
+- Circular Pan
+- Crane Shot
+- Dolly (Dolly Shot)
+- Handheld Shot
+- Pan Shot
+- Steadicam Shot
+- Swish Pan
+- Tracking (Trucking) Shot
+- Virtual Camera Movement
+- Zoom Shot
 ---
 
 Camera movement refers to the actual or perceived physical movement of the camera apparatus through space. At its most basic level, camera movement creates a sensation in the spectator that he or she is moving through space.
 
 <!--more-->
 
-## Early Development
+### Early Development
 
 While it would be impossible to cite with any certainty the first instance of camera movement in film history, the first notable application of this technique can be seen in the work of the Lumière cameraman Eugenio Promio, who at various times mounted his camera on a moving train, a streetcar, an automobile, and a Venetian gondola. By 1900, cameras could also be mounted on swivel heads, which led to the increased use of pan, or panoramic, shots.
 
@@ -23,7 +34,7 @@ often include one of these "effect sequences," as The Georgetown Loop
 
 {{< embed_clip "Georgetown Loop (Colorado)" >}}
 
-## Rise of Narrative
+### Rise of Narrative
 
 Although camera movement was never completely ignored as a formal
 option in silent film, as a major technique for creative expression or
@@ -38,7 +49,7 @@ interesting use of camera movement.
 
 {{% embed_clip "Life on the Go" %}}
 
-## Transition to Sound
+### Transition to Sound
 
 The transition to sound cinema at first required the camera to remain
 motionless, so that it did not add extraneous elements to the
@@ -60,7 +71,7 @@ large field for the camera to explore.
 
 {{% embed_clip "Last, Great Party" %}}
 
-## Post-War Period
+### Post-War Period
 
 Partially as a result of newsreel cinematography, camera bodies became lighter and smaller after the Second World War, so that cameramen and -women could easily hold the camera and continue filming while following people or the development of an event. By the late 1950s, this ability inspired many filmmakers to shoot their films totally with handheld cameras cameras. The rise of the cinema verité documentary movement was also an important catalyst for promoting the handheld style, which figured prominently in the work of directors such as Jean-Luc Godard, Nagisa Oshima, and Glauber Rocha.
 
@@ -75,7 +86,7 @@ texture of ordinary handheld shots.
 
 {{% embed_clip "Copacabana" %}}
 
-## Today
+### Today
 
 Today, the long-take, moving camera style pioneered by filmmakers such as Welles and Renoir can be seen on television shows such as ER, giving them at times an almost documentary feeling that adds to the authenticity of otherwise staged situations.
 
