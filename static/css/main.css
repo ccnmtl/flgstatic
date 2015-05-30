@@ -67,8 +67,8 @@ body {
     margin: 0 10px 0 0;
     padding: 0;
     border: 0;
-    width: 36px;
-    height: 36px;
+    width: 32px;
+    height: 32px;
     display: block;
     float: left;
 }
@@ -77,21 +77,29 @@ body {
     margin: 0;
     padding: 0;
     border: 0;
-    width: 36px;
-    height: 36px;
+    width: 32px;
+    height: 32px;
     display: block;
 }
 
 .share-facebook {
-    background: transparent url('/img/sprite-sharetool.png') 0 0 no-repeat;
+    background: transparent url('/img/sprite-page-sharetool.png') 0 0 no-repeat;
 }
 
 .share-twitter {
-    background: transparent url('/img/sprite-sharetool.png') -50px 0 no-repeat;
+    background: #c00 url('/img/sprite-page-sharetool.png') -42px 0 no-repeat;
 }
 
 .share-googleplus {
-    background: transparent url('/img/sprite-sharetool.png') -100px 0 no-repeat;
+    background: #c00 url('/img/sprite-page-sharetool.png') -84px 0 no-repeat;
+}
+
+.share-email {
+    background: #c00 url('/img/sprite-page-sharetool.png') -126px 0 no-repeat;
+}
+
+.share-url {
+    background: #c00 url('/img/sprite-page-sharetool.png') -168px 0 no-repeat;
 }
 
 
@@ -143,10 +151,6 @@ body {
 }
 
 .search-box:invalid ~ .close-icon { display: none; }
-
-.share-email {
-    background: transparent url('/img/sprite-sharetool.png') -150px 0 no-repeat;
-}
 
 .r480 {
     position: relative;

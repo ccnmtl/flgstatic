@@ -1,4 +1,5 @@
 ---
 title: ""
 term: ""
+relatedterms: []
 ---

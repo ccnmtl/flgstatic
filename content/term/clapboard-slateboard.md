@@ -8,8 +8,6 @@ title: Clapboard (Slateboard)
 src="http://ccnmtl.columbia.edu/projects/filmglossary/web/pics/clapboard.jpg"
 />
 
-<b>Clapboard</b>
-
 Before each take, a clapboard appears in front of the camera, with the
 number of the [take](../take/) written on it. In addition, the number
 of the take is spoken aloud and recorded onto the soundtrack. Both the

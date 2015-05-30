@@ -4,3 +4,4 @@ title = "Columbia Film Language Glossary"
 MetaDataFormat = "yaml"
 [taxonomies]
   clipterm = "clipterms"
+  relatedterm = "relatedterms"

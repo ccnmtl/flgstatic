@@ -11,7 +11,7 @@ which an object appears relatively large and in detail.
 
 <!--more-->
 
-## Early Development
+### Early Development
 
 In the early days of cinema, close-ups were considered difficult for
 audiences to adjust to. In films such as The Great Train Robbery
@@ -22,7 +22,7 @@ beginning or the end of the film, for special effect.
 
 {{< embed_clip "Final Shot" >}}
 
-## D.W. Griffith
+### D.W. Griffith
 
 D. W. Griffith is acknowledged as an early master of the integration
 of the close-up into the filmed story. In Musketeers of Pig Alley
@@ -44,7 +44,7 @@ performance in The Lonely Villa (1909).
 
 {{< embed_clip "Broken Heart" >}}
 
-## Continued Development
+### Continued Development
 
 The close-up ushered in new ideas about the possible representation of
 interior mental states, and was used as a syntactical element to

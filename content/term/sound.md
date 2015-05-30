@@ -7,7 +7,7 @@ title: Sound
 Sound is the audio portion of a film. <!--more-->This includes
 [dialogue](../dialogue/), [music](../music/), and effects.
 
-## Early Sound
+### Early Sound
 
 There were attempts to add sound to film at the very beginning of
 cinema. The earliest surviving sound film has been identified as
@@ -30,7 +30,7 @@ piano. Other common methods of adding sound to silent cinema involved
 placing people or objects behind the screen, to make noises at
 specific moments.
 
-## The Modern Sound Era
+### The Modern Sound Era
 
 The birth of the "modern" sound era is traced to 1927, with the
 release of the Warner Bros. film The Jazz Singer. In this film, only
@@ -53,7 +53,7 @@ genres in which the richness of spoken dialogue was clear.
 
 {{< embed_clip "Firefly and Teasdale" >}}
 
-## Technical Advancements and Aesthetic Innovations
+### Technical Advancements and Aesthetic Innovations
 
 Sound technology wouldn't advance significantly until the 1950s, with
 the advent of magnetic tape as the principal means of recording
@@ -82,7 +82,7 @@ their thoughts.
 
 {{< embed_clip "Angels in the Library" >}}
 
-## Recent Technical Advancements
+### Recent Technical Advancements
 
 More recent developments in technical sound include Dolby, which
 reduces background noise, and THX, which allowed sound systems in
