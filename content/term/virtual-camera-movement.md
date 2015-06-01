@@ -2,6 +2,8 @@
 date: '2015-02-02T17:00:36+01:00'
 term: virtual-camera-movement
 title: Virtual Camera Movement
+relatedterms:
+- Camera Movement
 ---
 
 Virtual camera movement refers to the creation of the perceptual sense

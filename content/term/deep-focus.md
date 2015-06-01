@@ -2,6 +2,12 @@
 date: '2015-03-20T13:28:57+01:00'
 term: deep-focus
 title: Deep Focus
+relatedterms:
+- Depth of Field
+- Long Take
+- Mise-en-Scene
+- Wide-Angle Lens
+- Wide-Angle Shot
 ---
 
 Deep focus is a style or technique of

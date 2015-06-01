@@ -2,6 +2,8 @@
 date: '2015-03-20T13:29:03+01:00'
 term: point-of-view
 title: Point of View
+relatedterms:
+- Eye-Line Match
 ---
 
 Point of view (POV) is a variation of eye-line match. The two are

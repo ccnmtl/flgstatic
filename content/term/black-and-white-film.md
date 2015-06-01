@@ -2,6 +2,10 @@
 date: '2015-03-20T13:28:35+01:00'
 term: black-and-white-film
 title: Black-and-White Film
+relatedterms:
+- Cinematography
+- Color Film
+- Lighting
 ---
 
 Black-and-white film contains an emulsion that, when processed,

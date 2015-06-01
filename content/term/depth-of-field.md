@@ -2,6 +2,13 @@
 date: '2015-03-20T13:28:57+01:00'
 term: depth-of-field
 title: Depth of Field
+relatedterms:
+- Cinematography
+- Deep Focus
+- Long Take
+- Mise-en-Scene
+- Wide-Angle Lens
+- Wide-Angle Shot
 ---
 
 Depth of field is the area, range of distance, or field (between the

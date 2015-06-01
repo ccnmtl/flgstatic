@@ -2,6 +2,9 @@
 date: '2015-02-03T11:56:59+01:00'
 term: steadicam-shot
 title: Steadicam Shot
+relatedterms:
+- Camera Movement
+- Handheld Shot
 ---
 
 A Steadicam shot is a variant on the [handheld

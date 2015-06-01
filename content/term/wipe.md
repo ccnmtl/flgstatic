@@ -2,6 +2,9 @@
 date: '2015-03-20T13:29:06+01:00'
 term: wipe
 title: Wipe
+relatedterms:
+- Editing
+- Split Screen
 ---
 
 Although contemporary filmgoers are familiar with

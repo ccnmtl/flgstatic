@@ -2,6 +2,8 @@
 date: '2015-03-20T13:28:59+01:00'
 term: establishing-shot
 title: Establishing Shot
+relatedterms:
+- Aerial Shot
 ---
 
 An establishing shot is a long shot at the start of a scene (or

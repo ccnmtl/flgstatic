@@ -2,6 +2,8 @@
 date: '2015-03-20T13:28:58+01:00'
 term: dolly-dolly-shot
 title: Dolly (Dolly Shot)
+relatedterms:
+- Camera Movement
 ---
 
 A dolly is a mobile platform on wheels with a camera, which can be

@@ -2,6 +2,10 @@
 date: '2015-03-20T13:28:36+01:00'
 term: chiaroscuro
 title: Chiaroscuro
+relatedterms:
+- Black-and-White Film
+- Cinematography
+- Lighting
 ---
 
 Derived from the Italian words for "bright" (chiaro) and "dark"

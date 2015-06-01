@@ -2,6 +2,8 @@
 date: '2015-03-20T13:28:59+01:00'
 term: fade
 title: Fade
+relatedterms:
+- Editing
 ---
 
 The fade is a means of gradually beginning or ending a scene, and is

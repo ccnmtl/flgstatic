@@ -2,6 +2,8 @@
 date: '2015-03-20T13:29:00+01:00'
 term: frames-per-second
 title: Frames-per-Second
+relatedterms:
+- Slow Motion
 ---
 
 Frames-per-second is the rate at which film is exposed in a

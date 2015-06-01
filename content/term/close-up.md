@@ -2,6 +2,8 @@
 date: '2015-03-20T13:28:56+01:00'
 term: close-up
 title: Close-Up
+relatedterms:
+- Cinematography
 ---
 
 A close-up is a shot in which a person's face fills most of the

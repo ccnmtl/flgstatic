@@ -2,6 +2,8 @@
 date: '2015-03-20T13:29:02+01:00'
 term: pan-shot
 title: Pan Shot
+relatedterms:
+- Camera Movement
 ---
 
 A pan shot is achieved with a camera mounted on a swivel head so that

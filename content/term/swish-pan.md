@@ -2,6 +2,9 @@
 date: '2015-03-20T13:29:04+01:00'
 term: swish-pan
 title: Swish Pan
+relatedterms:
+- Camera movement
+- Editing
 ---
 
 A swish pan looks like a blur as one scene changes to another--the

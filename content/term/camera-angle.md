@@ -2,6 +2,11 @@
 date: '2015-03-20T13:28:36+01:00'
 term: camera-angle
 title: Camera Angle
+relatedterms:
+- Canted Angle (Dutch Angle)
+- Cinematography
+- High-Angle Shot
+- Low-Angle Shot
 ---
 
 Camera angle refers to where the camera is placed in relation to the

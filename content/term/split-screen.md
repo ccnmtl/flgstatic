@@ -2,6 +2,8 @@
 date: '2015-03-20T13:29:04+01:00'
 term: split-screen
 title: Split Screen
+relatedterms:
+- Wipe
 ---
 
 Split screen is the combination of two or more scenes films separately

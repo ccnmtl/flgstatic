@@ -2,6 +2,10 @@
 date: '2015-03-20T13:28:56+01:00'
 term: color-film
 title: Color Film
+relatedterms:
+- Black-and-White Film
+- Cinematography
+- Lighting
 ---
 
 Color film has been a possibility since the beginning of

@@ -2,6 +2,8 @@
 date: '2015-03-20T13:28:57+01:00'
 term: dialogue
 title: Dialogue
+relatedterms:
+- Sound
 ---
 
 Dialogue is speech delivered by or between characters. <!--more-->With the advent

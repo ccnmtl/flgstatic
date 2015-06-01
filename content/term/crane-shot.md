@@ -2,6 +2,9 @@
 date: '2015-03-20T13:28:56+01:00'
 term: crane-shot
 title: Crane Shot
+relatedterms:
+- Aerial Shot
+- Camera Movement
 ---
 
 <img src="http://ccnmtl.columbia.edu/projects/filmglossary/web/pics/cranelean.jpg" />

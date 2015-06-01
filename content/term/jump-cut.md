@@ -2,6 +2,8 @@
 date: '2015-02-03T11:54:14+01:00'
 term: jump-cut
 title: Jump Cut
+relatedterms:
+- Editing
 ---
 
 A jump cut is an editing technique in which some frames are taken out

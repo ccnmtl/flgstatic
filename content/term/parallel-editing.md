@@ -2,6 +2,8 @@
 date: '2015-03-20T13:29:02+01:00'
 term: parallel-editing
 title: Parallel Editing
+relatedterms:
+- Editing
 ---
 
 Parallel editing is a technique whereby cutting occurs between two or
