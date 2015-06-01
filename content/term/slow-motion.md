@@ -2,6 +2,8 @@
 date: '2015-03-20T13:29:03+01:00'
 term: slow-motion
 title: Slow Motion
+relatedterms:
+- Frames-per-Second
 ---
 
 Changing the frames-per-second when shooting a film can result in a

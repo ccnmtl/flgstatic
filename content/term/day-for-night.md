@@ -2,6 +2,8 @@
 date: '2015-03-20T13:28:57+01:00'
 term: day-for-night
 title: Day for Night
+relatedterms:
+- Lighting
 ---
 
 Day for night refers to the creation of a night effect while shooting

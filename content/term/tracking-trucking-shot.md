@@ -2,6 +2,8 @@
 date: '2015-02-03T11:58:47+01:00'
 term: tracking-trucking-shot
 title: Tracking (Trucking) Shot
+relatedterms:
+- Camera Movement
 ---
 
 A tracking, or trucking, shot is one in which a camera is mounted on

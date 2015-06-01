@@ -2,6 +2,8 @@
 date: '2015-03-20T13:28:56+01:00'
 term: clapboard-slateboard
 title: Clapboard (Slateboard)
+relatedterms:
+- Take
 ---
 
 <img

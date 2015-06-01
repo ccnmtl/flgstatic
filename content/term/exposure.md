@@ -2,6 +2,8 @@
 date: '2015-03-20T13:28:59+01:00'
 term: exposure
 title: Exposure
+relatedterms:
+- Cinematography
 ---
 
 Exposure is the act of making film available to light so that an image

@@ -2,6 +2,8 @@
 date: '2015-03-20T13:29:05+01:00'
 term: voice-over
 title: Voice-Over
+relatedterms:
+- Sound
 ---
 
 Voice-over is dialogue, usually narration, that comes from an unseen,

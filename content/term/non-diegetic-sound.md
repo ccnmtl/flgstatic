@@ -2,6 +2,12 @@
 date: '2015-03-20T13:29:02+01:00'
 term: non-diegetic-sound
 title: Non-Diegetic Sound
+relatedterms:
+- Diegesis
+- Diegetic Sound
+- Sound
+- Soundtrack
+- Voice-Over
 ---
 
 Non-diegetic sound is sound whose origin is from outside the story

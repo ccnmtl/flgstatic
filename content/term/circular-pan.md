@@ -2,6 +2,8 @@
 date: '2015-03-20T13:28:56+01:00'
 term: circular-pan
 title: Circular Pan
+relatedterms:
+- Camera Movement
 ---
 
 Also known as a 360-degree [pan](../pan-shot/), a circular pan is a

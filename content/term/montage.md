@@ -2,6 +2,8 @@
 date: '2015-02-03T11:39:17+01:00'
 term: montage
 title: Montage
+relatedterms:
+- Editing
 ---
 
 Taken from the French word *monter*, meaning "to assemble," this process

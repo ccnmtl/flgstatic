@@ -2,6 +2,14 @@
 date: '2015-02-03T11:44:40+01:00'
 term: editing
 title: Editing
+relatedterms:
+- Eye-Line Match
+- Fade
+- Jump Cut
+- Montage
+- Parallel Editing
+- Swish Pan
+- Wipe
 ---
 
 Editing is the process of putting a film together--the selection and

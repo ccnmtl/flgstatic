@@ -2,6 +2,8 @@
 date: '2015-03-20T13:29:00+01:00'
 term: freeze-frame
 title: Freeze-Frame
+relatedterms:
+- Cinematography
 ---
 
 Freeze-frame is achieved when a single frame is repeatedly printed on a duplicate copy of the film.<!--more--> The image therefore appears frozen when projected.

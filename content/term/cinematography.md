@@ -2,6 +2,17 @@
 date: '2015-03-20T13:28:55+01:00'
 term: cinematography
 title: Cinematography
+relatedterms:
+- Black-and-White Film
+- Camera Angle
+- Camera Movement
+- Close-Up
+- Color Film
+- Frames-per-Second
+- Freeze-Frame
+- Lighting
+- Long Shot
+- Long Take
 ---
 
 Derived from the French word <i>cinématographe</i> coined by the Lumière

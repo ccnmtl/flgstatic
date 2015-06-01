@@ -2,6 +2,12 @@
 date: '2015-03-20T13:29:04+01:00'
 term: sound
 title: Sound
+relatedterms:
+- Dialogue
+- Diegetic Sound
+- Non-Diegetic Sound
+- Soundtrack
+- Voice-Over
 ---
 
 Sound is the audio portion of a film. <!--more-->This includes
