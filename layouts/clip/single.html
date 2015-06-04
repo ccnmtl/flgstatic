@@ -1,10 +1,10 @@
 {{ partial "header.html" . }}
 
-{{ if .Params.mp4_orig }}
+{{ if .Params.clip_original }}
 <video id="vid">
-   <source src="{{.Params.mp4_orig}}" type="video/mp4">
-{{ if .Params.mp4_comment }}
-   <source src="{{.Params.mp4_comment}}" type="video/mp4">
+   <source src="{{.Params.clip_original}}" type="video/mp4">
+{{ if .Params.clip_commentary }}
+   <source src="{{.Params.clip_commentary}}" type="video/mp4">
 {{ end }}
 </video><br />
 

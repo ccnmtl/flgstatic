@@ -1,59 +1,45 @@
-
-<div class="media">
-<div class="media-left">
-{{ if .Params.mp4_orig }}
-<video id="vid">
-   <source src="{{.Params.mp4_orig}}" type="video/mp4">
-{{ if .Params.mp4_comment }}
-   <source src="{{.Params.mp4_comment}}" type="video/mp4">
-{{ end }}
-</video><br />
-
-<button id="play">play</button>
-<button id="switch">switch</button>
-
-<script src="/js/srcswap.js"></script>
-
-
-{{ else }}
-
-<div id="movieplayer9949" align="center">
-<script type="text/javascript">
-var height = 256; var autoplay="false";
-      
-height = height +16; autoplay="false"
-//QT_WriteOBJECT('http://ccnmtl.columbia.edu/projects/filmglossary/mov/{{.Params.quicktime}}','320',height,'','href','http://ccnmtl.columbia.edu/projects/filmglossary/mov/{{.Params.quicktime}}','target','myself','scale','tofit','controller','true','kioskmode','true','autoplay',autoplay);
-</script>
-
-<div id="trigger9949" style="display:block" align="center">
-  <a href="http://ccnmtl.columbia.edu/projects/filmglossary/mov/{{.Params.quicktime}}" target="_blank" 
-    onclick="javascript:document.getElementById('movieplayer9949').style.display='block';document.getElementById('trigger9949').style.display='none';return false">
-    <img src="{{.Params.thumb}}" alt="Click to Play" width="320" height="256" 
-    border="0" /></a>
-</div>
-</div>
-{{ end }}
-</div>
-
-<div class="media-body">
-<h3 class="media-heading"><a href="{{.Permalink}}">{{.Title}}</a></h3>
-
-<p><i>{{.Params.length}}</i></p>
+<div class="widget-clip clearfix">
+    <h4 class="title">{{.Title}} ({{.Params.length}})</h4>
+    <a class="share-clip" href="javascript://" data-container="body" data-toggle="popover" data-placement="bottom" data-content="Will launch sharing options for this clip"></a>
+    <div class="video">
+        {{ if .Params.clip_original }}
+        <video id="vid" controls  poster="/img/shim.gif">
+            <source src="{{.Params.clip_original}}" type="video/mp4">
+        {{ if .Params.clip_commentary }}
+            <source src="{{.Params.clip_commentary}}" type="video/mp4">
+        {{ end }}
+        </video>
+        
+        <div class="controller_temp">
+        <button id="play">play</button>
+        <button id="switch">switch</button>
+        <script src="/js/srcswap.js"></script>
+        </div>
+        
+        {{ else }}
+        
+        <div class="placeholder-clip">
+        </div><!-- /.placeholder-clip -->
+        
+        {{ end }}
 
 
-<dl>
-<dt>Film</dt>
-<dd>{{.Params.film}}, {{.Params.year}}</dd>
-<dt>Director</dt>
-<dd>{{ if .Params.director }} {{.Params.director}}{{ else }}{{.Params.director_first}} {{.Params.director_last}}{{end}}</dd>
-<dt>Source</dt>
-<dd>{{.Params.source}}
-<dt>Related Term(s)</dt>
-<dd>
-<ul>
-{{ range .Params.clipterms }}<li><a href="/term/{{ . | urlize | lower}}/">{{ . }}</a></li>{{ end }}
-</ul>
-</dd>
-</dl>
-</div>
-</div>
+
+    </div><!-- /.video -->
+    <div class="data">
+        <div class="row">
+            <div class="film col-sm-6">
+                <b class="clip-field">Film:</b> <i>{{.Params.film}}</i>, {{.Params.year}}<br />
+                <b class="clip-field">Director:</b> {{ if .Params.director }} {{.Params.director}}{{ else }}{{.Params.director_first}} {{.Params.director_last}}{{end}}<br />
+                <b class="clip-field">Source:</b> {{.Params.source}}
+            </div>
+            <div class="commentator col-sm-6 clearfix">
+            &nbsp;
+            </div>
+        </div>
+        <div class="clip-related-terms">
+            <b class="clip-field">This clip appears in:</b>
+            {{ range $i, $e := .Params.clipterms }}{{if $i}}, {{end}}<a href="/term/{{ . | urlize | lower}}/">{{$e}}</a> {{ end }}
+        </div>
+    </div>
+</div><!-- /.widget-clip -->

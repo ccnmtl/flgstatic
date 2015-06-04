@@ -34,9 +34,97 @@ body {
     margin-top: 10px;
 }
 
+/* --- Clip widget embed in term page */
+
+.widget-clip {
+    position: relative;
+    margin: 30px auto;
+    padding: 10px;
+    border: 0;
+    background-color: #333;
+    width: 560px;
+}
+
+.widget-clip .share-clip {
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 40px;
+    width: 40px;
+    background: transparent url('/img/icon-share.png') center center no-repeat;
+}
+
+.widget-clip .title {
+    margin-top: 0;
+    padding: 0;
+    color: #fff;
+}
+
+.widget-clip .video {
+    background-color: #000;
+    padding: 30px;
+}
+
+.widget-clip .video video {
+     width: 480px; 
+    background: #ccc url('/img/button-play.png') no-repeat 0 0; 
+   display: block;
+    margin: auto;
+    border: 0;
+    padding: 0;
+}
+
+.widget-clip .controller_temp {
+    display: block;
+    margin: auto;
+    border: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.widget-clip .data {
+    margin: 10px 0 0 0;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: #fff;
+    background-color: #333;
+}
+
+.widget-clip .data .commentator .avatar {
+    height: 60px;
+    width: 60px;
+    float: left;
+}
+
+.widget-clip .data .commentator .bio {
+    margin-left: 70px;
+}
+
+.widget-clip .data .clip-related-terms {
+    margin: 20px 0 0 0;
+    font-size: 12px;
+}
+
+.widget-clip a {
+    color: #fff;
+}
+
 .clip-field {
     color: #999;
 }
+
+.placeholder-clip {
+    width: 480px;
+    height: 360px;
+    background: transparent url('/img/placeholder-clip.png') center center no-repeat;
+   display: block;
+    margin: auto;
+    border: 0;
+    padding: 0;
+}
+
+
+
 
 .widget-share {
     margin: 0 0 40px 0;
@@ -198,56 +286,3 @@ body {
     background: transparent url('/img/button-play.png') center center no-repeat;
 }
 
-.widget-clip {
-    position: relative;
-    margin: 30px 0;
-    padding: 10px;
-    border: 0;
-    background-color: #333;
-}
-
-.widget-clip .share-clip {
-    position: absolute;
-    top: 0;
-    right: 0;
-    height: 40px;
-    width: 40px;
-    background: transparent url('/img/icon-share.png') center center no-repeat;
-}
-
-.widget-clip .title {
-    margin-top: 0;
-    padding: 0;
-    color: #fff;
-}
-
-.widget-clip .video {
-    background-color: #000;
-}
-
-.widget-clip .data {
-    margin: 10px 0 0 0;
-    padding-top: 5px;
-    padding-bottom: 5px;
-    color: #fff;
-    background-color: #333;
-}
-
-.widget-clip .data .commentator .avatar {
-    height: 60px;
-    width: 60px;
-    float: left;
-}
-
-.widget-clip .data .commentator .bio {
-    margin-left: 70px;
-}
-
-.widget-clip .data .clip-related-terms {
-    margin: 20px 0 0 0;
-    font-size: 12px;
-}
-
-.widget-clip a {
-    color: #fff;
-}
