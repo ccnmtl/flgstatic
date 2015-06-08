@@ -3,16 +3,15 @@
     <a class="share-clip" href="javascript://" data-container="body" data-toggle="popover" data-placement="bottom" data-content="Will launch sharing options for this clip"></a>
     <div class="video">
         {{ if .Params.clip_original }}
-        <video id="vid" controls  poster="/img/shim.gif">
-            <source src="{{.Params.clip_original}}" type="video/mp4">
+        <video id="vid" controls>
         {{ if .Params.clip_commentary }}
             <source src="{{.Params.clip_commentary}}" type="video/mp4">
         {{ end }}
+            <source src="{{.Params.clip_original}}" type="video/mp4">
         </video>
         
         <div class="controller_temp">
-        <button id="play">play</button>
-        <button id="switch">switch</button>
+        <button id="switch" class="commentary-on"><span class="glyphicon glyphicon-comment" aria-hidden="true"></span>  <span id="text-label">Commentary is on</span></button>
         <script src="/js/srcswap.js"></script>
         </div>
         
