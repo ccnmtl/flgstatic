@@ -8,6 +8,10 @@ Aspect ratio refers to how the image appears on the screen based on
 how it was shot--the ratio of width (horizontal or top) to height
 (vertical or side) of a film frame, image, or screen.<!--more-->
 
+<div class="widget-image">
+    <img src="/img/assets/aspectratio.jpg" alt="Aspect Ratio samples" width="395" height="345" />
+</div>
+
 Dating back to Thomas Edison's equipment, 1.33:1 was for a long time
 the typical aspect ratio for film. The ratio 1.33:1, which was dubbed
 "Academy aperture" in 1932 by the Academy of Motion Picture Arts and
@@ -21,6 +25,3 @@ have an aspect ratio of 2.35:1, while Cinerama had a ratio of
 videos for wide-screen televisions usually have an aspect ratio of
 1.77:1 (or 16:9). Standard 35-mm. films have an aspect ratio of 1.85:1
 (normally 1.66:1 in Europe).
-
-
-<img src="http://ccnmtl.columbia.edu/projects/filmglossary/web/pics/aspectratio.jpg" alt="Aspect Ratio samples" width="395" height="345" border="0" />
