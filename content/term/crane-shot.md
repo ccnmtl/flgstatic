@@ -7,11 +7,12 @@ relatedterms:
 - Camera Movement
 ---
 
-<img src="http://ccnmtl.columbia.edu/projects/filmglossary/web/pics/cranelean.jpg" />
+<div class="widget-image">
+    <img src="/img/assets/cranelean.jpg" />
+</div>
 
 A crane shot is achieved by a camera mounted on a platform, which is connected to a mechanical arm that can lift the platform up, bring it down, or move it laterally across space. 
 
-<!--more-->
 
 {{< embed_clip "Elsie Bechmann" >}}
 
