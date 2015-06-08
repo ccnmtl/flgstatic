@@ -6,9 +6,9 @@ relatedterms:
 - Take
 ---
 
-<img
-src="http://ccnmtl.columbia.edu/projects/filmglossary/web/pics/clapboard.jpg"
-/>
+<div class="widget-image">
+    <img src="/img/assets/clapboard.jpg" />
+</div>
 
 Before each take, a clapboard appears in front of the camera, with the
 number of the [take](../take/) written on it. In addition, the number

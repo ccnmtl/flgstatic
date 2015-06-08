@@ -124,6 +124,22 @@ body {
 }
 
 
+/* --- Image asset widget embed in term page */
+
+.widget-image {
+    position: relative;
+    margin: 30px auto;
+    padding: 0;
+    border: 0;
+}
+
+.widget-image img {
+    margin: auto;
+    padding: 10px;
+    border: 15px solid #e0e0e0;
+    display: block;
+}
+
 
 
 .widget-share {
