@@ -1,13 +1,14 @@
 {{ partial "header.html" . }}
 
 {{ if .Params.clip_original }}
-<video id="vid" controls>
+<video id="vid">
    <source src="{{.Params.clip_original}}" type="video/mp4">
 {{ if .Params.clip_commentary }}
    <source src="{{.Params.clip_commentary}}" type="video/mp4">
 {{ end }}
 </video><br />
 
+<button id="play">play</button>
 <button id="switch">switch</button>
 
 <script src="/js/srcswap.js"></script>

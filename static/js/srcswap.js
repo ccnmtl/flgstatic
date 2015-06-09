@@ -4,12 +4,21 @@
    for (var s=0; s < v.children.length; s++) {
       sources.push(v.children[s].src);
    }
-   var buttonclass = ['commentary-on', 'commentary-off'];
-   var label = ['Commentary is on', 'Commentary is off'];
+   var labels = ['Original', 'Commentary'];
    var activeIdx = 0;
 
+   var p = document.getElementById('play');
+   p.addEventListener('click', function(event) {
+      if (v.paused) {
+         v.play();
+         p.innerHTML = 'pause';
+      } else {
+         v.pause();
+         p.innerHTML = 'play';
+      }
+   }, false);
+
    var b = document.getElementById('switch');
-   var tl = document.getElementById('text-label');
    b.addEventListener('click', function(event) {
         var inactiveIdx = (activeIdx + 1) % sources.length;
         var tc = v.currentTime;
@@ -23,7 +32,6 @@
            v.play();
         }
         activeIdx = inactiveIdx;
-        b.className = buttonclass[activeIdx];
-        tl.innerHTML = label[activeIdx];
+        b.innerHTML = labels[activeIdx] + ' (switch)';
    }, false);
 })();
