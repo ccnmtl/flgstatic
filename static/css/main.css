@@ -66,9 +66,9 @@ body {
 }
 
 .widget-clip .video video {
-     width: 480px; 
-    background: #ccc url('/img/button-play.png') no-repeat 0 0; 
-   display: block;
+    width: 480px;
+    height: 360px;
+    display: block;
     margin: auto;
     border: 0;
     padding: 0;
@@ -302,3 +302,10 @@ body {
     background: transparent url('/img/button-play.png') center center no-repeat;
 }
 
+.commentary-on {
+    color: green;
+}
+
+.commentary-off {
+    color: #999;
+}
