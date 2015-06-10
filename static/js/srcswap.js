@@ -3,7 +3,7 @@
     var sources = [];
     for (var s=0; s < v.children.length; s++) {
         sources.push(v.children[s].src);
-   }
+    }
     var labels = ['Commentary', 'Original'];
     var activeIdx = 0;
 
@@ -24,7 +24,7 @@
         var tc = v.currentTime;
         var paused = v.paused;
         v.src = sources[inactiveIdx];
-        v.addEventListener('loadeddata', function(){
+        v.addEventListener('loadeddata', function() {
             v.currentTime = tc;
         }, false);
         v.play();
