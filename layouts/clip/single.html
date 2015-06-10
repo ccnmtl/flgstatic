@@ -1,7 +1,7 @@
 {{ partial "header.html" . }}
 
 {{ if .Params.clip_original }}
-<video id="vid">
+<video id="vid" controls>
    <source src="{{.Params.clip_original}}" type="video/mp4">
 {{ if .Params.clip_commentary }}
    <source src="{{.Params.clip_commentary}}" type="video/mp4">
