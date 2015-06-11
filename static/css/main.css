@@ -213,7 +213,7 @@ body {
 
 .search-wrapper {
     width: 155px; /* Responsive definition required */
-    margin: 10px 0 0 10px;
+    margin: 12px 0 0 10px;
     padding: 0;
     border: 0;
 }
@@ -233,7 +233,7 @@ body {
        -moz-border-radius: 13px;
             border-radius: 13px;
     outline: 0;
-    font-size: 12px;
+    font-size: 13px;
 }
 
 .close-icon {
@@ -255,6 +255,89 @@ body {
 }
 
 .search-box:invalid ~ .close-icon { display: none; }
+
+#search-results {
+  position: absolute;
+  top: 25px;
+  left: 0;
+    min-height: 150px;
+  width: 350px;
+  z-index: 1060;
+  display: none;
+  padding: 1px;
+  padding-bottom: 10px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1.42857143;
+  text-align: left;
+  white-space: normal;
+  background-color: #fff;
+  -webkit-background-clip: padding-box;
+          background-clip: padding-box;
+  border: 1px solid #ccc;
+  border: 1px solid rgba(0, 0, 0, .2);
+  border-radius: 6px;
+  -webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, .2);
+          box-shadow: 0 5px 10px rgba(0, 0, 0, .2);
+  margin-top: 10px;
+  margin-left: -200px;
+}
+
+#search-results > .arrow,
+#search-results > .arrow:after {
+  display: block;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+}
+#search-results > .arrow {
+  border-width: 11px;
+}
+#search-results > .arrow:after {
+  content: "";
+  border-width: 10px;
+}
+#search-results > .arrow {
+  margin-top: -11px;
+  margin-left: 210px;
+  border-top-width: 0;
+  border-bottom-color: #e0e0e0;
+}
+#search-results > .arrow:after {
+  top: 1px;
+  margin-left: -10px;
+  content: " ";
+  border-top-width: 0;
+  border-bottom-color: #e0e0e0;
+}
+
+#search-results h2 {
+    margin: 0 0 10px 0;
+    padding: 5px 10px;
+    font-size: 14px;
+    color: #069;
+    background-color: #e0e0e0;
+    border-bottom: 1px solid #ccc;
+    text-shadow: 1px 1px #fff;
+}
+
+.q-item, .q-no-item {
+    margin: 0;
+    padding: 5px 10px;
+}
+
+.q-item:hover {
+    background-color: #edf5fe;
+}
+
+.q-item > .type
+{
+	text-transform: capitalize;
+	font-weight: bold;
+}
+
 
 .r480 {
     position: relative;
