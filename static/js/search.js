@@ -17,7 +17,7 @@ $.getJSON('/js/all.json').done(function(item) {
     });
 }).fail(function(jqxhr, textStatus, error) {
     var err = textStatus + ', ' + error;
-    console.error('Error getting Hugo index flie:', err);
+    console.error('Error getting Hugo index file:', err);
 });
 
 var doSearch = function() {
@@ -26,18 +26,18 @@ var doSearch = function() {
     var $el = $('#search-results');
     $el.empty();
     $el.show();
+    $el.append('<div class="arrow"></div>');
+    $el.append(
+       $('<h2>RESULTS FOR: "' + q + '"</h2>')
+    );
     if (results.length == 0) {
-        $el.html('sorry, no results found');
+        $el.append('<div class="q-no-item">Unfortunately, there are no results matching what you\'re looking for in the Columbia Film Glossary content.</div>');
     } else {
-        $el.append(
-           $('<h2>Search Results: "' + q + '"</h2>')
-        );
-
         for (r in results.slice(0, 10)) {
             if (results.hasOwnProperty(r)) {
                 var d = data[results[r].ref];
-                var $result = $('<div>');
-                $result.append(d.type + ': ');
+                var $result = $('<div class="q-item">');
+                $result.append('<span class="type">' + d.type + ': </span>');
                 if (d.type === 'term') {
                     $result.append($('<a>', {
                       href: d.url,
@@ -46,8 +46,8 @@ var doSearch = function() {
                 } else {
                     $result.append($('<a>', {
                         href: d.url,
-                        text: d.title + ' -- from "'
-                               + d.film + '" by '
+                        html: d.title + ' -- from <i>'
+                               + d.film + '</i> by '
                                + d['director_first']
                                + ' ' + d['director_last']
                                + ' (' + d.year + ')'
@@ -60,13 +60,22 @@ var doSearch = function() {
     return false;
 }
 
+var clearSearch = function() {
+    $('#search-results').empty();
+    $('#search-results').hide();
+}
+
+
 $(document).ready(function() {
     $('#search').click(doSearch);
+    $('#clear-search').click(clearSearch);
     $('#q').keyup(function() {
         $('#search-results').empty();
         if ($(this).val().length < 2) {
+            $('#search-results').hide();
             return;
         }
         return doSearch();
     });
+
 });

@@ -44,23 +44,17 @@
             <li><a href="/term/">Terms</a></li>
             <li><a href="/clip/">Clips</a></li>
             <li><a href="/bios/">Bios</a></li>
-            <li><a href="javascript://" data-container="body" data-toggle="popover" data-placement="bottom" data-content="Search is in R&D">Search</a></li>
+            <li class="search-wrapper">
+                <form role="search">
+                    <input id="q" type="text" required="" class="search-box" placeholder="I'm searching for..." />
+                    <button class="close-icon" id="clear-search" type="reset"></button>
+                    <button type="submit" id="search" style="display:none;"></button>
+                </form>
+                <div id="search-results"></div>
+            </li>
           </ul>
         </div><!--/.nav-collapse -->
       </div><!-- /.container -->
     </nav>
 
     <div class="container">
-
-<form class="form-inline" role="search">
-	<div class="input-group">
-		<input id="q" type="text" class="form-control" placeholder="search" />
-		<div class="input-group-btn">
-			<button type="submit" class="btn btn-small btn-default"
-							id="search"><span class="glyphicon glyphicon-search" aria-hidden="true"></span></button>
-		</div>
-	</div>
-</form>
-<div id="search-results"></div>
-
-
