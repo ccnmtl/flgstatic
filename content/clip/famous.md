@@ -11,4 +11,7 @@ quicktime: famous.mov
 source: 1996 Columbia Tristar
 title: Famous
 year: '1995'
+clip_original: http://stream.ccnmtl.columbia.edu/public/34b6adc0-539c-4eda-bef8-7dbab2df73b2_480-048_diefor_FLG_et.mp4
+
+
 ---

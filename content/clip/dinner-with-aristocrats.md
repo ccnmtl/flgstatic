@@ -11,4 +11,6 @@ quicktime: dinner_with_aristocrats.mov
 source: 2004 MGM Home Entertainment
 title: Dinner with Aristocrats
 year: '1968'
+clip_original: http://stream.ccnmtl.columbia.edu/public/89d0901b-d39d-419b-bcf7-9a88ce2540ff_480-052_wolf_FLG_et.mp4
+
 ---

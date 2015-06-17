@@ -13,4 +13,6 @@ source: 1996 Image Entertainment
 thumb: http://ccnmtl.columbia.edu/projects/filmglossary/web/thumbs/life_on_the_go.jpg
 title: Life on the Go
 year: '1929'
+clip_original: http://stream.ccnmtl.columbia.edu/public/ddf8730c-e31b-494e-b3b6-bc15b8a7e11c_480-025_moviecamera_FLG_et.mp4
+
 ---

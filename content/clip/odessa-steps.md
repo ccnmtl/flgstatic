@@ -12,4 +12,7 @@ source: 1976 Sovexport Film
 thumb: ''
 title: Odessa Steps
 year: '1925'
+clip_original: http://stream.ccnmtl.columbia.edu/public/c3371940-a362-471b-888b-d8317e8548bc-002_potemkin_FLG-mp4-aac-480w-850kbps-ffmpeg.mp4
+clip_commentary: http://stream.ccnmtl.columbia.edu/public/540920b1-c3e8-4dbe-9811-25465445b2a8_480-002_potemkin_commentary_FLG_et.mp4
+
 ---
