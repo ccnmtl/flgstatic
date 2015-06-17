@@ -6,8 +6,8 @@ runserver:
 
 deploy:
 	rm -rf public/*
-	/usr/local/bin/hugo -s . -b 'http://flgstatic.stage.ccnmtl.columbia.edu/' \
+	/usr/local/bin/hugo -s . -b 'https://flgstatic.stage.ccnmtl.columbia.edu/' \
 	&& mv public/json/all/index.html public/js/all.json \
 	&& ./checkjson.py \
-	&& rsync -avp --delete public/ selma.ccnmtl.columbia.edu:/var/www/flgstatic/
+	&& s3cmd --acl-public --delete-removed --no-progress sync public/* s3://flgstatic.stage.ccnmtl.columbia.edu/
 
