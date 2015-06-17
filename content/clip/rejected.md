@@ -11,4 +11,7 @@ clip_original: http://stream.ccnmtl.columbia.edu/public/3d15b842-8e2c-4113-8009-
 source: 1997 Columbia Tristar Home Video
 title: Rejected
 year: '1976'
+clip_original: http://stream.ccnmtl.columbia.edu/public/3c2b93e9-a40c-44b9-a2fa-c057b3564608_480-024_taxi_FLG_et.mp4
+
+
 ---

@@ -12,4 +12,7 @@ quicktime: determined_upon_suicide.mov
 source: 2002 Kino Int. Corp.
 title: Determined Upon Suicide
 year: '1913'
+clip_original: http://stream.ccnmtl.columbia.edu/public/4ebced8a-da1a-4bb3-b5c3-505b9e7bbd7e-006_marathon_FLG-mp4-aac-480w-850kbps-ffmpeg.mp4
+clip_commentary: http://stream.ccnmtl.columbia.edu/public/5d1b04fe-a012-4617-892e-2dc7eface23f-006_marathon_commentary_FLG-mp4-aac-480w-850kbps-ffmpeg.mp4
+
 ---

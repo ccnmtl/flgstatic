@@ -11,4 +11,6 @@ quicktime: the_night_hunter.mov
 source: 2000 MGM/UA Home Video
 title: The Night Hunter
 year: '1955 '
+clip_original: http://stream.ccnmtl.columbia.edu/public/d3cfc9de-7c11-4935-a837-805341a3158b_480-051_hunter_FLG_et.mp4
+
 ---

@@ -11,4 +11,7 @@ quicktime: preparations.mov
 source: 2003 Criterion Collection
 title: Preparations
 year: '1953'
+clip_original: http://stream.ccnmtl.columbia.edu/public/ab67f726-f2d6-455f-bdb8-a82342cf6fa4-043_tokyo_FLG-mp4-aac-480w-850kbps-ffmpeg.mp4
+clip_commentary: http://stream.ccnmtl.columbia.edu/public/2e837cbc-aa7c-474f-b101-aac389358731-043_tokyo_commentary_FLG-mp4-aac-480w-850kbps-ffmpeg.mp4
+
 ---

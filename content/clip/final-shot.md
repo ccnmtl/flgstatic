@@ -11,4 +11,6 @@ quicktime: final_shot.mov
 source: 2002 Kino Int. Corp.
 title: Final Shot
 year: ' 1903'
+clip_original: http://stream.ccnmtl.columbia.edu/public/4bc1177b-8f26-4eb8-aa4a-121bba4e9728_480-077_robbery_FLG_et.mp4
+
 ---

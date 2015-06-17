@@ -7,10 +7,11 @@ director_first: Masaku
 director_last: Kobayashi
 film: Harakiri
 length: '3:00'
-clip_commentary: http://stream.ccnmtl.columbia.edu/public/7bf44b1b-fe0a-497e-9694-b4a4f086329d-FLG_TEST_180_deg_commentary-mp4-aac-480w-850kbps-ffmpeg.mp4
-clip_original: http://stream.ccnmtl.columbia.edu/public/edf68391-114f-4a2c-86e6-631182414e33-FLG_TEST_180_deg_original-mp4-aac-480w-850kbps-ffmpeg.mp4
 quicktime: showdown.mov
 source: 2005 Criterion Collection
 title: Showdown
-year: '1962 '
+year: '1962'
+clip_original: http://stream.ccnmtl.columbia.edu/public/c672cf0f-03e2-4841-8f76-22919053d812_480-042_hara_FLG_et.mp4
+clip_commentary: http://stream.ccnmtl.columbia.edu/public/99c6ce67-9106-4680-bef4-8175ca5bef93-042_hara_commentary_FLG-mp4-aac-480w-850kbps-ffmpeg.mp4
+
 ---

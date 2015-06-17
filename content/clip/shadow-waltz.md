@@ -12,4 +12,7 @@ source: 1993 Key Video
 thumb: http://ccnmtl.columbia.edu/projects/filmglossary/web/thumbs/shadow_waltz.jpg
 title: Shadow Waltz
 year: '1933'
+clip_original: http://stream.ccnmtl.columbia.edu/public/0fbd9c53-3c25-4d11-a084-04874c5f9679-015_golddigers_FLG-mp4-aac-480w-850kbps-ffmpeg.mp4
+
+
 ---
