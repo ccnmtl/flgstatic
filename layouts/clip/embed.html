@@ -1,7 +1,7 @@
 <div class="widget-clip clearfix">
     <h4 class="title">{{.Title}} ({{.Params.length}})</h4>
     <a class="share-clip" href="javascript://" data-container="body" data-toggle="popover" data-placement="bottom" data-content="Will launch sharing options for this clip"></a>
-    <div class="video">
+    <div id="{{ .Title | urlize | lower}}" class="video">
         {{ if .Params.clip_original }}
         <video id="vid" controls>
             <source src="{{.Params.clip_original}}" type="video/mp4">
