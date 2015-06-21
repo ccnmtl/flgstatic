@@ -1,39 +1,78 @@
 (function() {
-    var v = document.getElementById('vid');
-    var sources = [];
-    for (var s=0; s < v.children.length; s++) {
-        sources.push(v.children[s].src);
-    }
-    var labels = ['Commentary', 'Original'];
-    var activeIdx = 0;
 
-    var p = document.getElementById('play');
-    p.addEventListener('click', function(event) {
-        if (v.paused) {
-            v.play();
-            p.innerHTML = 'pause';
-        } else {
-            v.pause();
-            p.innerHTML = 'play';
+    videojs.Commentary = videojs.Button.extend({
+    /** @constructor */
+        init: function(player, options) {
+            this.div = options.div;
+            this.sources = options.sources;
+            this.activeIdx = options.activeIdx;
+            this.v = options.v;
+            videojs.Button.call(this, player, options);
+            this.on('click', this.onClick);
         }
-    }, false);
+    });
 
-    var b = document.getElementById('switch');
-    b.addEventListener('click', function(event) {
-        var inactiveIdx = (activeIdx + 1) % sources.length;
-        var tc = v.currentTime;
-        var paused = v.paused;
-        v.src = sources[inactiveIdx];
-        v.addEventListener('loadeddata', function() {
-            v.currentTime = tc;
+    videojs.Commentary.prototype.onClick = function() {
+    /* function for clip changing */
+        var inactiveIdx = (this.activeIdx + 1) % this.sources.length;
+        var tc = this.v.currentTime;
+        var paused = this.v.paused;
+        this.v.src = this.sources[inactiveIdx];
+        var self = this;
+        this.v.addEventListener('loadeddata', function() {
+            self.v.currentTime = tc;
         }, false);
-        v.play();
+        this.v.play();
         if (paused) {
-            v.pause();
+            this.v.pause();
         } else {
-            v.play();
+            this.v.play();
         }
-        activeIdx = inactiveIdx;
-        b.innerHTML = labels[activeIdx] + ' (switch)';
-    }, false);
+        this.activeIdx = inactiveIdx;
+        jQuery(this.div).toggleClass('commentary-on commentary-off');
+    };
+
+    /* Create Commentary button for control bar */
+    var createCommentaryButton = function() {
+        var props = {
+            className: 'vjs-commentary-button vjs-control',
+            innerHTML: '<div class="vjs-control-content" ' +
+                'title="Commentary On/Off">' +
+                '<span class="vjs-control-text">' +
+                ('Commentary') + '</span></div>',
+            role: 'button',
+            title: 'Commentary On/Off',
+            'aria-live': 'polite', // let the screen reader user know that the text of the button may change
+            tabIndex: 0
+          };
+        return videojs.Component.prototype.createEl(null, props);
+    };
+
+    /* Add Commentary button to the control bar */
+    var commentary;
+    videojs.plugin('commentary', function(options) {
+        options.el = createCommentaryButton();
+        commentary = new videojs.Commentary(this, options);
+        this.controlBar.el().appendChild(commentary.el());
+    });
+
+    jQuery('video').each(function(index, video) {
+        var div = jQuery(video).parent();
+        var sources = [];
+        for (var s = 0; s < video.children.length; s++) {
+            sources.push(video.children[s].src);
+        }
+        var activeIdx = 0;
+        if (sources.length > 1) {
+            var vid = videojs(video.id, {
+            plugins: {commentary: {
+                div: div,
+                v: document.getElementById(video.id),
+                sources: sources,
+                activeIdx: activeIdx
+            }}
+        });
+        }
+    });
+
 })();

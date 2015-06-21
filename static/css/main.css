@@ -34,7 +34,7 @@ body {
     margin-top: 10px;
 }
 
-/* --- Clip widget embed in term page */
+/* --- Video Clip widget embed in term page */
 
 .widget-clip {
     position: relative;
@@ -112,6 +112,23 @@ body {
 .clip-field {
     color: #999;
 }
+
+.vjs-control.vjs-commentary-button:before {
+font-family: FontAwesome;
+content: "\f075";
+}
+.vjs-control.vjs-commentary-button {
+float: right;
+cursor: pointer;
+}
+.vjs-control.vjs-commentary-button {
+float: right;
+cursor: pointer;
+}
+.commentary-on .vjs-control.vjs-commentary-button {
+color: #66a8cc;
+}
+
 
 .placeholder-clip {
     width: 480px;
