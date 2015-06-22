@@ -114,8 +114,8 @@ body {
 }
 
 .vjs-control.vjs-commentary-button:before {
-font-family: FontAwesome;
-content: "\f075";
+font-family: VideoJS;
+content: "\e00c";
 }
 .vjs-control.vjs-commentary-button {
 float: right;
@@ -128,6 +128,17 @@ cursor: pointer;
 .commentary-on .vjs-control.vjs-commentary-button {
 color: #66a8cc;
 }
+.widget-clip .vjs-big-play-button {
+    height: 80px;
+    width: 80px;
+    border-radius: 40px;
+    margin: 0;
+}
+.widget-clip .vjs-big-play-centered .vjs-big-play-button {
+    margin-left: 0;
+    left: 200px;
+}
+
 
 
 .placeholder-clip {
