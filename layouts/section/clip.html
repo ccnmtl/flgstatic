@@ -7,6 +7,7 @@
 <th>Sequence</th>
 <th>Film</th>
 <th>Director</th>
+<th>Commentary</th>
 <th>Year</th>
 <tr>
 {{ range .Data.Pages.ByTitle }}
@@ -15,6 +16,7 @@
 <td>{{ .Params.film }}</td>
 <td>{{ if .Params.director }}{{.Params.director}}{{else}}{{ .Params.director_last }},
 	{{.Params.director_first}}{{ end }}</td>
+<td>{{ .Params.commentator }}</td>
 <td>{{ .Params.year }}</td>
 </tr>
 {{ end }}
