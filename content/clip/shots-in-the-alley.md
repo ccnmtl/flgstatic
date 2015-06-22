@@ -15,6 +15,7 @@ commentary: yes
 clip_original: http://stream.ccnmtl.columbia.edu/public/610b7c4d-ce1e-43a5-bce6-29a10a3b621e-011_tmen_FLG-mp4-aac-480w-850kbps-ffmpeg.mp4
 clip_commentary: http://stream.ccnmtl.columbia.edu/public/973b5ff7-c586-4982-ac47-cb8204989314_480-011_tmen_commentary_FLG_et.mp4
 commentator: "Richard Pe\xf1a"
+annotated: yes
 
 
 ---

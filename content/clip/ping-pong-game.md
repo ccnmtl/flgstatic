@@ -14,6 +14,7 @@ commentary: yes
 clip_original: http://stream.ccnmtl.columbia.edu/public/c19ca546-8955-42c6-ada7-3b7b45773ea3_480-033_hulot_FLG_et.mp4
 clip_commentary: http://stream.ccnmtl.columbia.edu/public/4539e4d0-ef0f-44fc-b451-b225604e0dfb_480-033_hulot_commentary_FLG_et.mp4
 commentator: "Richard Pe\xf1a"
+annotated: yes
 
 
 ---

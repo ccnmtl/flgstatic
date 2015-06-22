@@ -14,5 +14,6 @@ commentary: yes
 clip_original: http://stream.ccnmtl.columbia.edu/public/b0f65875-979f-4c0a-adf9-6798cf72777e-008_caesar_FLG-mp4-aac-480w-850kbps-ffmpeg.mp4
 clip_commentary: http://stream.ccnmtl.columbia.edu/public/8b3d0f3c-c443-4a31-9ad7-31a2f158d1f6-008_caesar_commentary_FLG-mp4-aac-480w-850kbps-ffmpeg.mp4
 commentator: "Richard Pe\xf1a"
+annotated: yes
 
 ---
