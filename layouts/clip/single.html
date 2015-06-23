@@ -1,12 +1,13 @@
 {{ partial "header.html" . }}
 
-<div class="widget-clip clearfix">
-    <h4 class="title">{{.Title}} ({{.Params.length}})</h4>
-    <a class="share-clip" href="javascript://" data-container="body" data-toggle="popover" data-placement="bottom" data-content="Will launch sharing options for this clip"></a>
-    <div id="div-{{.UniqueID}}" class="video {{ if .Params.clip_commentary }}commentary-on{{ end }}">
+<h1>Clip: {{.Title}} ({{.Params.length}})</h1>
+
+<div class="widget-clip widget-single-clip clearfix">
+
+    <div id="div-{{.UniqueID}}" class="{{ if .Params.clip_commentary }}commentary-on{{ end }}">
         {{ if .Params.clip_original }}
         <video id="video-{{.UniqueID}}" class="video-js vjs-default-skin vjs-big-play-centered"
-        controls preload="auto" width="480" height="360"
+        controls preload="auto" width="640" height="480"
         data-setup='{}'>
         {{ if .Params.clip_commentary }}
             <source src="{{.Params.clip_commentary}}" type="video/mp4">
@@ -24,7 +25,7 @@
 
 
     </div><!-- /.video -->
-    <div class="data">
+</div><!-- /.widget-clip -->
         <div class="row">
             <div class="film col-sm-6">
                 <b class="clip-field">Film:</b> <i>{{.Params.film}}</i>, {{.Params.year}}<br />
@@ -47,8 +48,6 @@
             <b class="clip-field">This clip appears in:</b>
             {{ range $i, $e := .Params.clipterms }}{{if $i}}, {{end}}<a href="/term/{{ . | urlize | lower}}/">{{$e}}</a> {{ end }}
         </div>
-    </div>
-</div><!-- /.widget-clip -->
 
 
 {{ partial "footer.html" . }}
