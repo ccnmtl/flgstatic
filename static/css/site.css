@@ -66,8 +66,6 @@ body {
 }
 
 .widget-clip .video video {
-    width: 480px;
-    height: 360px;
     display: block;
     margin: auto;
     border: 0;
@@ -135,11 +133,8 @@ color: #66a8cc;
     margin: 0;
 }
 .widget-clip .vjs-big-play-centered .vjs-big-play-button {
-    margin-left: 0;
-    left: 200px;
+    margin-left: -40px;
 }
-
-
 
 .placeholder-clip {
     width: 480px;
@@ -150,6 +145,23 @@ color: #66a8cc;
     border: 0;
     padding: 0;
 }
+
+
+/* --- Video Clip widget embed in clip page */
+
+.widget-single-clip {
+    position: relative;
+    margin: 0 auto 30px auto;
+    padding: 0;
+    border: 0;
+    background-color: transparent;
+    width: auto;
+}
+
+.widget-single-clip .vjs-big-play-centered .vjs-big-play-button {
+    margin-left: -40px;
+}
+
 
 
 /* --- Image asset widget embed in term page */
