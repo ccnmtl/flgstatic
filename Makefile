@@ -9,5 +9,4 @@ deploy:
 	/usr/local/bin/hugo -s . -b 'https://flgstatic.stage.ccnmtl.columbia.edu/' \
 	&& mv public/json/all/index.html public/js/all.json \
 	&& ./checkjson.py \
-	&& s3cmd --acl-public --delete-removed --no-progress sync public/* s3://flgstatic.stage.ccnmtl.columbia.edu/ \
-  && s3cmd --acl-public -m text/css sync public/css/* s3://flgstatic.stage.ccnmtl.columbia.edu/css/
+	&& s3cmd --acl-public --delete-removed --no-progress --no-mime-magic --guess-mime-type sync public/* s3://flgstatic.stage.ccnmtl.columbia.edu/
