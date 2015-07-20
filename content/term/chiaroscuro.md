@@ -2,6 +2,7 @@
 date: '2015-03-20T13:28:36+01:00'
 term: chiaroscuro
 title: Chiaroscuro
+termsummary: 'Chiaroscuro refers to strong contrasts between light and dark.'
 relatedterms:
 - Black-and-White Film
 - Cinematography

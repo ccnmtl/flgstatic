@@ -2,6 +2,7 @@
 date: '2015-03-20T13:29:03+01:00'
 term: point-of-view
 title: Point of View
+termsummary: 'With POV, the audience is, in effect, looking through the character’s eye.'
 relatedterms:
 - Eye-Line Match
 ---

@@ -2,6 +2,7 @@
 date: '2015-03-20T13:29:06+01:00'
 term: zoom-shot
 title: Zoom Shot
+termsummary: 'A zoom shot is one that permits the cinematographer to change the distance between the camera and the object being filmed without actually moving the camera.'
 relatedterms:
 - Camera Movement
 - Cinematography

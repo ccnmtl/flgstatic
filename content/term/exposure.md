@@ -2,6 +2,7 @@
 date: '2015-03-20T13:28:59+01:00'
 term: exposure
 title: Exposure
+termsummary: ''
 relatedterms:
 - Cinematography
 ---

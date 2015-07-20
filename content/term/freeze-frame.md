@@ -2,6 +2,7 @@
 date: '2015-03-20T13:29:00+01:00'
 term: freeze-frame
 title: Freeze-Frame
+termsummary: ''
 relatedterms:
 - Cinematography
 ---

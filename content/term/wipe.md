@@ -2,6 +2,7 @@
 date: '2015-03-20T13:29:06+01:00'
 term: wipe
 title: Wipe
+termsummary: 'Wipes allow one scene to effectively erase the previous scene and replace it.'
 relatedterms:
 - Editing
 - Split Screen

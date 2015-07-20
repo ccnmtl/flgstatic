@@ -2,6 +2,7 @@
 date: '2015-03-20T13:28:36+01:00'
 term: canted-angle-dutch-angle
 title: Canted Angle (Dutch Angle)
+termsummary: ''
 relatedterms:
 - Camera Angle
 - Camera Movement

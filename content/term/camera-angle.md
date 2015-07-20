@@ -2,6 +2,7 @@
 date: '2015-03-20T13:28:36+01:00'
 term: camera-angle
 title: Camera Angle
+termsummary: ''
 relatedterms:
 - Canted Angle (Dutch Angle)
 - Cinematography
@@ -10,10 +11,10 @@ relatedterms:
 ---
 
 Camera angle refers to where the camera is placed in relation to the
-subject of the image. In general, the camera is placed approximately
+subject of the image.<!--more--> In general, the camera is placed approximately
 at eye level, or up to six feet off the ground.
 
-<!--more-->
+
 
 [Low angle](../lowangle-shot/) refers to when the camera is placed
 below eye level. The viewer is therefore looking up at the subject.

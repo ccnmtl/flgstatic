@@ -2,6 +2,7 @@
 date: '2015-02-03T11:50:49+01:00'
 term: long-take
 title: Long Take
+termsummary: 'The long take is a shot of some duration.'
 ---
 
 The long take, a shot of some duration, was not an aesthetic choice

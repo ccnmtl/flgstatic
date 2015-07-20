@@ -2,6 +2,7 @@
 date: '2015-03-20T13:28:55+01:00'
 term: cinematography
 title: Cinematography
+termsummary: 'Derived from the French word cinématographe, cinematography literally means "writing in movement" and is generally understood as the art and process of capturing visual images with a camera for cinema.'
 relatedterms:
 - Black-and-White Film
 - Camera Angle

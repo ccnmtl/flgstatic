@@ -2,6 +2,7 @@
 date: '2015-03-20T13:29:03+01:00'
 term: slow-motion
 title: Slow Motion
+termsummary: 'Slow motion is typically achieved by shooting at a fast speed and then projecting at a normal speed.'
 relatedterms:
 - Frames-per-Second
 ---

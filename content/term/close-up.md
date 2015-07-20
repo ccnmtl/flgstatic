@@ -2,6 +2,7 @@
 date: '2015-03-20T13:28:56+01:00'
 term: close-up
 title: Close-Up
+termsummary: ''
 relatedterms:
 - Cinematography
 ---

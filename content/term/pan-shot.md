@@ -2,6 +2,7 @@
 date: '2015-03-20T13:29:02+01:00'
 term: pan-shot
 title: Pan Shot
+termsummary: ''
 relatedterms:
 - Camera Movement
 ---

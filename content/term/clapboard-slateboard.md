@@ -2,6 +2,7 @@
 date: '2015-03-20T13:28:56+01:00'
 term: clapboard-slateboard
 title: Clapboard (Slateboard)
+termsummary: 'Before each take, a clapboard appears in front of the camera, with the number of the take written on it.'
 relatedterms:
 - Take
 ---

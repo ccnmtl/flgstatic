@@ -2,6 +2,7 @@
 date: '2015-03-20T13:29:01+01:00'
 term: iris-shot
 title: Iris Shot
+termsummary: 'The iris shot is a shot masked in a circular form.'
 relatedterms:
 - Cinematography
 ---

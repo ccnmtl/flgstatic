@@ -2,6 +2,7 @@
 date: '2015-03-20T13:28:35+01:00'
 term: aspect-ratio
 title: Aspect Ratio
+termsummary: ''
 ---
 
 Aspect ratio refers to how the image appears on the screen based on

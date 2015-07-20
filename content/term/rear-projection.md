@@ -2,6 +2,7 @@
 date: '2015-03-20T13:29:03+01:00'
 term: rear-projection
 title: Rear Projection
+termsummary: ''
 ---
 
 Rear projection involves the projection of either a still or a moving

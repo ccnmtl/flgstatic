@@ -2,6 +2,7 @@
 date: '2015-03-20T13:29:05+01:00'
 term: take
 title: Take
+termsummary: ''
 relatedterms:
 - Clapboard (Slateboard)
 ---

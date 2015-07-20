@@ -2,6 +2,7 @@
 date: '2015-03-20T13:29:00+01:00'
 term: fisheye-lens
 title: Fisheye Lens
+termsummary: 'A fisheye lens is a wide-angle lens that takes in a nearly 180-degree field of view.'
 relatedterms:
 - Cinematography
 ---

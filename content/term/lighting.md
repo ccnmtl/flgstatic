@@ -2,6 +2,7 @@
 date: '2015-03-20T13:29:01+01:00'
 term: lighting
 title: Lighting
+termsummary: ''
 ---
 
 Lighting is responsible for the quality of a film's images and often a

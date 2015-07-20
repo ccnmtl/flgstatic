@@ -2,6 +2,7 @@
 date: '2015-03-20T13:29:00+01:00'
 term: frames-per-second
 title: Frames-per-Second
+termsummary: ''
 relatedterms:
 - Slow Motion
 ---

@@ -2,6 +2,7 @@
 date: '2015-03-20T13:28:35+01:00'
 term: black-and-white-film
 title: Black-and-White Film
+termsummary: ''
 relatedterms:
 - Cinematography
 - Color Film

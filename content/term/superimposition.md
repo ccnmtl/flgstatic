@@ -2,6 +2,7 @@
 date: '2015-03-20T13:29:04+01:00'
 term: superimposition
 title: Superimposition
+termsummary: ''
 ---
 
 Superimposition is when two or more image are placed over each other
