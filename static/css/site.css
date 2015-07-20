@@ -5,6 +5,8 @@ body {
   padding-top: 90px;
 }
 
+h3 { margin-top: 30px;}
+
 .footer {
     width: 100%;
     margin: 40px auto 0 auto;
@@ -193,6 +195,7 @@ body {
 
 
 
+
 .widget-share {
     margin: 0 0 40px 0;
     padding: 0;
@@ -203,6 +206,17 @@ body {
     margin: 0;
     padding: 0;
     border: 0;
+}
+
+.widget-related-terms ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.widget-related-terms li {
+    padding: 2px 0;
+    font-size: 15px;
 }
 
 .widget-share h4,
