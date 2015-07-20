@@ -20,7 +20,7 @@
         var isPaused = this.vplayer.paused();
         this.vplayer.src(this.sources[inactiveIdx]);
          var self = this;
-        this.vplayer.on('loadeddata', function(){ 
+        this.vplayer.on('loadedmetadata', function(){ 
             self.vplayer.currentTime(tc);
         });
         this.vplayer.play();
