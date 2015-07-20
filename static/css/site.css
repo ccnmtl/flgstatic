@@ -203,7 +203,7 @@ h3 { margin-top: 30px;}
 }
 
 .widget-related-terms {
-    margin: 0 0 40px 0;
+    margin: 0;
     padding: 0;
     border: 0;
 }
@@ -220,8 +220,7 @@ h3 { margin-top: 30px;}
 }
 
 .widget-share h4,
-.widget-related-terms h4,
-.widget-allterms-select h4 {
+.widget-related-terms h4 {
     margin-top: 0;
     padding-top: 0;
 }
@@ -241,14 +240,6 @@ h3 { margin-top: 30px;}
     height: 32px;
     display: block;
     float: left;
-}
-
-.widget-allterms-select {
-    
-}
-
-.under-construction {
-    color: #999;
 }
 
 .demo-popover {
