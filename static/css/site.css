@@ -112,19 +112,30 @@ body {
 }
 
 .vjs-control.vjs-commentary-button:before {
-font-family: VideoJS;
-content: "\e00c";
+    font-family: VideoJS;
+    content: "\e00c";
+    text-align: left;
 }
 .vjs-control.vjs-commentary-button {
-float: right;
-cursor: pointer;
+    float: right;
+    cursor: pointer;
+    margin-right: 5px;
 }
-.vjs-control.vjs-commentary-button {
-float: right;
-cursor: pointer;
+.vjs-control.vjs-commentary-button:after {
+    content: '\00a0 Off';
+    font-family: Arial, sans-serif;
+    font-size: 1.2em;
+    line-height: 2.5;
+    margin-left: 15px;
+    text-shadow: 1px 1px 1px rgba(0,0,0,.5);
 }
+
+.commentary-on .vjs-control.vjs-commentary-button:after {
+    content: '\00a0 On';
+}
+
 .commentary-on .vjs-control.vjs-commentary-button {
-color: #66a8cc;
+    color: #66a8cc;
 }
 .widget-clip .vjs-big-play-button {
     height: 80px;
