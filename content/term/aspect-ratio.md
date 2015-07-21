@@ -11,6 +11,7 @@ how it was shot--the ratio of width (horizontal or top) to height
 
 <div class="widget-image">
     <img src="/img/assets/aspectratio.jpg" alt="Aspect Ratio samples" width="395" height="345" />
+    <div class="caption">Samples of various aspect ratios</div>
 </div>
 
 Dating back to Thomas Edison's equipment, 1.33:1 was for a long time

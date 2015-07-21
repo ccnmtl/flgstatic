@@ -13,7 +13,10 @@ dolly can be raised, lowered, pivoted, or tilted by the cameraman on
 the dolly. Dollies can go forward and backward. Crab dollies can go
 sideways.
 
-<img src="http://ccnmtl.columbia.edu/projects/filmglossary/web/pics/dolly.jpg"/>
+
+<div class="widget-image">
+    <img src="/img/assets/dolly.jpg" />
+</div>
 
 A dolly shot, or [tracking shot](../tracking-shot/), is usually one in which the dolly is
 set on tracks, thereby allowing for a smooth, even movement.

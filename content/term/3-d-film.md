@@ -17,8 +17,8 @@ during the postwar period were <i>House of Wax</i> (1953), <i>Kiss Me Kate</i>
 employed only rarely in Hollywood films, and is more often seen in
 IMAX films or in specialized theaters at amusement parks or museums.
 
-<img
-src="http://ccnmtl.columbia.edu/projects/filmglossary/web/pics/house_of_wax.jpg"
-/>
+<div class="widget-image">
+    <img src="/img/assets/house_of_wax.jpg" />
+    <div class="caption">Poster from the 1953 film House of Wax (1953)</div>
+</div>
 
-<b>Poster from the 1953 film House of Wax (1953)</b>

@@ -16,10 +16,10 @@ Religious art exploited the idea of multiple images for centuries. One
 prominent example is the Merode Altarpiece, from the mid-fifteenth
 century.
 
-<img
-src="http://ccnmtl.columbia.edu/projects/filmglossary/web/pics/campin_merode.jpg"/>
-
-<b>Merode Altarpiece (Robert Campin, 1425-30) Met museum</b>
+<div class="widget-image">
+    <img src="/img/assets/campin_merode.jpg" />
+    <div class="caption">Merode Altarpiece (Robert Campin, 1425-30) Met museum</div>
+</div>
 
 Triptych paintings featured a main central image, flanked on both
 sides by two or more generally related images. The concept of

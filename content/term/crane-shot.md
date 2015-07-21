@@ -10,6 +10,9 @@ relatedterms:
 
 <div class="widget-image">
     <img src="/img/assets/cranelean.jpg" />
+    <div class="caption">
+    David Lean. Source: BFI
+    </div>
 </div>
 
 A crane shot is achieved by a camera mounted on a platform, which is connected to a mechanical arm that can lift the platform up, bring it down, or move it laterally across space. 
