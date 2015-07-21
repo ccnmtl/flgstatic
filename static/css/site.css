@@ -203,24 +203,33 @@ h3 { margin-top: 30px;}
 }
 
 .widget-related-terms {
+    margin: 0 0 40px 0;
+    padding: 0;
+    border: 0;
+}
+
+.widget-allterms-menu {
     margin: 0;
     padding: 0;
     border: 0;
 }
 
-.widget-related-terms ul {
+.widget-related-terms ul,
+.widget-allterms-menu ul {
     padding: 0;
     margin: 0;
     list-style: none;
 }
 
-.widget-related-terms li {
+.widget-related-terms li,
+.widget-allterms-menu li {
     padding: 2px 0;
     font-size: 15px;
 }
 
 .widget-share h4,
-.widget-related-terms h4 {
+.widget-related-terms h4,
+.widget-allterms-menu h4 {
     margin-top: 0;
     padding-top: 0;
 }
@@ -240,6 +249,10 @@ h3 { margin-top: 30px;}
     height: 32px;
     display: block;
     float: left;
+}
+
+.in-development {
+    color: #999;
 }
 
 .demo-popover {
@@ -456,4 +469,14 @@ h3 { margin-top: 30px;}
 
 .commentary-off {
     color: #999;
+}
+
+.term-item {
+    padding: 5px 0 6px 0;
+    margin: 0;
+}
+
+.term-item dt {
+    font-size: 18px;
+    font-weight: normal;
 }

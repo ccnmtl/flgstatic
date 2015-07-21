@@ -1,13 +1,15 @@
 {{ partial "header.html" . }}
 
-<h1>Terms</h1>
+<h1>Term Index</h1>
 
 
 {{ range .Data.Pages.ByTitle }}
-<p>
-<a href="{{.Permalink}}">{{.Title}}</a><br />
+<dl class="term-item">
+<dt><a href="{{.Permalink}}">{{.Title}}</a></dt>
+<dd>
 {{ if .Params.termsummary }}<p>{{.Params.termsummary }}</p>{{else}}{{.Summary}}{{ end }}
-</p>
+</dd>
+</dl>
 {{ end }}
 
 
