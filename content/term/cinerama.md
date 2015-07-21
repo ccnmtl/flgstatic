@@ -16,11 +16,11 @@ Cinerama is a process of simultaneous filming by three cameras. The
 cameras are pointed at different angles and are then projected by
 three synchronized projectors and shown on a curved screen.
 
-<img
-src="http://ccnmtl.columbia.edu/projects/filmglossary/web/pics/cinerama_diagram.jpg"
-/>
 
-<p><b>Source: WHAT IS CINERAMA? (New York: MGM and Random House, 1963)</b></p>
+<div class="widget-image">
+    <img src="/img/assets/cinerama_diagram.jpg" />
+    <div class="caption">Source: WHAT IS CINERAMA? (New York: MGM and Random House, 1963)</div>
+</div>
 
 Cinerama made its commercial debut in 1952, with the film <i>This Is
 Cinerama</i> (Merian C. Cooper).  A thrill-packed travelogue that features
