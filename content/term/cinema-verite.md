@@ -2,6 +2,7 @@
 date: '2015-03-20T13:28:37+01:00'
 term: cinema-verite
 title: "Cinema Verit\xE9"
+termsummary: 'Cinema verité is a French term that means "true cinema" or "cinema truth."'
 ---
 
 Also referred to as free cinema or direct cinema, cinema verité is a

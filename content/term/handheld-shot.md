@@ -2,6 +2,7 @@
 date: '2015-03-20T13:29:00+01:00'
 term: handheld-shot
 title: Handheld Shot
+termsummary: ''
 relatedterms:
 - Camera Movement
 - Steadicam Shot

@@ -2,6 +2,7 @@
 date: '2015-03-20T13:29:04+01:00'
 term: split-screen
 title: Split Screen
+termsummary: ''
 relatedterms:
 - Wipe
 ---

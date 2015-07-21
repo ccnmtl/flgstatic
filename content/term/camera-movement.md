@@ -2,6 +2,7 @@
 date: '2015-02-03T11:18:31+01:00'
 term: camera-movement
 title: Camera Movement
+termsummary: ''
 relatedterms:
 - Circular Pan
 - Crane Shot
@@ -15,9 +16,7 @@ relatedterms:
 - Zoom Shot
 ---
 
-Camera movement refers to the actual or perceived physical movement of the camera apparatus through space. At its most basic level, camera movement creates a sensation in the spectator that he or she is moving through space.
-
-<!--more-->
+Camera movement refers to the actual or perceived physical movement of the camera apparatus through space.<!--more--> At its most basic level, camera movement creates a sensation in the spectator that he or she is moving through space.
 
 ### Early Development
 

@@ -2,6 +2,7 @@
 date: '2015-03-20T13:28:36+01:00'
 term: celluloid
 title: Celluloid
+termsummary: ''
 ---
 
 Cellulose nitrate was the original transparent material used as a base

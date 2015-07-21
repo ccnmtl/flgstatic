@@ -2,6 +2,7 @@
 date: '2015-02-03T11:44:40+01:00'
 term: editing
 title: Editing
+termsummary: ''
 relatedterms:
 - Eye-Line Match
 - Fade

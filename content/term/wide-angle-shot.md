@@ -2,6 +2,7 @@
 date: '2015-03-20T13:29:05+01:00'
 term: wide-angle-shot
 title: Wide-Angle Shot
+termsummary: ''
 relatedterms:
 - Cinematography
 - Deep Focus

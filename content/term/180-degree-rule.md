@@ -2,6 +2,7 @@
 date: '2015-03-20T13:48:51+01:00'
 term: 180-degree-rule
 title: 180-Degree Rule
+termsummary: 'The 180-degree rule of shooting and editing keeps the camera on one side of the action.'
 ---
 
 The 180-degree rule of shooting and [editing](../editing/) keeps the

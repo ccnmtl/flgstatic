@@ -2,6 +2,7 @@
 date: '2015-03-20T13:28:55+01:00'
 term: cinerama
 title: Cinerama
+termsummary: 'Cinerama is a process of simultaneous filming by three cameras. The cameras are pointed at different angles and are then projected by three synchronized projectors and shown on a curved screen.'
 ---
 
 Facing an economic challenge from television in the 1950s, Hollywood

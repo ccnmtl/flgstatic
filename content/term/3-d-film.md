@@ -2,6 +2,7 @@
 date: '2015-03-20T13:28:35+01:00'
 term: 3-d-film
 title: 3-D Film
+termsummary: '3-D film has a three-dimensional, stereoscopic form, creating the illusion of depth.'
 ---
 
 With competition from television and other leisure activities
