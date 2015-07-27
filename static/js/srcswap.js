@@ -18,6 +18,8 @@
         var inactiveIdx = (this.activeIdx + 1) % this.sources.length;
         var tc = this.vplayer.currentTime();
         var isPaused = this.vplayer.paused();
+        this.vplayer.poster('/img/assets/clipposter/transition.jpg');
+        jQuery(this.v).attr('poster','/img/assets/clipposter/transition.jpg');
         this.vplayer.src(this.sources[inactiveIdx]);
          var self = this;
         this.vplayer.on('loadedmetadata', function(){ 
