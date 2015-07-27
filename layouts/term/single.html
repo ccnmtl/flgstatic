@@ -36,12 +36,15 @@
 
 <div class="widget-allterms-menu in-development">
     <h4>Explore Other Terms</h4>
-    <ul>
-    <li>180-Degree Rule</li>
-    <li>3-D Film</li>
-    <li>Aerial Shot</li>
-     <li>...and so forth...</li>
-   </ul>
+<ul>
+{{range $section, $pages := .Site.Sections }}
+    {{ if eq $section "term" }}
+        {{ range $index, $page := $pages }}
+        <li><a href="{{$page.Page.Permalink}}">{{$page.Page.Title}}</a></li>
+        {{ end }}
+    {{ end }}
+{{ end }}
+</ul>
 </div>
 
 
