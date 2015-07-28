@@ -1,9 +1,9 @@
 <div class="widget-clip clearfix">
-    <h4 class="title">{{.Title}} ({{.Params.length}})</h4>
+    <h4 class="title"><a href="{{.Permalink}}">{{.Title}}</a> ({{.Params.length}})</h4>
     <a class="share-clip" href="javascript://" data-container="body" data-toggle="popover" data-placement="bottom" data-content="Will launch sharing options for this clip"></a>
     <div id="div-{{.UniqueID}}" class="video {{ if .Params.clip_commentary }}commentary-on{{ end }}">
         {{ if .Params.clip_original }}
-        <video id="video-{{.UniqueID}}" class="video-js vjs-default-skin vjs-big-play-centered"
+        <video id="video-{{.UniqueID}}" class="video-js vjs-default-skin vjs-big-play-centered" poster="/img/assets/clipposter/{{.Title | urlize | lower}}.jpg"
         controls preload="auto" width="480" height="360"
         data-setup='{}'>
         {{ if .Params.clip_commentary }}
