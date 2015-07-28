@@ -6,7 +6,7 @@
 
     <div id="div-{{.UniqueID}}" class="{{ if .Params.clip_commentary }}commentary-on{{ end }}">
         {{ if .Params.clip_original }}
-        <video id="video-{{.UniqueID}}" class="video-js vjs-default-skin vjs-big-play-centered"
+        <video id="video-{{.UniqueID}}" class="video-js vjs-default-skin vjs-big-play-centered" poster="/img/assets/clipposter/{{.Title | urlize | lower}}.jpg" 
         controls preload="auto" width="640" height="480"
         data-setup='{}'>
         {{ if .Params.clip_commentary }}
