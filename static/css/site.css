@@ -242,6 +242,40 @@ h3 { margin-top: 30px;}
     padding-top: 0;
 }
 
+.widget-allterms-menu .wrapper {
+    border: 1px solid #ccc;
+    padding: 5px;
+}
+
+.widget-allterms-menu ul {
+    height: 200px;
+    overflow: scroll;
+    overflow-x: hidden;
+}
+
+.widget-allterms-menu ul::-webkit-scrollbar {
+    -webkit-appearance: none;
+}
+
+.widget-allterms-menu ul::-webkit-scrollbar:vertical {
+    width: 11px;
+}
+
+.widget-allterms-menu ul::-webkit-scrollbar:horizontal {
+    height: 11px;
+}
+
+.widget-allterms-menu ul::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    border: 1px solid white; /* should match background, can't be transparent */
+    background-color: #c1c1c1;
+}
+
+.widget-allterms-menu ul::-webkit-scrollbar-track { 
+    background-color: #f8f8f8;
+} 
+
+
 .widget-share-icons {
     margin: 0;
     padding: 0;

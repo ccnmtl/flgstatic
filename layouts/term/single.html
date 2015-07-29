@@ -34,8 +34,9 @@
 
           <hr class="visible-xs visible-sm" />
 
-<div class="widget-allterms-menu in-development">
+<div class="widget-allterms-menu">
     <h4>Explore Other Terms</h4>
+<div class="wrapper">
 <ul>
 {{range $section, $pages := .Site.Sections }}
     {{ if eq $section "term" }}
@@ -45,6 +46,7 @@
     {{ end }}
 {{ end }}
 </ul>
+</div>
 </div>
 
 
