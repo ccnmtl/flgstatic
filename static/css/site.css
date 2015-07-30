@@ -242,15 +242,33 @@ h3 { margin-top: 30px;}
     padding-top: 0;
 }
 
-.widget-allterms-menu .wrapper {
+.widget-allterms-menu h4 {
+    cursor: pointer;
+}
+
+
+.widget-allterms-menu h4 span {
+    font-size: 14px;
+    color: #69c;
+}
+
+.widget-allterms-menu #wrapper {
     border: 1px solid #ccc;
     padding: 5px;
+    display: none;
+    background-color: #fbfbfb;
 }
 
 .widget-allterms-menu ul {
-    height: 200px;
+    height: 250px;
     overflow: scroll;
     overflow-x: hidden;
+    /*-webkit-overflow-scrolling: touch;*/
+    background-color: #fbfbfb;
+}
+
+.widget-allterms-menu li:hover {
+    background-color: #ebf2fe;
 }
 
 .widget-allterms-menu ul::-webkit-scrollbar {
