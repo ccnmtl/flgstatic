@@ -35,8 +35,8 @@
           <hr class="visible-xs visible-sm" />
 
 <div class="widget-allterms-menu">
-    <h4>Explore Other Terms</h4>
-<div class="wrapper">
+    <h4>See Other Terms <span class="glyphicon glyphicon-triangle-right" aria-hidden="true"></span> </h4>
+<div id="wrapper">
 <ul>
 {{range $section, $pages := .Site.Sections }}
     {{ if eq $section "term" }}
