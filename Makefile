@@ -2,7 +2,7 @@ runserver:
 	hugo --buildDrafts --verboseLog=true -v
 	mv public/json/all/index.html public/js/all.json
 	./checkjson.py
-	hugo server --watch --buildDrafts --verboseLog=true -v
+	hugo server --baseUrl=http://kodos.ccnmtl.columbia.edu/ --bind=0.0.0.0 --port=13093 --watch --buildDrafts --verboseLog=true -v
 
 deploy:
 	rm -rf public/*

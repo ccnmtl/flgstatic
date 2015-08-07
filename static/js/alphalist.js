@@ -19,7 +19,7 @@
         jQuery.each(list[letter], function(idx, itm){
             ul.append(itm);
         });
-        jQuery("#index-list").append(jQuery("<div class='list-group'/>").append(jQuery("<a/>").attr("name", letter.toLowerCase()).addClass("list-group-title").html(letter)).append(jQuery("<hr/>")).append(ul));
+        jQuery("#index-list").append(jQuery("<div class='list-group'/>").append(jQuery("<a/>").attr("name", letter.toLowerCase()).addClass("list-group-title").html(letter)).append(jQuery("<hr/>")).append(ul).append(jQuery("<a/>").attr("href", "#top").html("top")));
         jQuery("#nav-index-list").append(jQuery("<a/>").attr("href", '#'+letter.toLowerCase()).html(letter));
     });
 })();
