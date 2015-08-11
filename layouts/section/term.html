@@ -1,16 +1,16 @@
 {{ partial "header.html" . }}
 
+
 <h1>Term Index</h1>
 
+<div id="index-list-page">
+<div id="nav-index-list"></div>
 
-{{ range .Data.Pages.ByTitle }}
-<dl class="term-item">
-<dt><a href="{{.Permalink}}">{{.Title}}</a></dt>
-<dd>
-{{ if .Params.termsummary }}<p>{{.Params.termsummary }}</p>{{else}}{{.Summary}}{{ end }}
-</dd>
-</dl>
-{{ end }}
-
+<div id="index-list">
+    {{ range .Data.Pages.ByTitle }}
+    <div class="list-item"><div class="item-title"><a href="{{.Permalink}}">{{.Title}}</a></div><div class="item-summary">{{ if .Params.termsummary }}<p>{{.Params.termsummary }}</p>{{else}}{{.Summary}}{{ end }}</div></div>
+    {{ end }}
+</div>
+</div>
 
 {{ partial "footer.html" . }}

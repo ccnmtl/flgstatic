@@ -2,7 +2,8 @@ body {
   margin: 0;
   padding: 0;
   border: 0;
-  padding-top: 90px;
+  margin-top: 90px;
+  position: relative;
 }
 
 h3 { margin-top: 30px;}
@@ -25,7 +26,7 @@ h3 { margin-top: 30px;}
     height: 75px;
     width: 200px;
     padding: 10px 0;
-    background: transparent url('/img/logo-cflg-l.png') center center no-repeat;
+    background: transparent url('/img/logo-cflg-sml.png') center center no-repeat;
 }
 
 .navbar-clfg .navbar-brand span {
@@ -531,12 +532,50 @@ h3 { margin-top: 30px;}
     color: #999;
 }
 
-.term-item {
+.list-item {
     padding: 5px 0 6px 0;
     margin: 0;
 }
 
-.term-item dt {
+.item-title {
     font-size: 18px;
     font-weight: normal;
 }
+
+.list-group-title
+{
+	height: 44px;
+	width: 44px;
+	line-height: 44px;
+	display: inline-block;
+	font-size: 20px;
+	font-weight: normal;
+	color: #fff;
+	background-color: #96ceeb;
+	-webkit-border-radius: 22px;
+	-moz-border-radius: 22px;
+	border-radius: 22px;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.list-group-title:hover {
+    text-decoration: none;
+    color: #fff;
+}
+
+.list-group hr {
+    margin: -20px 0 40px 0;
+    border: 0;
+    border-top: 1px solid #efefef;
+}
+
+#nav-index-list {
+    padding: 10px 0 20px 0;
+}
+
+#nav-index-list a {
+	display: inline-block;
+	padding: 10px;
+}
+
