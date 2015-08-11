@@ -2,7 +2,7 @@ body {
   margin: 0;
   padding: 0;
   border: 0;
-  margin-top: 90px;
+  margin-top: 60px;
   position: relative;
 }
 
@@ -23,18 +23,15 @@ h3 { margin-top: 30px;}
 
 .navbar-clfg .navbar-brand {
     display: block;
-    height: 75px;
-    width: 200px;
-    padding: 10px 0;
+    height: 35px;
+    width: 130px;
+    padding: 0;
+    margin-top: 8px;
     background: transparent url('/img/logo-cflg-sml.png') center center no-repeat;
 }
 
 .navbar-clfg .navbar-brand span {
     display: none;
-}
-
-.navbar-clfg .navbar-nav {
-    margin-top: 10px;
 }
 
 /* --- Video Clip widget embed in term page */
@@ -330,19 +327,19 @@ h3 { margin-top: 30px;}
 }
 
 .share-twitter {
-    background: #c00 url('/img/sprite-page-sharetool.png') -42px 0 no-repeat;
+    background: transparent url('/img/sprite-page-sharetool.png') -42px 0 no-repeat;
 }
 
 .share-googleplus {
-    background: #c00 url('/img/sprite-page-sharetool.png') -84px 0 no-repeat;
+    background: transparent url('/img/sprite-page-sharetool.png') -84px 0 no-repeat;
 }
 
 .share-email {
-    background: #c00 url('/img/sprite-page-sharetool.png') -126px 0 no-repeat;
+    background: transparent url('/img/sprite-page-sharetool.png') -126px 0 no-repeat;
 }
 
 .share-url {
-    background: #c00 url('/img/sprite-page-sharetool.png') -168px 0 no-repeat;
+    background: transparent url('/img/sprite-page-sharetool.png') -168px 0 no-repeat;
 }
 
 
