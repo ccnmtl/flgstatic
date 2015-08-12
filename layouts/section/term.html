@@ -1,16 +1,27 @@
 {{ partial "header.html" . }}
 
-
-<h1>Term Index</h1>
-
-<div id="index-list-page">
-<div id="nav-index-list"></div>
-
-<div id="index-list">
-    {{ range .Data.Pages.ByTitle }}
-    <div class="list-item"><div class="item-title"><a href="{{.Permalink}}">{{.Title}}</a></div><div class="item-summary">{{ if .Params.termsummary }}<p>{{.Params.termsummary }}</p>{{else}}{{.Summary}}{{ end }}</div></div>
-    {{ end }}
+<div class="index-list-page-header">
+    <div class="container">
+        <h1>Term Index</h1>
+        <div class="container-fluid index-navbar-container">
+            <div id="index-list-navbar">
+                <ul class="nav navbar-nav nav-pills" id="nav-index-list"></ul>
+            </div>
+        </div>
+    </div>
 </div>
+
+<div id="index-list-page" class="clearfix">
+    <div id="index-list">
+        {{ range .Data.Pages.ByTitle }}
+        <!-- The following cannot have a line-break for the script to work -->
+        <div class="list-item"><div class="item-title"><a href="{{.Permalink}}">{{.Title}}</a></div><div class="item-summary">{{ if .Params.termsummary }}<p>{{.Params.termsummary }}</p>{{else}}{{.Summary}}{{ end }}</div></div>
+        {{ end }}
+    </div>
 </div>
+
+<script src="/js/alphalist.js" type="text/javascript" language="javascript"></script>
+<script src="/js/scrollspy.js" type="text/javascript" language="javascript"></script>
+<script src="/js/scrollshrink.js" type="text/javascript" language="javascript"></script>
 
 {{ partial "footer.html" . }}

@@ -529,6 +529,74 @@ h3 { margin-top: 30px;}
     color: #999;
 }
 
+.index-list-page-header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: #fff;
+    z-index: 1000;
+    height: 125px;
+    overflow: hidden;
+    -webkit-transition: height 0.3s;
+    -moz-transition: height 0.3s;
+    transition: height 0.3s;
+    margin-top: 51px;
+    padding-top: 9px;
+
+}
+.index-list-page-header.shrink {
+    height: 50px;
+    box-shadow: 0px 2px 20px #999;
+}
+.index-list-page-header h1
+{
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    transition: all 0.3s;
+}
+
+.index-list-page-header.shrink h1
+{
+    margin-top: 0;
+    margin-right: 10px;
+    float: left;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 32px;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    transition: all 0.3s;
+}
+
+
+.index-list-page-header.shrink h1:after {
+    content: ':';
+}
+
+.index-list-page-header.shrink .index-navbar-container {
+    float: left;
+}
+
+.index-list-page-header.shrink #nav-index-list {
+    padding: 0;
+}
+
+.index-list-page-header.shrink #nav-index-list a {
+	height: 36px;
+	width: 36px;
+	line-height: 36px;
+	-webkit-border-radius: 18px;
+	-moz-border-radius: 18px;
+	border-radius: 18px;
+}
+
+
+
+#index-list-page {
+    margin-top: 130px;
+}
+
 .list-item {
     padding: 5px 0 6px 0;
     margin: 0;
@@ -538,6 +606,8 @@ h3 { margin-top: 30px;}
     font-size: 18px;
     font-weight: normal;
 }
+
+#index-list-page {display: none;}
 
 .list-group-title
 {
@@ -568,11 +638,40 @@ h3 { margin-top: 30px;}
 }
 
 #nav-index-list {
-    padding: 10px 0 20px 0;
+    padding: 0 0 20px 0;
 }
 
 #nav-index-list a {
+	height: 40px;
+	width: 40px;
+	padding: 0;
+	line-height: 40px;
 	display: inline-block;
-	padding: 10px;
+	font-size: 14px;
+	font-weight: normal;
+	/*background-color: #96ceeb;*/
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	border-radius: 20px;
+	text-align: center;
+	vertical-align: middle;
 }
 
+#index-list-navbar .nav-pills > li > a:hover {
+  text-decoration: none;
+  background-color: #eee;
+}
+
+#index-list-navbar .nav-pills > li > a:focus {
+  background-color: transparent;
+}
+
+#index-list-navbar .nav-pills > li.active > a {
+  color: #000;
+  text-decoration: none;
+  background-color: #eee;
+}
+
+.index-navbar-container {
+    padding: 0;
+}
