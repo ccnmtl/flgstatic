@@ -322,6 +322,15 @@ h3 { margin-top: 30px;}
     display: block;
 }
 
+.widget-share-icon a {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    width: 32px;
+    height: 32px;
+    display: block;
+}
+
 .share-facebook {
     background: transparent url('/img/sprite-page-sharetool.png') 0 0 no-repeat;
 }
