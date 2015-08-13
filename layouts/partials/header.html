@@ -31,7 +31,11 @@
     <meta property="og:url" content="{{ .Permalink }}" />
     <meta property="og:title" content="Columbia Film Language Glossary: {{ .Title }}" />
     <meta property="og:description" content="{{ if .Params.termsummary }}{{ .Params.termsummary }}{{ else }}{{ .Summary }}{{ end }}" />
+    {{ if .Params.clip_original }}
+    <meta property="og:image" content="{{ .Site.BaseURL }}img/assets/clipposter/{{.Title | urlize | lower}}.jpg" />
+    {{ else }}
     <meta property="og:image" content="{{ .Site.BaseURL }}img/logo-cflg-ogg.png" />
+    {{ end }}
     {{ end }}
 
   </head>

@@ -13,8 +13,8 @@
             <div class="widget-share">
             <h4>Share This</h4>
             <ul class="widget-share-icons clearfix">
-                <li><span class="widget-share-icon share-facebook"><a href="http://www.facebook.com/share.php?u={{.Permalink}}&title={{.Title}}"></a></span></li>
-                <li><span class="widget-share-icon share-twitter"><a class="demo-popover" href="javascript://" data-container="body" data-toggle="popover" data-placement="bottom" data-content="Twitter sharing API will be displayed on screen."></a></span></li>
+                <li><span class="widget-share-icon share-facebook"><a rel="nofollow" class="share-window" href="http://www.facebook.com/share.php?u={{.Permalink}}&title={{.Title}}"></a></span></li>
+                <li><span class="widget-share-icon share-twitter"><a rel="nofollow" class="share-window" href="https://twitter.com/intent/tweet?text=Columbia%20Language%20Film%20Glossary:%20{{ .Title }}&url={{ .Permalink }}&hashtags=filmglossary&via=ccnmtl"></a></span></li>
                 <li><span class="widget-share-icon share-googleplus"><a class="demo-popover" href="javascript://" data-container="body" data-toggle="popover" data-placement="bottom" data-content="Google+ sharing API will be displayed on screen."></a></span></li>
                 <li><span class="widget-share-icon share-email"><a class="demo-popover" href="javascript://" data-container="body" data-toggle="popover" data-placement="bottom" data-content="Email API will be displayed on screen."></a></span></li>
                 <li><span class="widget-share-icon share-url"><a class="demo-popover" href="javascript://" data-container="body" data-toggle="popover" data-placement="bottom" data-content="URL API will be displayed on screen."></a></span></li>
@@ -52,4 +52,5 @@
 
           </div>
         </div>
+
 {{ partial "footer.html" . }}
