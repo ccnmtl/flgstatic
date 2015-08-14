@@ -5,7 +5,6 @@
         <div class="row">
           <div class="col-md-9">
 {{.Content}}
-
           </div>
           <div class="col-md-3">
           <hr class="visible-xs visible-sm" />
@@ -15,9 +14,19 @@
             <ul class="widget-share-icons clearfix">
                 <li><span class="widget-share-icon share-facebook"><a rel="nofollow" class="share-window" href="http://www.facebook.com/share.php?u={{.Permalink}}&title={{.Title}}"></a></span></li>
                 <li><span class="widget-share-icon share-twitter"><a rel="nofollow" class="share-window" href="https://twitter.com/intent/tweet?text=Columbia%20Language%20Film%20Glossary:%20{{ .Title }}&url={{ .Permalink }}&hashtags=filmglossary&via=ccnmtl"></a></span></li>
-                <li><span class="widget-share-icon share-googleplus"><a class="demo-popover" href="javascript://" data-container="body" data-toggle="popover" data-placement="bottom" data-content="Google+ sharing API will be displayed on screen."></a></span></li>
-                <li><span class="widget-share-icon share-email"><a class="demo-popover" href="javascript://" data-container="body" data-toggle="popover" data-placement="bottom" data-content="Email API will be displayed on screen."></a></span></li>
-                <li><span class="widget-share-icon share-url"><a class="demo-popover" href="javascript://" data-container="body" data-toggle="popover" data-placement="bottom" data-content="URL API will be displayed on screen."></a></span></li>
+                <li><span class="widget-share-icon share-googleplus"><a rel="nofollow" class="share-window" href="https://plus.google.com/share?url={{ .Permalink }}"></a></span></li>
+                <li id="share-url"><span class="widget-share-icon share-url"><a rel="nofollow" href="javascript://"></a></span>
+                    <div class="content hide">
+        <div class="form-group">
+        <h5>Link to this {{ .Section }}</h5>
+            <input
+                type="text" 
+                class="form-control"
+                onclick="this.select()"
+                value="{{ .Permalink }}" />
+        </div>
+    </div>
+                </li>
             </ul>
             </div>
 
