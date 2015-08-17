@@ -38,31 +38,24 @@ h3 { margin-top: 30px;}
 
 .widget-clip {
     position: relative;
-    margin: 30px auto;
-    padding: 10px;
-    border: 0;
-    background-color: #333;
-    width: 560px;
-}
-
-.widget-clip .share-clip {
-    position: absolute;
-    top: 0;
-    right: 0;
-    height: 40px;
-    width: 40px;
-    background: transparent url('/img/icon-share.png') center center no-repeat;
+    margin: 30px 0;
+    padding: 8px 5px 5px 5px;
+    border: 1px solid #e0e0e0;
+    background-color: #efefef;
+    width: 100%;
 }
 
 .widget-clip .title {
-    margin-top: 0;
-    padding: 0;
-    color: #fff;
+    margin: 0;
+    padding: 0 0 8px 5px;
+    color: #000;
+    font-size: 16px;
 }
 
 .widget-clip .video {
-    background-color: #000;
-    padding: 30px;
+    background-color: transparent;
+    padding: 0;
+    float: left;
 }
 
 .widget-clip .video video {
@@ -72,43 +65,41 @@ h3 { margin-top: 30px;}
     padding: 0;
 }
 
-.widget-clip .controller_temp {
-    display: block;
-    margin: auto;
-    border: 0;
-    padding: 0;
-    text-align: center;
-}
-
 .widget-clip .data {
-    margin: 10px 0 0 0;
-    padding-top: 5px;
-    padding-bottom: 5px;
-    color: #fff;
-    background-color: #333;
-}
-
-.widget-clip .data .commentator .avatar {
-    height: 60px;
-    width: 60px;
-    float: left;
-}
-
-.widget-clip .data .commentator .bio {
-    margin-left: 70px;
-}
-
-.widget-clip .data .clip-related-terms {
-    margin: 20px 0 0 0;
+    margin: 0 0 0 480px;
+    padding: 0;
+    color: #000;
+    background-color: transparent;
+    min-width: 200px;
     font-size: 12px;
 }
 
-.widget-clip a {
-    color: #fff;
+.widget-clip .data .film {
+    margin-left: 10px;
+    padding: 0;
+    color: #000;
+    background-color: transparent;
+    display: block;
 }
 
-.clip-field {
-    color: #999;
+.widget-clip .data dd {
+    padding-left: 5px;
+    padding-bottom: 10px;
+}
+
+.widget-clip .data .commentator .avatar,
+.widget-clip .data .commentator .avatar img {
+    height: 40px;
+    width: 40px;
+    float: right;
+}
+
+.widget-clip .data .commentator .bio {
+    margin-left: 50px;
+}
+
+.widget-clip .title a {
+    color: #000;
 }
 
 .vjs-control.vjs-commentary-button:before {

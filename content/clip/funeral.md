@@ -15,4 +15,6 @@ source: 1999 Criterion Collection
 title: Funeral
 year: '1949'
 commentator: "Richard Pe\xf1a"
+avatar: pena
+
 ---
