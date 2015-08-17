@@ -7,6 +7,7 @@
 <th>Sequence</th>
 <th>Film</th>
 <th>Director</th>
+<th>Appearing in terms</th>
 <th>Commentary</th>
 <th>Year</th>
 <tr>
@@ -16,6 +17,7 @@
 <td>{{ .Params.film }}</td>
 <td>{{ if .Params.director }}{{.Params.director}}{{else}}{{ .Params.director_last }},
 	{{.Params.director_first}}{{ end }}</td>
+<td>{{ range $i, $e := .Params.clipterms }}{{if $i}}<br />{{end}}<a href="/term/{{ . | urlize | lower}}/">{{$e}}</a> {{ end }}</td>
 <td>{{ .Params.commentator }}</td>
 <td>{{ .Params.year }}</td>
 </tr>
