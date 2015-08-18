@@ -723,10 +723,29 @@ h3 { margin-top: 30px;}
     margin: 0 0 0 190px;
 }
 
-.bio-set .data h3.name {
+.bio-set .data h3 {
     padding: 0 0 20px 0;
     margin: 0;
     font-weight: normal;
+}
+
+.bio-set .data h3 .name {
+    display: block;
+    line-height: 34px;
+}
+
+.bio-set .data h3 .title {
+    font-size: 16px;
+    color: #999;
+    line-height: 22px;
+    display: block;
+}
+
+.bio-set .data h3 .location {
+    font-size: 16px;
+    color: #999;
+    line-height: 22px;
+    display: block;
 }
 
 .bio-div {
