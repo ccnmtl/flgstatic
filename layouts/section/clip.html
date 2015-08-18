@@ -1,26 +1,47 @@
 {{ partial "header.html" . }}
 
-<h1>Clips</h1>
+<div class="index-list-page-header clip-index-list-page-header">
+    <div class="container">
+        <h1>Film Clip Index</h1>
+    </div>
+</div>
 
-<table class="table table-striped table-condensed">
-<tr>
-<th>Sequence</th>
-<th>Film</th>
-<th>Director</th>
-<th>Appearing in terms</th>
-<th>Commentary</th>
-<th>Year</th>
-<tr>
-{{ range .Data.Pages.ByTitle }}
-<tr>
-<td><a href="{{.Permalink}}">{{ .Title }}</a> ({{.Params.length}})</td>
-<td>{{ .Params.film }}</td>
-<td>{{ if .Params.director }}{{.Params.director}}{{else}}{{ .Params.director_last }},
-	{{.Params.director_first}}{{ end }}</td>
-<td>{{ range $i, $e := .Params.clipterms }}{{if $i}}<br />{{end}}<a href="/term/{{ . | urlize | lower}}/">{{$e}}</a> {{ end }}</td>
-<td>{{ .Params.commentator }}</td>
-<td>{{ .Params.year }}</td>
-</tr>
-{{ end }}
-</table>
+<div id="index-list-page" class="clearfix clip-index-list-page">
+    <div id="index-list" class="clip-list">
+    {{ range .Data.Pages.ByTitle }}
+        <div class="list-item clearfix">
+            <div class="item-poster">
+                <a href="{{.Permalink}}"><img src="{{ .Site.BaseURL }}img/assets/clipposter/{{.Title | urlize | lower}}.jpg" /></a>
+                <div class="clip-length">{{ .Params.length }}</div>
+                {{ if .Params.commentary }}
+                <div class="clip-commentary {{ if .Params.annotated }}with-annotation{{ end }}"></div>
+                {{ end }}
+            </div><!-- /.item-poster -->
+            <div class="item-data">
+                <div class="item-title"><a href="{{.Permalink}}">{{.Title}}</a></div>
+                <div class="item-film">From: <i>{{ .Params.film }}</i></div>
+                <div class="item-film-director">Director: 
+                {{ if .Params.director }}
+                    {{.Params.director}}
+                {{else}}
+                    {{.Params.director_first}} {{ .Params.director_last }}
+                {{ end }}</div>
+                <div class="item-film-year">Year: {{ .Params.year }}</div>
+            </div><!-- /.item-data -->
+            <div class="item-clip-terms">
+            <b>Appearing in terms:</b><br />
+            {{ range $i, $e := .Params.clipterms }}{{if $i}}<br />{{end}}<a href="/term/{{ . | urlize | lower}}/">{{$e}}</a> {{ end }}
+            </div><!-- /.clip-commentator -->
+            {{ if .Params.commentator }}
+            <div class="item-clip-commentator">
+            <b>{{ if .Params.annotated }}Annotated{{ else }}Audio{{ end }} commentary by:</b><br />
+            {{ .Params.commentator }}
+            </div><!-- /.clip-commentator -->
+            {{ end }}
+        </div><!-- /.list-item -->
+    {{ end }}
+    </div><!-- /.index-list -->
+</div><!-- /#index-list-page -->
+
+<script src="/js/scrollshrink.js" type="text/javascript" language="javascript"></script>
 {{ partial "footer.html" . }}
