@@ -26,6 +26,16 @@
     <script src="/js/lunr.min.js"></script>
     <script src="/js/search.js"></script>
     
+    <!-- Shield's up -->
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}browser_shield/shield.css" type="text/css" media="all" />
+    <script src="{{ .Site.BaseURL }}browser_shield/browserdetect.js" type="text/javascript" language="javascript"></script>
+    <script type="text/javascript" src="{{ .Site.BaseURL }}browser_shield/shield.js"></script>
+    <script type="text/javascript">
+    /* Select from list: Chrome, Firefox, Safari, MSIE */
+    shieldbrowser({"Firefox":39,"Safari":6,"MSIE":11,"Chrome":44});
+    </script>
+
+
     {{ if .Params }}
     <!-- OGG -->
     <meta property="og:url" content="{{ .Permalink }}" />
@@ -72,4 +82,4 @@
 <a name="top"></a>
 
     <div class="container">
-
+    <div id="shieldbox"></div>
