@@ -3,9 +3,9 @@ jQuery(document).ready(function() {
     jQuery(window).scroll(function() {
         var scroll = getCurrentScroll();
         if ( scroll >= shrinkHeader ) {
-            jQuery('.index-list-page-header').addClass('shrink');
+            jQuery('.page-main-title').addClass('shrink');
         } else {
-            jQuery('.index-list-page-header').removeClass('shrink');
+            jQuery('.page-main-title').removeClass('shrink');
         }
     });
     function getCurrentScroll() {
