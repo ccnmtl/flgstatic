@@ -34,6 +34,14 @@ h3 { margin-top: 30px;}
     display: none;
 }
 
+/* -- Individual Term page */
+
+.term-page-content {
+    display: block;
+    margin-top: 80px;
+}
+
+
 /* --- Video Clip widget embed in term page */
 
 .widget-clip {
@@ -556,7 +564,7 @@ h3 { margin-top: 30px;}
     color: #999;
 }
 
-.index-list-page-header {
+.page-main-title {
     position: fixed;
     top: 0;
     left: 0;
@@ -573,48 +581,54 @@ h3 { margin-top: 30px;}
 
 }
 
-.clip-index-list-page-header {
-    height: 100px;
+.page-main-title h1 span
+{
+    display: none;
 }
 
-.index-list-page-header.shrink {
+.clip-page-main-title, .term-page-main-title {
+    height: 70px;
+}
+
+.page-main-title.shrink {
     height: 50px;
     box-shadow: 0px 2px 20px #999;
 }
-.index-list-page-header h1
+
+.page-main-title h1
 {
     -webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
     transition: all 0.3s;
 }
 
-.index-list-page-header.shrink h1
+.page-main-title.shrink h1
 {
     margin-top: 0;
     margin-right: 10px;
     float: left;
     font-weight: bold;
-    font-size: 14px;
-    line-height: 32px;
+    font-size: 16px;
+    line-height: 34px;
     -webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
     transition: all 0.3s;
 }
 
-
-.index-list-page-header.shrink h1:after {
-    content: ':';
+.page-main-title.shrink h1 span
+{
+    display: inline;
 }
 
-.index-list-page-header.shrink .index-navbar-container {
+.page-main-title.shrink .index-navbar-container {
     float: left;
 }
 
-.index-list-page-header.shrink #nav-index-list {
+.page-main-title.shrink #nav-index-list {
     padding: 0;
 }
 
-.index-list-page-header.shrink #nav-index-list a {
+.page-main-title.shrink #nav-index-list a {
 	height: 36px;
 	width: 36px;
 	line-height: 36px;
