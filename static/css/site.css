@@ -1009,6 +1009,30 @@ body#cflg-home {
     }
 }
 
+/* Intermediate devices (mini, android) */
+@media (min-width: 530px) and (max-width: 767px) {
+    #cflg-main-banner {
+        height: 600px;
+    }
+    #cflg-slideshow {
+        height: 600px;
+    }
+    #cflg-slideshow div {
+        height: 600px;
+    }
+    #cflg-promo {
+        height: 600px;
+    }
+    #cflg-video {
+        width: 480px;
+        height: 272px;
+        float: none;
+        margin-left: auto;
+        margin-right: auto;
+        line-height: 272px;
+    }
+}
+
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) {
     #cflg-main-banner {
