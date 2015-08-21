@@ -1,8 +1,6 @@
 +++
-title = "Faculty Bios"
+title = "Faculty Partners"
 +++
-<h1>Faculty Partners</h1>
-
 <br />
 
 <div class="bio-set clearfix">
@@ -16,7 +14,8 @@ title = "Faculty Bios"
          <div class="text">Larry Engel received his B.S. from Yale College, M.S. from Pratt Institute, and M.F.A. from Columbia. He is a documentary filmmaker specializing in science and adventure. His work is seen regularly on PBS, the Discovery Channel, and Turner Broadcasting. He has won numerous awards including a Daytime Emmy for cinematography and an AAS-Westinghouse Science Journalism award for television writing. He produces, directs, writes, and shoots most of his own work. In pursuit of stories, he has found himself chasing tornadoes, flying into hurricanes, running from wildfires, rescuing mummies, and dancing with penguins. Having been to all seven continents, Mr. Engel considers Antarctica the best of the lot.</div>
     </div>
 </div>
-<hr class="right clearfix" style="margin-left: 190px;" />
+<hr class="right clearfix visible-xs" />
+<hr class="right clearfix hidden-xs" style="margin-left: 190px;" />
 <div class="bio-set clearfix">
     <div class="photo"><img src="/img/bios/bio-friedland.png" /></div>
     <div class="data">
@@ -62,3 +61,4 @@ title = "Faculty Bios"
          <div class="text">James Schamus, who received his Ph.D. in English from U.C. Berkeley, is a Golden Globe winning and Academy Award-nominated screenwriter, producer, and film executive. His long collaboration as writer and producer for Ang Lee has resulted in nine films, including <i>Crouching Tiger, Hidden Dragon</i>(2000), <i>The Ice Storm</i>(1997), <i>The Wedding Banquet</i>(1993), <i>The Hulk</i>(2003)  and <i>Brokeback Mountain</i>(2005).  As co-president of Focus Features, Schamus oversees the finance, production, and distribution of numerous films, including 2002's Oscar winner: The Pianist. Schamus has also produced or executive produced many of the most important American independent films of the past decade (among them Safe and The Brothers McMullen), including four Grand Prize winners at the Sundance Film Festival. He is also a widely published film historian and theorist. He was recently named a Nuveen Fellow in the Humanities at the University of Chicago and was a University Lecturer at Columbia.</div>
     </div>
 </div>
+
