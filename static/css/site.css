@@ -933,7 +933,8 @@ body#cflg-home {
     width: 320px;
     height: 181px;
     float: none;
-    background-color: #ccc;
+    background: transparent url('/img/fake-promo.jpg') center center no-repeat;
+    background-size: cover;
     margin-left: auto;
     margin-right: auto;
     color: #000;
