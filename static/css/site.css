@@ -41,6 +41,12 @@ h3 { margin-top: 30px;}
     margin-top: 80px;
 }
 
+/* -- Generic page */
+
+.generic-page-content {
+    display: block;
+    margin-top: 80px;
+}
 
 /* --- Video Clip widget embed in term page */
 
@@ -586,7 +592,9 @@ h3 { margin-top: 30px;}
     display: none;
 }
 
-.clip-page-main-title, .term-page-main-title {
+.clip-page-main-title,
+.term-page-main-title,
+.generic-page-main-title {
     height: 70px;
 }
 
@@ -816,6 +824,7 @@ h3 { margin-top: 30px;}
     padding: 0;
 }
 
+/* Faculty Partners Bio Page */
 
 .bio-set {
     padding: 20px 0;
@@ -975,6 +984,29 @@ body#cflg-home {
     width: 140px;
 }
 
+/* Extra small devices ( 767px and smaller) */
+@media (max-width: 767px) {
+    /* Faculty Partners Bio Page */
+    .bio-set .photo {
+        float: none;
+        margin: 0 0 30px 0;
+    }
+    .bio-set .photo img {
+        width: 200px;
+        height: 200px;
+        margin: auto;
+        display: block;
+    }
+    .bio-set .data {
+        margin: 0;
+    }
+    .bio-set .data h3 {
+        text-align: center;
+    }
+    .bio-div {
+        margin-left: 0;
+    }
+}
 
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) {

@@ -1,3 +1,11 @@
 {{ partial "header.html" . }}
+<div class="page-main-title generic-page-main-title">
+    <div class="container">
+        <h1>{{.Title}}</h1>
+    </div>
+</div>
+<div class="generic-page-content">
 {{ .Content }}
+</div>
+<script src="/js/scrollshrink.js" type="text/javascript" language="javascript"></script>
 {{ partial "footer.html" . }}
