@@ -1,6 +1,6 @@
 {{ partial "header.html" . }}
 
-<div class="page-main-title">
+<div class="page-main-title mobile-main-title">
     <div class="container">
         <h1>Term Index</h1>
         <div class="container-fluid index-navbar-container">
@@ -11,7 +11,14 @@
     </div>
 </div>
 
-<div id="index-list-page" class="clearfix">
+<div class="index-side-navbar-container">
+    <div id="index-list-navbar">
+        <ul class="nav navbar-nav nav-pills side-nav-index-list" id="nav-index-list"></ul>
+    </div>
+</div>
+
+
+<div id="index-list-page" class="clearfix mobile-content">
     <div id="index-list">
         {{ range .Data.Pages.ByTitle }}
         <!-- The following cannot have a line-break for the script to work -->

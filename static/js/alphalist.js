@@ -33,6 +33,13 @@
         .end() // li 
         .appendTo('#nav-index-list');
         
+        jQuery('<li><a></a></li>') // li 
+        .find('a') // a 
+        .attr('href', '#'+letter.toLowerCase()) // a 
+        .html(letter) // a 
+        .end() // li 
+        .appendTo('.side-nav-index-list');
+
     });
     jQuery('#index-list-page').show();
 })();

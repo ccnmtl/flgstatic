@@ -584,7 +584,6 @@ h3 { margin-top: 30px;}
     transition: height 0.3s;
     margin-top: 51px;
     padding-top: 9px;
-
 }
 
 .page-main-title h1 span
@@ -726,6 +725,53 @@ h3 { margin-top: 30px;}
   background-color: #eee;
 }
 
+.index-navbar-container {
+    padding: 0;
+}
+
+.index-side-navbar-container {
+    position: fixed;
+    right: 0px;
+    top: 51px;
+    z-index: 1010;
+    width: 40px;
+    background-color: #fff;
+    margin: 0;
+    padding: 0;
+    border-left: 1px solid #efefef;
+    display: none;
+}
+
+.index-side-navbar-container #nav-index-list {
+    float: none;
+    background-color: #fff;
+    margin: 0;
+    padding: 10px 0 10px 5px;
+}
+
+.index-side-navbar-container #nav-index-list li {
+    float: none;
+    background-color: #fff;
+}
+
+.index-side-navbar-container #nav-index-list a {
+	height: 24px;
+	width: 24px;
+	line-height: 24px;
+	font-size: 12px;
+	-webkit-border-radius: 12px;
+	-moz-border-radius: 12px;
+	border-radius: 12px;
+}
+
+.index-side-navbar-container #index-list-navbar .nav-pills > li > a:hover {
+  background-color: #ccc;
+}
+
+.index-side-navbar-container #index-list-navbar .nav-pills > li.active > a {
+  background-color: #ccc;
+}
+
 .clip-index-list-page {
     display: block !important;
     margin-top: 105px !important;
@@ -818,10 +864,6 @@ h3 { margin-top: 30px;}
 .item-data .item-title {
     font-size: 20px;
     margin-bottom: 10px;
-}
-
-.index-navbar-container {
-    padding: 0;
 }
 
 /* Faculty Partners Bio Page */
@@ -1007,6 +1049,55 @@ body#cflg-home {
     .bio-div {
         margin-left: 0;
     }
+    .index-navbar-container #nav-index-list a {
+        height: 24px;
+        width: 24px;
+        line-height: 24px;
+        font-size: 12px;
+        -webkit-border-radius: 12px;
+        -moz-border-radius: 12px;
+        border-radius: 12px;
+    }
+    #nav-index-list {
+        margin-left: 0px;
+    }
+    .shrink .index-navbar-container #nav-index-list a {
+	height: 24px;
+	width: 24px;
+	line-height: 24px;
+	font-size: 12px;
+	-webkit-border-radius: 12px;
+	-moz-border-radius: 12px;
+	border-radius: 12px;
+    }
+    .shrink .index-navbar-container {
+        margin-left: 10px;
+        margin-top: 0px;
+    }
+}
+
+/* Extra small devices ( 767px and smaller) and portrait */
+@media (max-width: 767px) and (orientation: portrait) {
+    .index-side-navbar-container {
+        display: block;
+    }
+    .index-navbar-container {
+        display: none;
+    }
+    #index-list-page {
+        margin-right: 24px;
+        padding-right: 5px;
+        border-right: 1px solid #efefef;
+    }
+    .mobile-main-title {
+        height: 70px;
+    }
+    .mobile-content {
+        margin-top: 105px !important;
+    }
+    .mobile-content .list-group hr {
+        border-top: 1px solid #96ceeb;
+    }
 }
 
 /* Intermediate devices (mini, android) */
@@ -1079,6 +1170,30 @@ body#cflg-home {
     #cflg-highlights p {
         padding: 0 10px;
         font-size: 14px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+    .index-navbar-container #nav-index-list a {
+        height: 34px;
+        width: 34px;
+        line-height: 34px;
+        font-size: 12px;
+        -webkit-border-radius: 17px;
+        -moz-border-radius: 17px;
+        border-radius: 17px;
+    }
+    .shrink .index-navbar-container #nav-index-list a {
+        height: 28px;
+        width: 28px;
+        line-height: 28px;
+        font-size: 12px;
+        -webkit-border-radius: 14px;
+        -moz-border-radius: 14px;
+        border-radius: 14px;
+    }
+    .shrink .index-navbar-container {
+        margin-top: 5px;
     }
 }
 
