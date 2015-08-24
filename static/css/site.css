@@ -935,11 +935,11 @@ body#cflg-home {
 }
 
 #cflg-main-banner {
-    height: 510px;
+    height: 540px;
     position: relative;
 }
 #cflg-slideshow {
-    height: 510px;
+    height: 540px;
     width: 100%;
     position: absolute;
     top: 0;
@@ -947,7 +947,7 @@ body#cflg-home {
     z-index: 100;
 }
 #cflg-slideshow div {
-    height: 510px;
+    height: 540px;
     width: 100%;
     position: absolute;
     top: 0;
@@ -957,7 +957,7 @@ body#cflg-home {
     background-repeat: no-repeat;
 }
 #cflg-promo {
-    height: 510px;
+    height: 540px;
     width: 100%;
     position: absolute;
     top: 0;
@@ -973,10 +973,8 @@ body#cflg-home {
 }
 #cflg-video {
     width: 320px;
-    height: 181px;
+    height: 204px;
     float: none;
-    background: transparent url('/img/fake-promo.jpg') center center no-repeat;
-    background-size: cover;
     margin-left: auto;
     margin-right: auto;
     color: #000;
@@ -984,7 +982,10 @@ body#cflg-home {
     line-height: 181px;
     text-align: center;
 }
-
+#cflg-video .video-js {
+    width: 320px;
+    height: 204px;
+}
 #cflg-lead {
     width: auto;
     height: auto;
@@ -1103,40 +1104,44 @@ body#cflg-home {
 /* Intermediate devices (mini, android) */
 @media (min-width: 530px) and (max-width: 767px) {
     #cflg-main-banner {
-        height: 600px;
+        height: 630px;
     }
     #cflg-slideshow {
-        height: 600px;
+        height: 630px;
     }
     #cflg-slideshow div {
-        height: 600px;
+        height: 630px;
     }
     #cflg-promo {
-        height: 600px;
+        height: 630px;
     }
     #cflg-video {
         width: 480px;
-        height: 272px;
+        height: 306px;
         float: none;
         margin-left: auto;
         margin-right: auto;
         line-height: 272px;
+    }
+    #cflg-video .video-js {
+        width: 480px;
+        height: 306px;
     }
 }
 
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) {
     #cflg-main-banner {
-        height: 680px;
+        height: 710px;
     }
     #cflg-slideshow {
-        height: 680px;
+        height: 710px;
     }
     #cflg-slideshow div {
-        height: 680px;
+        height: 710px;
     }
     #cflg-promo {
-        height: 680px;
+        height: 710px;
     }
     #cflg-logo {
         margin: 40px auto;
@@ -1145,11 +1150,15 @@ body#cflg-home {
     }
     #cflg-video {
         width: 480px;
-        height: 272px;
+        height: 306px;
         float: none;
         margin-left: auto;
         margin-right: auto;
         line-height: 272px;
+    }
+    #cflg-video .video-js {
+        width: 480px;
+        height: 306px;
     }
     #cflg-lead {
         width: auto;
@@ -1200,16 +1209,16 @@ body#cflg-home {
 /* Medium devices (desktops, 992px and up) */
 @media (min-width: 992px) {
     #cflg-main-banner {
-        height: 550px;
+        height: 580px;
     }
     #cflg-slideshow {
-        height: 550px;
+        height: 580px;
     }
     #cflg-slideshow div {
-        height: 550px;
+        height: 580px;
     }
     #cflg-promo {
-        height: 550px;
+        height: 580px;
     }
     #cflg-logo {
         margin: 40px auto;
@@ -1218,15 +1227,19 @@ body#cflg-home {
     }
     #cflg-video {
         width: 480px;
-        height: 272px;
+        height: 306px;
         float: left;
         margin-left: 20px;
         margin-right: 0;
         line-height: 272px;
     }
+    #cflg-video .video-js {
+        width: 480px;
+        height: 306px;
+    }
     #cflg-lead {
         width: 400px;
-        height: 272px;
+        height: 306px;
         float: right;
         margin-left: 0;
         margin-right: 20px;
@@ -1249,16 +1262,16 @@ body#cflg-home {
 /* Large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) {
     #cflg-main-banner {
-        height: 550px;
+        height: 580px;
     }
     #cflg-slideshow {
-        height: 550px;
+        height: 580px;
     }
     #cflg-slideshow div {
-        height: 550px;
+        height: 580px;
     }
     #cflg-promo {
-        height: 550px;
+        height: 580px;
     }
     #cflg-logo {
         margin: 40px auto;
@@ -1267,15 +1280,19 @@ body#cflg-home {
     }
     #cflg-video {
         width: 480px;
-        height: 272px;
+        height: 306px;
         float: left;
         margin-left: 100px;
         margin-right: 0;
         line-height: 272px;
     }
+    #cflg-video .video-js {
+        width: 480px;
+        height: 306px;
+    }
     #cflg-lead {
         width: 400px;
-        height: 272px;
+        height: 306px;
         float: right;
         margin-left: 0;
         margin-right: 100px;
