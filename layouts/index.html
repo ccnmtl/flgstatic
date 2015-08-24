@@ -17,7 +17,12 @@
             <p>The Film Language Glossary is a teaching tool for the study of film, designed to enhance screenings, readings, lectures, and discussions throughout the duration of a course.</p>
             <a href="{{ .Site.BaseURL }}term/" class="btn btn-info btn-lg btn-cflg">Action!</a>
             </div>
-            <div id="cflg-video"> </div>
+            <div id="cflg-video">
+                <video id="cflg-video-clip" class="video-js vjs-default-skin vjs-big-play-centered" poster="{{ .Site.BaseURL }}img/assets/clipposter/promo-poster.jpg" 
+                controls preload="auto" width="auto" height="auto" data-setup='{}'>
+                    <source src="http://stream.ccnmtl.columbia.edu/public/5232c1a0-5e8b-47ed-93f3-4be74ad1dd93_480-Film_Language_Glossary_Introduction_et.mp4" type="video/mp4">
+                </video>
+            </div>
         </div>
     </div>
 </div><!-- /#cflg-main-banner -->
@@ -44,4 +49,14 @@
     </div><!-- /.row -->
 </div>
 
+
+<script>
+jQuery(window).resize(function() {
+    clearTimeout(window.resizedFinished);
+    window.resizedFinished = setTimeout(function(){
+        var browserWidth= window.outerWidth;
+        
+    }, 500);
+});
+</script>
 {{ partial "footer-home.html" .}}
