@@ -16,6 +16,52 @@ h3 { margin-top: 30px;}
     height: 50px;
 }
 
+.footer-home {
+    width: 100%;
+    margin: 100px auto 50px auto;
+    color: #999;
+    background: transparent;
+    font-size: 12px;
+}
+
+.footer-home-inner {
+    margin: auto;
+}
+
+.footer-home #copyright
+{
+	float: left;
+	margin-right: 20px;
+}
+
+.footer-home ul {
+    float: right;
+    list-style: none;
+}
+
+.footer-home #partners
+{
+	float: left;
+	margin-right: 20px;
+}
+
+.footer-home #about
+{
+	float: left;
+	margin-right: 20px;
+}
+
+.footer-home #feedback
+{
+	float: left;
+	margin-right: 20px;
+}
+
+.footer-home a {
+    color: #999;
+    text-decoration: none;
+}
+
 .navbar-clfg {
     background-color: #000;
     /*height: 75px;*/
@@ -1127,6 +1173,16 @@ body#cflg-home {
     .mobile-content .list-group hr {
         border-top: 1px solid #96ceeb;
     }
+    .footer-home #copyright
+    {
+        float: left;
+        margin-top: 5px;
+    }
+    .footer-home ul {
+        float: left;
+        margin: 0;
+        padding: 0;
+    }
 }
 
 /* Intermediate devices (mini, android) */
@@ -1154,6 +1210,16 @@ body#cflg-home {
     #cflg-video .video-js {
         width: 480px;
         height: 306px;
+    }
+    .footer-home #copyright
+    {
+        float: left;
+        margin-top: 5px;
+    }
+    .footer-home ul {
+        float: left;
+        margin: 0;
+        padding: 0;
     }
     .widget-term-clip { width: 492px; }
     .widget-clip .video {
