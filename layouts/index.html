@@ -49,14 +49,4 @@
     </div><!-- /.row -->
 </div>
 
-
-<script>
-jQuery(window).resize(function() {
-    clearTimeout(window.resizedFinished);
-    window.resizedFinished = setTimeout(function(){
-        var browserWidth= window.outerWidth;
-        
-    }, 500);
-});
-</script>
 {{ partial "footer-home.html" .}}
