@@ -1,9 +1,9 @@
-<div class="widget-clip clearfix">
+<div class="widget-clip widget-term-clip clearfix">
     <h4 class="title"><a href="{{.Permalink}}">{{.Title}}</a> ({{.Params.length}})</h4>
     <div id="div-{{.UniqueID}}" class="video {{ if .Params.clip_commentary }}commentary-on{{ end }}">
         {{ if .Params.clip_original }}
         <video id="video-{{.UniqueID}}" class="video-js vjs-default-skin vjs-big-play-centered" poster="/img/assets/clipposter/{{.Title | urlize | lower}}.jpg"
-        controls preload="auto" width="480" height="360"
+        controls preload="auto" width="auto" height="auto"
         data-setup='{}'>
         {{ if .Params.clip_commentary }}
             <source src="{{.Params.clip_commentary}}" type="video/mp4">
