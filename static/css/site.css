@@ -13,7 +13,9 @@ h3 { margin-top: 30px;}
     margin: 40px auto 0 auto;
     color: #fff;
     background: #69c;
+    padding-top: 5px;
     height: 50px;
+    font-size: 12px;
 }
 
 .footer-home {
@@ -21,40 +23,44 @@ h3 { margin-top: 30px;}
     margin: 100px auto 50px auto;
     color: #999;
     background: transparent;
-    font-size: 12px;
 }
 
-.footer-home-inner {
+.footer-inner {
     margin: auto;
 }
 
-.footer-home #copyright
+.footer #copyright
 {
 	float: left;
 	margin-right: 20px;
 }
 
-.footer-home ul {
+.footer ul {
     float: right;
     list-style: none;
 }
 
-.footer-home #partners
+.footer #partners
 {
 	float: left;
 	margin-right: 20px;
 }
 
-.footer-home #about
+.footer #about
 {
 	float: left;
 	margin-right: 20px;
 }
 
-.footer-home #feedback
+.footer #feedback
 {
 	float: left;
 	margin-right: 20px;
+}
+
+.footer a {
+    color: #fff;
+    text-decoration: none;
 }
 
 .footer-home a {
@@ -1173,12 +1179,12 @@ body#cflg-home {
     .mobile-content .list-group hr {
         border-top: 1px solid #96ceeb;
     }
-    .footer-home #copyright
+    .footer #copyright
     {
         float: left;
         margin-top: 5px;
     }
-    .footer-home ul {
+    .footer ul {
         float: left;
         margin: 0;
         padding: 0;
@@ -1211,12 +1217,12 @@ body#cflg-home {
         width: 480px;
         height: 306px;
     }
-    .footer-home #copyright
+    .footer #copyright
     {
         float: left;
         margin-top: 5px;
     }
-    .footer-home ul {
+    .footer ul {
         float: left;
         margin: 0;
         padding: 0;
@@ -1290,6 +1296,11 @@ body#cflg-home {
     #cflg-highlights p {
         padding: 0 10px;
         font-size: 14px;
+    }
+    .footer {
+        padding-top: 0;
+        height: 50px;
+        line-height: 50px;
     }
 }
 
@@ -1371,6 +1382,11 @@ body#cflg-home {
     .widget-allterms-menu #wrapper {
         width: 100%;
     }
+    .footer {
+        padding-top: 0;
+        height: 50px;
+        line-height: 50px;
+    }
 }
 
 /* Large devices (large desktops, 1200px and up) */
@@ -1426,5 +1442,10 @@ body#cflg-home {
     }
     .widget-allterms-menu #wrapper {
         width: 100%;
+    }
+    .footer {
+        padding-top: 0;
+        height: 50px;
+        line-height: 50px;
     }
 }
