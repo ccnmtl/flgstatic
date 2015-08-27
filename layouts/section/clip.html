@@ -1,12 +1,12 @@
 {{ partial "header.html" . }}
 
-<div class="page-main-title clip-page-main-title">
-    <div class="container">
+<div class="page-main-title">
+    <div class="container mobile-xs">
         <h1>Film Clip Index</h1>
     </div>
 </div>
 
-<div id="index-list-page" class="clearfix clip-index-list-page">
+<div id="index-list-page" class="clearfix page-content">
     <div id="index-list" class="clip-list">
     {{ range .Data.Pages.ByTitle }}
         <div class="list-item clearfix">
