@@ -1,5 +1,5 @@
 jQuery(document).ready(function() {
-    var shrinkHeader = 100;
+    var shrinkHeader = 60;
     jQuery(window).scroll(function() {
         var scroll = getCurrentScroll();
         if ( scroll >= shrinkHeader ) {
