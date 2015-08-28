@@ -90,4 +90,4 @@ used to represent particular locations--for example, yellow for scenes
 taking place in Mexico and metallic blue for scenes taking place in
 Ohio.
 
-{{< embed_clip "Mexico/Ohio" >}}
+{{< embed_clip "Mexico-Ohio" >}}

@@ -34,6 +34,11 @@ h3 { margin-top: 30px;}
     display: none;
 }
 
+.navbar-clfg .container {
+    position: relative;
+}
+
+
 /* --- Video Clip widget embed in term page */
 
 .widget-clip {
@@ -402,10 +407,14 @@ h3 { margin-top: 30px;}
 .search-box,.close-icon,.search-wrapper { position: relative; }
 
 .search-wrapper {
-    width: 155px; /* Responsive definition required */
+    /* width: 155px; Responsive definition required */
+    width: 150px;
     margin: 12px 0 0 10px;
     padding: 0;
     border: 0;
+    position: absolute;
+    right: 70px;
+    top: 0;
 }
 
 .search-wrapper input:focus::-webkit-input-placeholder { color:transparent;} /* WebKit browsers */
@@ -418,12 +427,16 @@ h3 { margin-top: 30px;}
     width: 150px;
     margin-top: 0;
     padding: 3px 25px 3px 7px;
-    border: 1px solid #999;
+    border: none;
+    border-bottom: 1px solid #666;
+    /*border: 1px solid #999;
     -webkit-border-radius: 13px;
        -moz-border-radius: 13px;
-            border-radius: 13px;
+            border-radius: 13px;*/
     outline: 0;
     font-size: 13px;
+    background: #000 url('/img/icon-search.gif') 126px 7px no-repeat;
+    color: #ccc; 
 }
 
 .close-icon {
@@ -445,6 +458,7 @@ h3 { margin-top: 30px;}
 }
 
 .search-box:invalid ~ .close-icon { display: none; }
+.search-box:valid { background-image: none; }
 
 #search-results {
   position: absolute;
@@ -1184,6 +1198,10 @@ body#cflg-home {
     .widget-allterms-menu #wrapper {
         width: 100%;
     }
+    .navbar-clfg ul>li {
+        text-align: right;
+        padding-right: 20px;
+    }
 }
 
 /* Extra small devices ( 767px and smaller) and portrait */
@@ -1220,6 +1238,10 @@ body#cflg-home {
         float: left;
         margin: 0;
         padding: 0;
+    }
+    #search-results {
+      width: 300px;
+      margin-left: -150px;
     }
 }
 
@@ -1400,6 +1422,12 @@ body#cflg-home {
         padding-top: 0;
         font-size: 14px;
         margin-left: 0;
+    }
+    .search-wrapper {
+        width: 155px;
+        position: absolute;
+        right: 140px;
+        top: 0;
     }
 }
 
