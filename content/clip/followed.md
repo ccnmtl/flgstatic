@@ -1,6 +1,6 @@
 ---
 clipterms:
-- Canted Angle
+- Canted Angle (Dutch Angle)
 date: '2015-03-20T11:36:03+01:00'
 director_first: Bernardo
 director_last: Bertolucci
