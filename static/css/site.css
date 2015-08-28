@@ -63,11 +63,6 @@ h3 { margin-top: 30px;}
     height: 360px;
 }
 
-.widget-single-clip .video-js {
-    width: 640px;
-    height: 480px;
-}
-
 .widget-clip .video video {
     display: block;
     margin: auto;
@@ -159,20 +154,39 @@ h3 { margin-top: 30px;}
 }
 
 
-/* --- Video Clip widget embed in clip page */
+/* --- Video Clip widget embed in individual clip page */
+
+.widget-single-clip .video-js {
+    width: 640px;
+    height: 480px;
+}
 
 .widget-single-clip {
     position: relative;
-    margin: 0 auto 30px auto;
+    margin: 0;
     padding: 0;
-    border: 0;
+    border: none;
     background-color: transparent;
-    width: auto;
 }
+
+.widget-single-clip .data {
+    margin: 0 0 0 660px;
+    font-size: 14px;
+}
+
+.widget-single-clip .widget-share {
+    margin: 0;
+}
+
+/* .widget-single-clip .widget-share-icons {
+    height: 40px;
+    margin-bottom: 20px;
+}
+
 
 .widget-single-clip .vjs-big-play-centered .vjs-big-play-button {
     margin-left: -40px;
-}
+}*/
 
 
 
@@ -1162,6 +1176,11 @@ body#cflg-home {
         width: 320px;
         height: 240px;
     }
+    .widget-single-clip { width: 320px; }
+    .widget-single-clip .video-js {
+        width: 320px;
+        height: 240px;
+    }
     .widget-allterms-menu #wrapper {
         width: 100%;
     }
@@ -1277,6 +1296,11 @@ body#cflg-home {
         width: 480px;
         height: 360px;
     }
+    .widget-single-clip { width: 480px; }
+    .widget-single-clip .video-js {
+        width: 480px;
+        height: 360px;
+    }
     .widget-allterms-menu #wrapper {
         width: 300px;
     }
@@ -1370,7 +1394,6 @@ body#cflg-home {
         font-size: 14px;
         margin-left: 0;
     }
-    
     .item-clip-commentator {
         padding-left: 10px;
         float: left;
@@ -1401,6 +1424,15 @@ body#cflg-home {
     }
     .shrink .index-navbar-container {
         margin-top: 5px;
+    }
+    .widget-single-clip .video {
+        float: none;
+    }
+    .widget-clip .data {
+        margin: 10px 0 0 0;
+    }
+    .widget-clip .data dl {
+        margin-bottom: 0;
     }
 }
 
@@ -1526,10 +1558,6 @@ body#cflg-home {
         margin-top: 20px;
         margin-bottom: 10px;
     }
-
-
-
-
     .widget-allterms-menu #wrapper {
         width: 100%;
     }

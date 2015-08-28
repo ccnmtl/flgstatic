@@ -1,6 +1,6 @@
 {{ partial "header.html" . }}
 
-<div class="page-main-title">
+<div class="page-main-title single-clip-main-title">
     <div class="container mobile-xs">
         <h1>Clip: {{.Title}} ({{.Params.length}})</h1>
     </div>
@@ -8,56 +8,56 @@
 
 
 
-<div class="row">
-    <div class="col-md-9">
-        <div class="widget-clip widget-single-clip clearfix">
-            <div id="div-{{.UniqueID}}" class="video {{ if .Params.clip_commentary }}commentary-on{{ end }}">
-                {{ if .Params.clip_original }}
-                <video id="video-{{.UniqueID}}" class="video-js vjs-default-skin vjs-big-play-centered" poster="/img/assets/clipposter/{{.Title | urlize | lower}}.jpg" 
-                controls preload="auto" width="auto" height="auto"
-                data-setup='{}'>
-                {{ if .Params.clip_commentary }}
-                    <source src="{{.Params.clip_commentary}}" type="video/mp4">
-                {{ end }}
-                    <source src="{{.Params.clip_original}}" type="video/mp4">
-                </video>
+<div class="page-content single-clip-page-content clearfix">
+    <div class="widget-clip widget-single-clip clearfix">
+        <div id="div-{{.UniqueID}}" class="video {{ if .Params.clip_commentary }}commentary-on{{ end }}">
+            {{ if .Params.clip_original }}
+            <video id="video-{{.UniqueID}}" class="video-js vjs-default-skin vjs-big-play-centered" poster="/img/assets/clipposter/{{.Title | urlize | lower}}.jpg"
+            controls preload="auto" width="auto" height="auto"
+            data-setup='{}'>
+            {{ if .Params.clip_commentary }}
+                <source src="{{.Params.clip_commentary}}" type="video/mp4">
+            {{ end }}
+                <source src="{{.Params.clip_original}}" type="video/mp4">
+            </video>
+            
+            {{ else }}
+            
+            <div class="placeholder-clip">
+            </div><!-- /.placeholder-clip -->
+            
+            {{ end }}
+    
+    
+    
+        </div><!-- /.video -->
+        <div class="data">
+            <div class="film">
+                <dl>
+                <dt>Film:</dt>
+                <dd><i>{{.Params.film}}</i>, {{.Params.year}}</dd>
                 
-                {{ else }}
+                <dt>Director:</dt>
+                <dd>{{ if .Params.director }} {{.Params.director}}{{ else }}{{.Params.director_first}} {{.Params.director_last}}{{end}}</dd>
+    
+                <dt>Source:</dt>
+                <dd>{{.Params.source}}</dd>
                 
-                <div class="placeholder-clip">
-                </div><!-- /.placeholder-clip -->
+                {{ if .Params.commentary }}
+                <dt>{{ if .Params.annotated }}Annotated{{ else }}Audio{{ end }} commentary by:</dt>
+                <dd><img src="/img/bios/avatar-{{ .Params.avatar }}.png" alt="" width="30" height="30" /> {{ .Params.commentator }}</dd>
+                {{end}}
                 
-                {{ end }}
-            </div><!-- /.video -->
-        </div><!-- /.widget-clip -->
-        
-        <div style="margin-left: 20px;">
-        <p>
-            <b>Film:</b> <i>{{.Params.film}}</i>, {{.Params.year}}
-        </p>
-        <p>
-            <b>Director:</b> {{ if .Params.director }} {{.Params.director}}{{ else }}{{.Params.director_first}} {{.Params.director_last}}{{end}}
-        </p>
-        <p>
-            <b>Source:</b> {{.Params.source}}
-        </p>
-        {{ if .Params.commentary }}
-        <p>
-            <b>{{ if .Params.annotated }}Annotated{{ else }}Audio{{ end }} commentary by:</b> 
-        <img src="/img/bios/avatar-{{ .Params.avatar }}.png" alt="" width="30" height="30" /> {{ .Params.commentator }}
-        </p>
-        {{end}}
-        <p>
-            <b class="clip-field">This clip appears in:</b>
-            {{ range $i, $e := .Params.clipterms }}{{if $i}}, {{end}}<a href="/term/{{ . | urlize | lower}}/">{{$e}}</a> {{ end }}
-        </p>
-        </div>
+                <dt>This clip appears in:</dt>
+                <dd>{{ range $i, $e := .Params.clipterms }}{{if $i}}<br />{{end}}- <a href="/term/{{ . | urlize | lower}}/">{{$e}}</a> {{ end }}</dd>
+                </dl>
+                
+            <hr class="visible-xs visible-sm" />
+            {{ partial "widget-share.html" . }}
+            </div><!-- /.film -->
+        </div><!-- /.data -->
+    </div><!-- /.widget-clip -->
 
-    </div>
-    <div class="col-md-3">
-        <hr class="visible-xs visible-sm" />
-        {{ partial "widget-share.html" . }}
-    </div>
 </div>
 
 
