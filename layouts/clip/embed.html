@@ -37,11 +37,14 @@
             <dt>{{ if .Params.annotated }}Annotated{{ else }}Audio{{ end }} commentary by:</dt>
             <dd><img src="/img/bios/avatar-{{ .Params.avatar }}.png" alt="" width="30" height="30" /> {{ .Params.commentator }}</dd>
             {{end}}
-            
+
             <dt>This clip appears in:</dt>
             <dd>{{ range $i, $e := .Params.clipterms }}{{if $i}}<br />{{end}}- <a href="/term/{{ . | urlize | lower}}/">{{$e}}</a> {{ end }}</dd>
             </dl>
             
+            {{ if .Params.commentary }}
+            <div class="commentary-instruction"><i>Turn commentary on/off</i></div>
+            {{end}}
         </div><!-- /.film -->
     </div><!-- /.data -->
 </div><!-- /.widget-clip -->

@@ -112,10 +112,28 @@ h3 { margin-top: 30px;}
     color: #000;
 }
 
+.commentary-instruction {
+    color: #999;
+    padding-left: 5px;
+    padding-bottom: 10px;
+}
+
+.widget-single-clip .commentary-instruction {
+    padding-bottom: 20px;
+}
+
+.commentary-instruction:before {
+    font-family: VideoJS;
+    content: "\e00c\00a0";
+    text-align: left;
+    padding-left: 1px;
+}
+
 .vjs-control.vjs-commentary-button:before {
     font-family: VideoJS;
     content: "\e00c";
     text-align: left;
+    padding-left: 1px;
 }
 .vjs-control.vjs-commentary-button {
     float: right;
@@ -1456,7 +1474,7 @@ body#cflg-home {
     .widget-single-clip .video {
         float: none;
     }
-    .widget-clip .data {
+    .widget-single-clip .data {
         margin: 10px 0 0 0;
     }
     .widget-clip .data dl {
