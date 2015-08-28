@@ -42,7 +42,7 @@ the MGM style: elaborate sets, lit using full, high-key lighting,
 taking advantage of the biggest costume, property, and art departments
 in Hollywood.
 
-{{< embed_clip "St.Louis, 1903" >}}
+{{< embed_clip "St Louis, 1903" >}}
 
 Similarly, film noir in the postwar period developed its own
 mise-en-scène. In this sequence from <i>Mildred Pierce</i> (1945), the
