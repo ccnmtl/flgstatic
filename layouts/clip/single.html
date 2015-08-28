@@ -52,6 +52,10 @@
                 <dd>{{ range $i, $e := .Params.clipterms }}{{if $i}}<br />{{end}}- <a href="/term/{{ . | urlize | lower}}/">{{$e}}</a> {{ end }}</dd>
                 </dl>
                 
+            {{ if .Params.commentary }}
+            <div class="commentary-instruction"><i>Turn commentary on/off</i></div>
+            {{end}}
+
             <hr class="visible-xs visible-sm" />
             {{ partial "widget-share.html" . }}
             </div><!-- /.film -->
