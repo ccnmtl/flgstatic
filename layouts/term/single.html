@@ -28,17 +28,14 @@
 
           <hr class="visible-xs visible-sm" />
 
+          
 <div class="widget-allterms-menu">
     <h4>See Another Term <span class="glyphicon glyphicon-triangle-right" aria-hidden="true"></span> </h4>
 <div id="wrapper">
-<ul>
-{{range $section, $pages := .Site.Sections }}
-    {{ if eq $section "term" }}
-        {{ range $index, $page := $pages }}
-        <li><a href="{{$page.Page.Permalink}}">{{$page.Page.Title}}</a></li>
-        {{ end }}
+  <ul>
+    {{ range where .Site.Pages.ByTitle ".Section" "term" }}
+    <li><a href="{{.Permalink}}">{{.Title}}</a></li>
     {{ end }}
-{{ end }}
 </ul>
 </div>
 </div>
