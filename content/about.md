@@ -1,5 +1,5 @@
 ---
-title = "About the Columbia Film Glossary"
+title: "About the Columbia Film Glossary"
 ---
 
 <p><b style="color: red">This is a placeholder for About page. Should there also be a separate usage example page? Should the portfolio entry be included? http://ccnmtl.columbia.edu/portfolio/arts/film_language_glossa.html.<br /><br />How about the evaluation? http://ccnmtl.columbia.edu/projects/evaluations/filmglossary.pdf</b></p>
