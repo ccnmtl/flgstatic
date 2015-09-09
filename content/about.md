@@ -1,6 +1,6 @@
 ---
 date: 2015-09-09T14:04:12-04:00
-title: about
+title: "About the Columbia Film Language Glossary"
 ---
 
 <p><b style="color: red">This is a placeholder for About page. Should there also be a separate usage example page? Should the portfolio entry be included? http://ccnmtl.columbia.edu/portfolio/arts/film_language_glossa.html.<br /><br />How about the evaluation? http://ccnmtl.columbia.edu/projects/evaluations/filmglossary.pdf</b></p>
