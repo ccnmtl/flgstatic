@@ -11,9 +11,11 @@ title: "About the Columbia Film Language Glossary"
 
 <p>The Film Language Glossary is available to Columbia students over the campus network. Definitions and audio commentary are written by faculty at Columbia University. The glossary will continue to grow each academic semester, as new terms are written by the teaching staff. In addition, selections from graduating MFA students in the Film Division of the School of the Arts can also be found on the site.</p>
 
-<h3 id="Feedback">Feedback</h3>
+<div class="about-div" id="Feedback">
+<h3>Feedback</h3>
 
 <p>If you are interested in contributing to the glossary or using it in your course, please send an e-mail to ccnmtl-filmglossary@columbia.edu.</p>
+</div>
 
 <h3>Copyrights and Permissions</h3>
 
