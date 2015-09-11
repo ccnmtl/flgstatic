@@ -1,4 +1,6 @@
-[{{ range $index, $page := .Site.Pages }}{{ if eq $page.Type "clip" }}{{ if $index }},{{ end }}
+{{ $clips := where .Site.Pages ".Type" "clip" }}
+{{ $terms := where .Site.Pages ".Type" "term" }}
+[{{ range $index, $page := $clips }}{{ if $index }},{{ end }}
 {
    "type": "{{$page.Type}}",
    "url": "{{$page.RelPermalink}}",
@@ -10,10 +12,10 @@
    "year": "{{$page.Params.year}}",
    "length": "{{$page.Params.length}}",
    "clipterms": [{{ range $ctindex, $term := $page.Params.clipterms }}{{ if $ctindex }}, {{ end }}"{{ $term }}"{{ end }}]
-}{{ end }}{{ if eq $page.Type "term" }}{{ if $index }},{{ end }}
+}{{ end }}{{ range $index, $page := $terms }},
 {
    "type": "{{$page.Type}}",
    "url": "{{$page.RelPermalink}}",
    "title": "{{$page.Title}}",
    "content": "{{ $page.PlainWords }}"
-}{{ end }}{{ end }}]
+}{{ end }}]

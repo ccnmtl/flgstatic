@@ -1,6 +1,6 @@
-+++
-title = "Faculty Partners"
-+++
+---
+title: "Faculty Partners"
+---
 <br />
 
 <div class="bio-set clearfix">

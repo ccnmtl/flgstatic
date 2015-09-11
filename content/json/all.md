@@ -1,8 +1,8 @@
-+++
-title = "JSON dump of all content"
-date = "2015-03-20T13:29:00+01:00"
-type = "json"
-+++
+---
+title:  "JSON dump of all content"
+date:  "2015-03-20T13:29:00+01:00"
+type: "json"
+---
 
 This is a piece of dummy content. It exists to trigger Hugo into
 generating a "public/json/all/index.html" file, which gets populated
