@@ -33,7 +33,8 @@
     <h4>See Another Term <span class="glyphicon glyphicon-triangle-right" aria-hidden="true"></span> </h4>
 <div id="wrapper">
   <ul>
-    {{ range where .Site.Pages.ByTitle ".Section" "term" }}
+    {{ $terms := where .Site.Pages ".Section" "term" }}
+    {{ range  $terms.ByTitle }}
     <li><a href="{{.Permalink}}">{{.Title}}</a></li>
     {{ end }}
 </ul>
