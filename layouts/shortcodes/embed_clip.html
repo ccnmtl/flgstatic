@@ -1,6 +1,6 @@
 {{ $title := .Get 0 }}
 
-{{ range .Page.Node.Site.Recent }}
+{{ range .Page.Node.Site.Pages }}
 {{ $t1l := $title | urlize | lower }}
 {{ $t2l := .Title | urlize | lower }}
 {{ if eq $t1l $t2l }}
