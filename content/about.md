@@ -21,61 +21,82 @@ For information about copyright at Columbia University, visit the website of the
 
 For DMCA notices, please see: http://www.columbia.edu/content/copyright.html. E-mail address for DMCA notices: <copyright-abuse@columbia.edu>.
 
-<h3>Credits NEEDS REVISION</h3>
+### Credits
 
-<p><b>Faculty Partners</b>
-<p>Richard Pe&#241;a 	
+#### Faculty Partners
+
+Richard Pe&#241;a  
+_Professor of Professional Practice in Film, School of The Arts at Columbia University_
+
+Nancy Friedland  
+_Librarian for Film Studies and Performing Arts at Columbia University_
+
+#### Faculty Contributors
+
+James Schamus  
+_Professor of Professional Practice in Film, School of The Arts at Columbia University_
+
+Larry Engel  
+_Former Adjunct Professor of Film, Columbia University_
+
+David McKenna  
+_Former Adjunct Professor of Film, Columbia University_
+
+
+#### Film Language Glossary (2015)
+
+__Project Manager__  
+Aurora Collado
+
+__Video Production__  
+Jon Hanford  
+Stephanie Ogden
+
+__Design and Programming__  
+Zarina Mustapha  
+Anders Pearson  
+Jonah Bossewitch  
+  
+__Creative Direction__  
+Marc Raymond  
+  
+__Production Director__  
+Lucy Appert  
+  
+__Executive Producer__  
+Maurice Matiz  
+
+#### Film Language Glossary (original release)
+
+__Project Manager__  
+John Frankfurt
+
+__Video Production__  
+Brian O'Hagan  
+Stephanie Ogden
+
+__Interface Design__  
+Marc Raymond
+
+__Developer__  
+Catherine Jhee
+
+__Creative Direction__  
+Elizabeth Day
+
+__Production Director__  
+Ted Bongiovanni
+
+__Executive Producers__  
+Frank Moretti  
+Maurice Matiz
+
+__Additional Contributors__  
+Jonah Bossewitch  
+Andrew Boynton  
+David Miele  
+Peter Sommer
+
 <br />
-<i>Associate Professor of Film, Columbia University, Program Director, Film Society of Lincoln Center, and Chair of Selection Committee, New York Film Festival. </i></p>
-<p>
-Nancy Friedland
-<br />
-<i>Librarian for Butler Media, Film Studies and Performing Arts at Columbia University</i></p></p>
 
-<p><b>Faculty Contributors</b>
-<p>Larry Engel<br />
-<i>Adjunct Professor of Film, Columbia University</i></p>
-<p>
-David McKenna<br />
-<i>Adjunct Professor of Film, Columbia University</i></p>
-<p>
-James Schamus<br />
-<i>Professor of Film, Columbia University</i></p></p>
-
-<p><b>Project Manager</b><br/>
-Aurora Collado (2015)<br/>
-John Frankfurt (initial release)</p>
-
-<p><b>Video Production</b><br/>
-Jon Handoford (2015)<br />
-Stephanie Ogden<br />
-Brian O'Hagan (initial release)<br />
-</p>
-
-<p><b>Front-end design and development</b><br/>
-Zarina Mustapha (lead, 2015)<br />
-Anders Pearson (2015)<br />
-Marc Raymond (initial release)
-</p>
-
-<p><b>Creative Direction</b><br/>
-Marc Raymond (2015)<br />
-Elizabeth Day (initial release)</p>
-
-<p><b>Developer</b><br/>
-Catherine Jhee (initial release)</p>
-
-<p><b>Production Director</b><br/>
-Ted Bongiovanni</p>
-
-<p><b>Executive Producers</b><br/>
-Frank Moretti<br />
-Maurice Matiz</p>
-
-<p><b>Special Thanks</b><br/>
-Jonah Bossewitch<br />
-Andrew Boynton<br />
-David Miele<br />
-Peter Sommer</p>
-
-<p>Copyright &copy; The Trustees of Columbia University in the City of New York 2004-2015</p>
+##### &copy; 2015 The Trustees of Columbia University in the City of New York
