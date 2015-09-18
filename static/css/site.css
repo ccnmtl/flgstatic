@@ -1055,11 +1055,11 @@ body#cflg-home {
 }
 
 #cflg-main-banner {
-    height: 540px;
+    height: 430px;
     position: relative;
 }
 #cflg-slideshow {
-    height: 540px;
+    height: 430px;
     width: 100%;
     position: absolute;
     top: 0;
@@ -1067,7 +1067,7 @@ body#cflg-home {
     z-index: 100;
 }
 #cflg-slideshow div {
-    height: 540px;
+    height: 430px;
     width: 100%;
     position: absolute;
     top: 0;
@@ -1077,7 +1077,7 @@ body#cflg-home {
     background-repeat: no-repeat;
 }
 #cflg-promo {
-    height: 540px;
+    height: 430px;
     width: 100%;
     position: absolute;
     top: 0;
@@ -1112,14 +1112,25 @@ body#cflg-home {
     float: none;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 20px;
     padding-bottom: 10px;
 }
-
+/* For now, no video. Save for later
+#cflg-lead {
+    width: auto;
+    height: auto;
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 10px;
+}
+*/
 #cflg-lead p {
-    font-size: 16px;
-    line-height: 125%;
+    font-size: 18px;
+    line-height: 135%;
     text-align: center;
     text-shadow: 1px 1px 5px #000;
+    margin-bottom: 40px;
 }
 
 #cflg-highlights {
@@ -1145,7 +1156,7 @@ body#cflg-home {
 .btn-cflg {
     margin: 20px auto;
     display: block;
-    width: 140px;
+    width: 200px;
 }
 
 /* Extra small devices ( 767px and smaller) */
@@ -1271,16 +1282,16 @@ body#cflg-home {
 /* Intermediate devices (mini, android) */
 @media (min-width: 530px) and (max-width: 767px) {
     #cflg-main-banner {
-        height: 630px;
+        height: 430px;
     }
     #cflg-slideshow {
-        height: 630px;
+        height: 430px;
     }
     #cflg-slideshow div {
-        height: 630px;
+        height: 430px;
     }
     #cflg-promo {
-        height: 630px;
+        height: 430px;
     }
     #cflg-video {
         width: 480px;
@@ -1289,6 +1300,10 @@ body#cflg-home {
         margin-left: auto;
         margin-right: auto;
         line-height: 272px;
+    }
+    #cflg-lead {
+        width: 500px;
+        margin-top: 30px;
     }
     #cflg-video .video-js {
         width: 480px;
@@ -1354,16 +1369,16 @@ body#cflg-home {
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) {
     #cflg-main-banner {
-        height: 710px;
+        height: 530px;
     }
     #cflg-slideshow {
-        height: 710px;
+        height: 530px;
     }
     #cflg-slideshow div {
-        height: 710px;
+        height: 530px;
     }
     #cflg-promo {
-        height: 710px;
+        height: 530px;
     }
     #cflg-logo {
         margin: 40px auto;
@@ -1383,16 +1398,11 @@ body#cflg-home {
         height: 306px;
     }
     #cflg-lead {
-        width: auto;
-        height: auto;
-        float: none;
-        margin-left: auto;
-        margin-right: auto;
-        padding-bottom: 10px;
+        width: 650px;
     }    
     #cflg-lead p {
         font-size: 24px;
-        text-align: center;
+        margin-bottom: 50px;
     }
     #cflg-highlights h1 { 
         font-weight: normal;
@@ -1401,6 +1411,8 @@ body#cflg-home {
     #cflg-highlights p {
         padding: 0 10px;
         font-size: 14px;
+        height: 115px;
+        overflow: hidden;
     }
     .footer {
         padding-top: 0;
@@ -1490,16 +1502,16 @@ body#cflg-home {
 /* Medium devices (desktops, 992px and up) */
 @media (min-width: 992px) {
     #cflg-main-banner {
-        height: 580px;
+        height: 550px;
     }
     #cflg-slideshow {
-        height: 580px;
+        height: 550px;
     }
     #cflg-slideshow div {
-        height: 580px;
+        height: 550px;
     }
     #cflg-promo {
-        height: 580px;
+        height: 550px;
     }
     #cflg-logo {
         margin: 40px auto;
@@ -1519,16 +1531,11 @@ body#cflg-home {
         height: 306px;
     }
     #cflg-lead {
-        width: 400px;
-        height: 306px;
-        float: right;
-        margin-left: 0;
-        margin-right: 20px;
-        padding-bottom: 0;
+        width: 800px;
     }
     #cflg-lead p {
         font-size: 24px;
-        text-align: left;
+        margin-bottom: 60px;
     }
     #cflg-highlights h1 { 
         font-weight: normal;
@@ -1537,6 +1544,8 @@ body#cflg-home {
     #cflg-highlights p {
         padding: 0 20px;
         font-size: 16px;
+        height: 125px;
+        overflow: hidden;
     }
     .page-main-title  h1 {
         font-size: 36px;
@@ -1556,16 +1565,16 @@ body#cflg-home {
 /* Large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) {
     #cflg-main-banner {
-        height: 580px;
+        height: 550px;
     }
     #cflg-slideshow {
-        height: 580px;
+        height: 550px;
     }
     #cflg-slideshow div {
-        height: 580px;
+        height: 550px;
     }
     #cflg-promo {
-        height: 580px;
+        height: 550px;
     }
     #cflg-logo {
         margin: 40px auto;
@@ -1585,16 +1594,12 @@ body#cflg-home {
         height: 306px;
     }
     #cflg-lead {
-        width: 400px;
-        height: 306px;
-        float: right;
-        margin-left: 0;
-        margin-right: 100px;
-        padding-bottom: 0;
+        width: 800px;
     }
     #cflg-lead p {
         font-size: 24px;
-        text-align: left;
+        text-align: center;
+        margin-bottom: 60px;
     }
     #cflg-highlights h1 { 
         font-weight: normal;
@@ -1603,6 +1608,8 @@ body#cflg-home {
     #cflg-highlights p {
         padding: 0 20px;
         font-size: 16px;
+        height: 105px;
+        overflow: hidden;
     }
     .page-main-title  h1 {
         font-size: 36px;
