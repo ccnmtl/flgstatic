@@ -2,5 +2,25 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <meta name="description" content="The Columbia Film Language Glossary is a teaching tool designed to enhance the study of film. The Glossary features key terms in film studies selected by Columbia faculty and illustrated with detailed explanations, film clips, and visual annotations.">
     <meta name="author" content="Columbia University">
+
+    {{ if .Params }}
+    <!-- OGG -->
+    {{ if .Params.clip_original }}
+    <meta name="title" content="Columbia Film Language Glossary: Clip '{{ .Title }}' from {{ .Params.film }} ({{ .Params.year }})" />
+    <meta name="description" content="From {{ .Params.film }} ({{ .Params.year }}), directed by {{ if .Params.director }} {{.Params.director}}{{ else }}{{.Params.director_first}} {{.Params.director_last}}{{end}}. This clip is an example of {{ range $i, $e := .Params.clipterms }}{{if $i}}, {{end}}{{$e}}{{ end }}">
+    <meta property="og:title" content="Columbia Film Language Glossary: Clip '{{ .Title }}' from {{ .Params.film }} ({{ .Params.year }})" />
+    <meta property="og:description" content="From {{ .Params.film }} ({{ .Params.year }}), directed by {{ if .Params.director }} {{.Params.director}}{{ else }}{{.Params.director_first}} {{.Params.director_last}}{{end}}. This clip is an example of {{ range $i, $e := .Params.clipterms }}{{if $i}}, {{end}}'{{$e}}'{{ end }}" />
+    <meta property="og:image" content="{{ .Site.BaseURL }}img/assets/clipposter/{{.Title | urlize | lower}}.jpg" />
+    {{ else }}
+    <meta name="title" content="Columbia Film Language Glossary: {{ .Title }}" />
+    <meta name="description" content="{{ if .Params.termsummary }}{{ .Params.termsummary }}{{ else }}{{ .Summary }}{{ end }}">
+    <meta property="og:title" content="Columbia Film Language Glossary: {{ .Title }}" />
+    <meta property="og:description" content="{{ if .Params.termsummary }}{{ .Params.termsummary }}{{ else }}{{ .Summary }}{{ end }}" />
+    <meta property="og:image" content="{{ .Site.BaseURL }}img/logo-cflg-ogg.png" />
+    {{ end }}
+    <meta property="og:url" content="{{ .Permalink }}" />
+    {{ else }}
+    <meta name="title" content="Columbia Film Language Glossary" />
+    <meta name="description" content="The Columbia Film Language Glossary is a teaching tool designed to enhance the study of film. The Glossary features key terms in film studies selected by Columbia faculty and illustrated with detailed explanations, film clips, and visual annotations.">
+    {{ end }}
