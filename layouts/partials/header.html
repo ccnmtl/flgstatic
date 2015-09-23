@@ -2,7 +2,11 @@
 <html lang="en">
   <head>
     {{ partial "meta.html" . }}
-    <title>Columbia Film Language Glossary: {{ .Title }}</title>
+    {{ if .Params.clip_original }}
+    <title>Columbia Film Language Glossary: Clip '{{ .Title }}' from {{ .Params.film }} ({{ .Params.year }})</title>
+    {{ else }}
+     <title>Columbia Film Language Glossary: {{ .Title }}</title>
+    {{ end }}
 
     <link rel="icon" type="image/png" href="{{ .Site.BaseURL }}img/favicon.png" />
     <link rel="canonical" href="{{ .Permalink }}">
@@ -34,19 +38,6 @@
     /* Select from list: Chrome, Firefox, Safari, MSIE */
     shieldbrowser({"Firefox":39,"Safari":6,"MSIE":11,"Chrome":43});
     </script>
-
-
-    {{ if .Params }}
-    <!-- OGG -->
-    <meta property="og:url" content="{{ .Permalink }}" />
-    <meta property="og:title" content="Columbia Film Language Glossary: {{ .Title }}" />
-    <meta property="og:description" content="{{ if .Params.termsummary }}{{ .Params.termsummary }}{{ else }}{{ .Summary }}{{ end }}" />
-    {{ if .Params.clip_original }}
-    <meta property="og:image" content="{{ .Site.BaseURL }}img/assets/clipposter/{{.Title | urlize | lower}}.jpg" />
-    {{ else }}
-    <meta property="og:image" content="{{ .Site.BaseURL }}img/logo-cflg-ogg.png" />
-    {{ end }}
-    {{ end }}
 
   </head>
 
