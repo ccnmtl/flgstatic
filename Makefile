@@ -4,9 +4,16 @@ runserver:
 	./checkjson.py
 	hugo server --watch --buildDrafts --verboseLog=true -v
 
-deploy:
+deploy-stage:
 	rm -rf public/*
 	/usr/local/bin/hugo -s . -b 'https://flgstatic.stage.ccnmtl.columbia.edu/' \
 	&& mv public/json/all/index.html public/js/all.json \
 	&& ./checkjson.py \
 	&& s3cmd --acl-public --delete-removed --no-progress --no-mime-magic --guess-mime-type sync public/* s3://flgstatic.stage.ccnmtl.columbia.edu/
+
+deploy-prod:
+	rm -rf public/*
+	/usr/local/bin/hugo -s . -b 'https://filmglossary.ccnmtl.columbia.edu/' \
+	&& mv public/json/all/index.html public/js/all.json \
+	&& ./checkjson.py \
+	&& s3cmd --acl-public --delete-removed --no-progress --no-mime-magic --guess-mime-type sync public/* s3://filmglossary.ccnmtl.columbia.edu/
