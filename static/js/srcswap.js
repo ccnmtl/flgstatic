@@ -21,8 +21,8 @@
         this.vplayer.poster('/img/assets/clipposter/transition.jpg');
         jQuery(this.v).attr('poster','/img/assets/clipposter/transition.jpg');
         this.vplayer.src(this.sources[inactiveIdx]);
-         var self = this;
-        this.vplayer.on('loadedmetadata', function(){ 
+        var self = this;
+        this.vplayer.on('loadedmetadata', function() {
             self.vplayer.currentTime(tc);
         });
         this.vplayer.play();
@@ -50,7 +50,7 @@
             //  the button may change
             'aria-live': 'polite',
             tabIndex: 0
-          };
+        };
         return videojs.Component.prototype.createEl(null, props);
     };
 

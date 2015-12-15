@@ -1,8 +1,8 @@
 jQuery(document).ready(function() {
     var offsetHeight = 130;
     jQuery('body').scrollspy({
-        target: "#index-list-navbar",
-        offset:offsetHeight
+        target: '#index-list-navbar',
+        offset: offsetHeight
     });
     jQuery('#nav-index-list li a').click(function(event) {
         var firstLetter = jQuery(this).parent().is(':first-child');
@@ -10,8 +10,12 @@ jQuery(document).ready(function() {
             offsetHeight = 200;
         } else {
             offsetHeight = 130;
-        };
-        var scrollPos = jQuery('body').find(jQuery(this).attr('href')).offset().top - (offsetHeight - 1);
+        }
+        var scrollPos = jQuery('body')
+            .find(jQuery(this)
+                  .attr('href'))
+            .offset()
+            .top - (offsetHeight - 1);
         jQuery('body,html').animate({
             scrollTop: scrollPos
         }, 10);

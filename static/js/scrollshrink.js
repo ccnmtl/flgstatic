@@ -2,7 +2,7 @@ jQuery(document).ready(function() {
     var shrinkHeader = 60;
     jQuery(window).scroll(function() {
         var scroll = getCurrentScroll();
-        if ( scroll >= shrinkHeader ) {
+        if (scroll >= shrinkHeader) {
             jQuery('.page-main-title').addClass('shrink');
         } else {
             jQuery('.page-main-title').removeClass('shrink');
