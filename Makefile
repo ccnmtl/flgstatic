@@ -1,19 +1,16 @@
-runserver:
-	hugo --buildDrafts --verboseLog=true -v
-	mv public/json/all/index.html public/js/all.json
-	./checkjson.py
-	hugo server --watch --buildDrafts --verboseLog=true -v
+STAGING_URL=https://flgstatic.stage.ccnmtl.columbia.edu/
+PROD_URL=https://filmglossary.ccnmtl.columbia.edu/
+STAGING_BUCKET=flgstatic.stage.ccnmtl.columbia.edu
+PROD_BUCKET=filmglossary.ccnmtl.columbia.edu
+INTERMEDIATE_STEPS ?= make $(PUBLIC)/js/all.json
 
-deploy-stage:
-	rm -rf public/*
-	/usr/local/bin/hugo -s . -b 'https://flgstatic.stage.ccnmtl.columbia.edu/' \
-	&& mv public/json/all/index.html public/js/all.json \
-	&& ./checkjson.py \
-	&& s3cmd --acl-public --delete-removed --no-progress --no-mime-magic --guess-mime-type sync public/* s3://flgstatic.stage.ccnmtl.columbia.edu/
+JS_FILES=static/js/search.js static/js/srcswap.js static/js/alphalist.js static/js/bgswap.js \
+static/js/scrollshrink.js static/js/scrollspy.js static/js/widgets.js
 
-deploy-prod:
-	rm -rf public/*
-	/usr/local/bin/hugo -s . -b 'https://filmglossary.ccnmtl.columbia.edu/' \
-	&& mv public/json/all/index.html public/js/all.json \
-	&& ./checkjson.py \
-	&& s3cmd --acl-public --delete-removed --no-progress --no-mime-magic --guess-mime-type sync public/* s3://filmglossary.ccnmtl.columbia.edu/
+all: jshint jscs
+
+include *.mk
+
+$(PUBLIC)/js/all.json: $(PUBLIC)/json/all/index.html
+	mv $< $@ \
+	&& ./checkjson.py
