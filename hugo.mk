@@ -14,13 +14,13 @@ runserver:
 deploy-stage:
 	rm -rf $(PUBLIC)/*
 	$(HUGO) $(PROD_FLAGS) -b '$(STAGING_URL)' \
-	$(INTERMEDIATE_STEPS) \
+	&& $(INTERMEDIATE_STEPS) \
 	&& $(S3CMD) $(S3_FLAGS) sync $(PUBLIC)/* s3://$(STAGING_BUCKET)/
 
 deploy-prod:
 	rm -rf $(PUBLIC)/*
 	$(HUGO) $(PROD_FLAGS) -b '$(PROD_URL)' \
-	$(INTERMEDIATE_STEPS) \
+	&& $(INTERMEDIATE_STEPS) \
 	&& $(S3CMD) $(S3_FLAGS) sync $(PUBLIC)/* s3://$(PROD_BUCKET)/
 
 .PHONY: runserver deploy-stage deploy-prod
