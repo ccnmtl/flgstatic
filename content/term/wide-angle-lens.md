@@ -20,11 +20,11 @@ Taken together, to the extent that both the foreground and background appear to 
 
 Because of how much visual information wide-angle lenses can capture, they are often used in establishing shots. In classical Hollywood film style, establishing shots are often the shots that open the scene:  they show the entirety of the space where the scene is taking place, including geography and spatial relation between subjects. Wide shots can sometimes also give the audience a breather from the tension of a scene, whereas closer shots force the audience to focus on a particular subject.
 
-{{< embed_clip “Waking Up” >}}
+{{< embed_clip "Waking Up" >}}
 
 The one feature of wide-angle lenses which does not depend on other conditions is that they exaggerate depth.  A wide-angle lens will make subjects feel far apart from each other, giving a sense of a distorted or weirdly massive world; when used in a closeup, wide-angle lenses can distort the features of the subject. Sometimes this distortion is used for narrative purposes. Filmmakers notable for this technique include Wong Kar-wai (Fallen Angels), Darren Aronofsky (Requiem for a Dream), and Terry Gilliam (12 Monkeys).  Recently, filmmakers such as Peter Jackson have used this property of wide angle lenses to stage characters of very different sizes within the same scene, using optical, not CGI effects (Lord of the Rings).
 
-{{<embed_clip “Shoot Out“ >}}
+{{<embed_clip "Shoot Out" >}}
 
 The technical definition of a wide-angle lens, in film cinematography, is that its focal length (measured in mm) is significantly less than the diagonal of that of the film frame in use.
 
