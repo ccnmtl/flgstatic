@@ -1,6 +1,6 @@
 ---
 clipterms:
-- Wide-angle Lens
+- Wide-Angle Lens
 commentary: ''
 date: 
 director_first: Wong
