@@ -1,6 +1,6 @@
 ---
 clipterms:
-- Wide-Angel Lens
+- Wide-Angle Lens
 commentary: ''
 date: 
 director_first: Terry
