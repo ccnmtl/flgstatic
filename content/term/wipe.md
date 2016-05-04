@@ -12,7 +12,6 @@ The wipe, first deployed in film by Robert Paul in 1901 on *Scrooge, or Marleyâ€
 
 In the early days of celluloid, wipes were more expensive than [dissolves](../dissolve/) or cuts, because they had to be executed at the lab.  By the 1930s, the studios acquired their own optical printers, and wipes became more widely used, especially at Warner Brothers.  Since the advent of non-linear digital editing systems, the use of wipes and other effects-transitions has waned in feature films as these transitions proliferated in low-end video production.  
 
-<!--more-->
 
 {{< embed_clip "Problem on the Dancefloor" >}}
 
