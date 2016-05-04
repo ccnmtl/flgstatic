@@ -19,3 +19,6 @@ Hoping to recall that era, the director George Roy Hill revived the
 wipe/split-screen effect in his nostalgic 1973 film, The Sting.
 
 {{<embed_clip "I'm Out" >}}
+
+
+<!--more-->
