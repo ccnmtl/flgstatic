@@ -6,7 +6,7 @@ date:
 director_first: Terry
 director_last: Gilliam
 film: 12 Monkeys
-length: ‘1:07’
+length: 1:07
 source: Universal Pictures, Blu-Ray release July 28, 2009
 title: Waking Up
 year: 1995
