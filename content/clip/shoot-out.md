@@ -6,7 +6,7 @@ date:
 director_first: Wong
 director_last: Kar-wai
 film: Fallen Angels
-length: ’00:54’
+length: 00:54
 source: Kino Lorber Film
 title: Shoot Out
 year: 1995
