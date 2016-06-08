@@ -2,7 +2,7 @@
 clipterms:
 - Wide-Angle Lens
 commentary: ''
-date: 
+date: '2015-03-20T11:35:19+01:00'
 director_first: Wong
 director_last: Kar-wai
 film: Fallen Angels
