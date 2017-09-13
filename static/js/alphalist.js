@@ -1,3 +1,5 @@
+/* eslint-env jquery */
+
 (function() {
     var list = {letters: []};
     jQuery('#index-list').children('.list-item').each(function() {
