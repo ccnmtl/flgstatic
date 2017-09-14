@@ -1,3 +1,5 @@
+/* eslint-env jquery */
+
 jQuery(document).ready(function() {
     var shrinkHeader = 60;
     jQuery(window).scroll(function() {

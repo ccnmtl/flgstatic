@@ -1,3 +1,5 @@
+/* eslint-env jquery */
+
 (function() {
     jQuery('#cflg-slideshow div:gt(0)').hide();
     setInterval(function() {

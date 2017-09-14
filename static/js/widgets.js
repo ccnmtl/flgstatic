@@ -1,3 +1,5 @@
+/* eslint-env jquery */
+
 (function() {
     /* Sidebar other-terms menu */
     jQuery('.widget-allterms-menu h4').click(function() {
@@ -8,7 +10,7 @@
             .toggleClass('glyphicon-triangle-right glyphicon-triangle-bottom');
     });
     /* Social-media sharing */
-    jQuery('.share-window').click(function(event) {
+    jQuery('.share-window').click(function() {
         var width = 575;
         var height = 400;
         var left = (jQuery(window).width()  - width)  / 2;

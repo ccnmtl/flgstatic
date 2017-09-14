@@ -1,3 +1,6 @@
+/* eslint-env jquery */
+/* globals videojs */
+
 (function() {
 
     videojs.Commentary = videojs.Button.extend({
@@ -76,7 +79,7 @@
                 sources: sources,
                 activeIdx: activeIdx
             };
-            var vid = videojs(video.id, {plugins: plugins});
+            videojs(video.id, {plugins: plugins});
         }
     });
 
