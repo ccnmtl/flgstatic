@@ -8,7 +8,7 @@ HUGO=/usr/local/bin/hugo-0.15
 JS_FILES=static/js/search.js static/js/srcswap.js static/js/alphalist.js static/js/bgswap.js \
 static/js/scrollshrink.js static/js/scrollspy.js static/js/widgets.js
 
-all: jshint jscs
+all: eslint
 
 include *.mk
 

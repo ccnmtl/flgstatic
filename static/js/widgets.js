@@ -17,10 +17,12 @@
         var top = (jQuery(window).height() - height) / 2;
         var url = this.href;
         var opts = 'status=1' +
-            ',width='  + width  +
+            ',width=' + width  +
             ',height=' + height +
-            ',top='    + top    +
-            ',left='   + left;
+            ',top=' + top +
+            ',left=' + left;
+
+        // eslint-disable-next-line security/detect-non-literal-fs-filename
         window.open(url, 'sharecflg', opts);
         return false;
     });
