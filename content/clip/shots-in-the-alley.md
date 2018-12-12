@@ -13,8 +13,8 @@ title: Shots in the Alley
 year: '1947'
 commentary: yes
 annotated: yes
-clip_original: http://stream.ccnmtl.columbia.edu/public/610b7c4d-ce1e-43a5-bce6-29a10a3b621e-011_tmen_FLG-mp4-aac-480w-850kbps-ffmpeg.mp4
-clip_commentary: http://stream.ccnmtl.columbia.edu/public/973b5ff7-c586-4982-ac47-cb8204989314_480-011_tmen_commentary_FLG_et.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/2a5bd827-1d10-46a9-a22a-a9b30173d051/b19cfcbb-3228-46c3-859b-a9b30173d0e3-f0986158-34f0-4eae-85c6-a9b30174b374.mp4
+clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/1b897544-e618-4983-b70e-a9b30173be26/b8059cc4-f65f-441d-8779-a9b30173be39-b30e90fc-943d-4ccf-85d9-a9b301748f28.mp4
 commentator: "Richard Pe\xf1a"
 avatar: pena
 

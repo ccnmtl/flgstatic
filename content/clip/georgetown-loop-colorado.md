@@ -12,6 +12,6 @@ source: 2002 Kino Int. Corp
 thumb: http://ccnmtl.columbia.edu/projects/filmglossary/web/thumbs/georgetown_loop.jpg
 title: Georgetown Loop (Colorado)
 year: '1903'
-clip_original: http://stream.ccnmtl.columbia.edu/public/0bae0748-ec7e-4485-81a7-e145b7d93372_480-022_georgetown_FLG_et.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/e6493407-41b7-4833-974b-a9b30173ab9e/5dbf3a83-43dc-46f8-9434-a9b30173aba7-6f344f50-d3f6-4b10-a0bc-a9b301748708.mp4
 
 ---

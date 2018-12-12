@@ -11,6 +11,6 @@ length: '1:15'
 source: 2001 Warner Home Video
 title: A Gamesters Life
 year: '1975'
-clip_original: http://stream.ccnmtl.columbia.edu/public/39bbbd21-25eb-4aac-89e9-9aa8223ccee5_480-023_lyndon_FLG_et.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/b8fa380f-a5d5-4a68-97e8-a9b30173abc9/6a3f17c4-27f7-4b32-98da-a9b30173abd3-e14b8a56-b3fe-442a-b7a0-a9b301747f42.mp4
 
 ---

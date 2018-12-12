@@ -11,8 +11,8 @@ source: 2004 Criterion
 title: Palermo, 1945
 year: '1962'
 commentary: yes
-clip_original: http://stream.ccnmtl.columbia.edu/public/1d36929a-c878-4aea-b1c4-f6ebd17006d4-039_salvatore_FLG-mp4-aac-480w-850kbps-ffmpeg.mp4
-clip_commentary: http://stream.ccnmtl.columbia.edu/public/4d488efa-3298-4ef0-8997-64835ac900fb-039_salvatore_commentary_FLG-mp4-aac-480w-850kbps-ffmpeg.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/2016fdd0-951a-450f-876a-a9b301739874/9da1901b-12ee-4649-b90c-a9b301739882-c4ae7037-b78a-44be-b2b3-a9b30174529b.mp4
+clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/252c4223-6471-4659-ad82-a9b301739a20/4e008b0a-b327-4653-8037-a9b301739a2a-0b27bc6c-a145-4e13-b2a7-a9b301745ce5.mp4
 commentator: "Richard Pe\xf1a"
 avatar: pena
 

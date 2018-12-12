@@ -13,8 +13,8 @@ title: Entering the Bedroom
 year: '1919'
 commentary: yes
 annotated: yes
-clip_original: http://stream.ccnmtl.columbia.edu/public/1ee4d373-0c99-4f8d-92de-7a9209299f10-019_calgari_FLG-mp4-aac-480w-850kbps-ffmpeg.mp4
-clip_commentary: http://stream.ccnmtl.columbia.edu/public/595554e5-1de0-4bbd-b65d-28ac07271fd0-019_calgari_commentary_FLG-mp4-aac-480w-850kbps-ffmpeg.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/204d8165-adbc-4eb2-8f6c-a9b30173bdf4/b0a94ae9-2d62-40f0-ad9e-a9b30173bdfe-2b852b49-b26b-42de-b497-a9b30174ad43.mp4
+clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/9acf3184-6110-4036-9c64-a9b30173be29/5331c4f8-2fbc-4b58-bf08-a9b30173be32-a11e4942-e126-4164-b46e-a9b30174b8e2.mp4
 commentator: "Richard Pe\xf1a"
 avatar: pena
 

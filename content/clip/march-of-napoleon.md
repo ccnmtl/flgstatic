@@ -12,8 +12,8 @@ title: "March of Napol\xE9on"
 year: '1927'
 commentary: yes
 annotated: yes
-clip_original: http://stream.ccnmtl.columbia.edu/public/26236502-58c4-4845-a584-b06c0670cbbf-046_napoleon1_FLG-mp4-aac-480w-850kbps-ffmpeg.mp4
-clip_commentary: http://stream.ccnmtl.columbia.edu/public/e6d0b6b0-3669-4cee-93e6-44cd2488e3b4-046_napoleon1_commentary_FLG-mp4-aac-480w-850kbps-ffmpeg.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/a32eaba6-f850-43d1-915d-a9b301739a27/ae52c3a6-3569-48bb-b817-a9b301739a3a-bcbaac0c-8a11-4131-b6de-a9b3017455af.mp4
+clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/e87e4922-efe9-4dc8-b7dc-a9b301739a48/8e1e34b0-20d5-44ba-b02f-a9b301739a51-122efc41-294a-46da-b48d-a9b301746b20.mp4
 commentator: David McKenna
 avatar: mckenna
 

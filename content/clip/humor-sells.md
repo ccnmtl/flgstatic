@@ -10,6 +10,6 @@ quicktime: humor_sells.mov
 source: 2001 Criterion Collection
 title: Humor Sells
 year: '1968'
-clip_original: http://stream.ccnmtl.columbia.edu/public/02c223d5-7fb4-431a-8a55-1656f34da5f4_480-079_salesman_FLG_et.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/1dec386f-98de-439f-91bc-a9b3017374c0/f5a808c1-dc00-4b67-bc6c-a9b3017374c9-8ef9a987-8e3b-4ff6-9260-a9b301741400.mp4
 
 ---

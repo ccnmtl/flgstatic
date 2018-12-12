@@ -11,6 +11,6 @@ quicktime: waiting_on_a_friend.mov
 source: 1999 Image Entertainment
 title: Waiting on a Friend
 year: '1964'
-clip_original: http://stream.ccnmtl.columbia.edu/public/829e3f79-fe7e-43d0-98d1-659f883dc55c-056_desert_FLG-mp4-aac-480w-850kbps-ffmpeg.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/9d84b23f-0b65-40eb-8a0c-a9b30173884c/351aaddb-5958-4cf2-9dbb-a9b301738856-29f684a3-620a-44c5-b446-a9b3017445e9.mp4
 
 ---

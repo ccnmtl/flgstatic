@@ -13,8 +13,8 @@ title: Mahjong
 year: '1991'
 commentary: yes
 annotated: yes
-clip_original: http://stream.ccnmtl.columbia.edu/public/ed02add8-99dd-4941-a51c-e2938806e74a-018_lantern_FLG-mp4-aac-480w-850kbps-ffmpeg.mp4
-clip_commentary: http://stream.ccnmtl.columbia.edu/public/67ef1dbd-83e4-4dab-81e8-c0e64b84cd96_480-018_lantern_commentary_FLG_et.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/f7bda214-9392-464d-be92-a9b30173bdff/d467bce6-3acc-48fe-b4b8-a9b30173be0d-72df0319-311b-4471-bdba-a9b30174b247.mp4
+clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/0f0976e2-9dac-4fa0-aa51-a9b30173bd98/6a3ab2b4-8f6c-4513-8fd9-a9b30173bda2-825b92a8-27d7-4f33-9f15-a9b30174999e.mp4
 commentator: "Richard Pe\xf1a"
 avatar: pena
 

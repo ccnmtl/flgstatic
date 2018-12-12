@@ -11,8 +11,8 @@ source: 1999 Turner Entertainment
 title: St Louis, 1903
 year: '1944'
 commentary: yes
-clip_original: http://stream.ccnmtl.columbia.edu/public/bcd3be81-2a61-4812-b198-e86bc51b60a2-012_stlouis_FLG-mp4-aac-480w-850kbps-ffmpeg.mp4
-clip_commentary: http://stream.ccnmtl.columbia.edu/public/95a9b340-7d92-4ff9-9561-08bdc481c18f-012_stlouis_commentary_FLG-mp4-aac-480w-850kbps-ffmpeg.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/fa00bf0c-70df-4345-bce5-a9b30173bdfb/d84ee0f1-9a4c-45ed-a7ec-a9b30173be04-54163ed7-ce06-4396-9955-a9b301746a35.mp4
+clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/e54ed678-1a4a-42fd-accd-a9b30173bdc7/bcf039f6-5e61-4d24-8f72-a9b30173bdd1-f5035431-2dac-40c2-81df-a9b301748316.mp4
 commentator: "Richard Pe\xf1a"
 avatar: pena
 

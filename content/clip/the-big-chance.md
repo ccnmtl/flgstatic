@@ -11,6 +11,6 @@ quicktime: the_big_chance.mov
 source: 1991 MGM/UA Video
 title: The Big Chance
 year: '1927'
-clip_original: http://stream.ccnmtl.columbia.edu/public/a9763c3f-6622-4d76-ac95-f64ed9168461_480-032_jazzsinger_FLG_et.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/28a88101-b968-4cdf-8ab5-a9b30173abd7/ffa118ea-aa2d-464c-a698-a9b30173abe0-76b16a16-c996-47bb-810d-a9b3017478cb.mp4
 
 ---

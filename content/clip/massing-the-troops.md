@@ -12,8 +12,8 @@ title: Massing the Troops
 year: '1927'
 commentary: yes
 annotated: yes
-clip_original: http://stream.ccnmtl.columbia.edu/public/e72c2d96-8e0b-41c9-970e-1d084da31385-047_napoleon2_FLG-mp4-aac-480w-850kbps-ffmpeg.mp4
-clip_commentary: http://stream.ccnmtl.columbia.edu/public/e647b535-9749-4540-82b6-acacbe416390-047_napoleon2_commentary_FLG-mp4-aac-480w-850kbps-ffmpeg.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/a88175ed-2af1-4783-aef0-a9b301739b18/9584df66-3293-4e5c-9705-a9b301739b20-9523196d-3429-44cc-b470-a9b301746125.mp4
+clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/1108b41d-1033-4a96-ba8a-a9b301739a38/66b3d68d-ab75-4765-9394-a9b301739a3d-310f54a6-7dc5-4f29-8e6f-a9b3017466d6.mp4
 commentator: David McKenna
 avatar: mckenna
 

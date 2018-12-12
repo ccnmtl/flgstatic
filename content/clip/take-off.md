@@ -13,8 +13,8 @@ title: Take-Off
 year: '1902'
 commentary: yes
 annotated: yes
-clip_original: http://stream.ccnmtl.columbia.edu/public/b1c67467-da3b-4af2-b363-d72c018860a7_480-029_moon_FLG_et.mp4
-clip_commentary: http://stream.ccnmtl.columbia.edu/public/09434a49-df7b-4522-bb2d-acfbaaa4f86e_480-029_moon_commentary_FLG_et.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/92421803-d0d1-4d38-a3ea-a9b30173abf5/c0b2945d-87e4-4fde-ae0d-a9b30173abfa-54e053df-5609-4f44-bb0a-a9b301749b4d.mp4
+clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/e5d48428-ef68-4fff-b9fe-a9b30173abde/9e2b66b2-8c63-4e81-a68a-a9b30173abe8-7b071a2f-6024-40b4-b8cd-a9b301747428.mp4
 commentator: Larry Engel
 avatar: engel
 

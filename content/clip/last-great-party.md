@@ -13,8 +13,8 @@ thumb: ''
 title: Last, Great Party
 year: '1942'
 commentary: yes
-clip_original: http://stream.ccnmtl.columbia.edu/public/e4aa23cf-7166-43f3-ae25-0bac7b5d5850-007_ambersons_FLG-mp4-aac-480w-850kbps-ffmpeg.mp4
-clip_commentary: http://stream.ccnmtl.columbia.edu/public/a7088788-8024-492b-b1d5-feaf12d3e8d8-007_ambersons_commentary_FLG-mp4-aac-480w-850kbps-ffmpeg.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/511bbf5a-9048-4f93-b5e8-a9b30173d029/a294b112-c686-4e74-93d9-a9b30173d033-38b828fe-4853-41e6-9176-a9b30174afaf.mp4
+clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/83d0a47f-50d6-40f3-8ca8-a9b30173d027/86e31204-8b71-4e67-bc2f-a9b30173d035-417e309d-b447-45a0-b44e-a9b30174bb6f.mp4
 commentator: "Richard Pe\xf1a"
 avatar: pena
 

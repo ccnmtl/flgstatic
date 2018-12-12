@@ -11,6 +11,6 @@ quicktime: newspaper_office.mov
 source: 1999 LaserLight
 title: Newspaper Office
 year: '1940'
-clip_original: http://stream.ccnmtl.columbia.edu/public/bcb9b028-8c02-4a10-a258-58fbc492f9d2-038_friday_FLG-mp4-aac-480w-850kbps-ffmpeg.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/0ef781e9-7f83-409f-9911-a9b301739859/5b59629e-82a6-45a7-8565-a9b301739862-5b1630ca-1449-47db-9fb2-a9b30174640f.mp4
 
 ---

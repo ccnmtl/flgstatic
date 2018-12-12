@@ -13,8 +13,8 @@ title: Negative Review
 year: '1941'
 commentary: yes
 annotated: yes
-clip_original: http://stream.ccnmtl.columbia.edu/public/7623affb-ab37-4a8e-b319-52e0acec7de2-004_citizenkane_negrev_FLG-mp4-aac-480w-850kbps-ffmpeg.mp4
-clip_commentary: http://stream.ccnmtl.columbia.edu/public/f2dfb7cd-c94e-410b-bbac-72292202e451_480-004_citizenkane_negrev_commentary_FLG_et.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/c9e1586c-4902-469c-b996-a9b30173d0ab/784d1927-efba-48e9-b6b9-a9b30173d0df-91786bbc-3f3f-4dba-92b5-a9b30174a8b8.mp4
+clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/a6d6d837-3bd9-468f-a778-a9b30173d00b/e495c961-5c69-4a69-8f13-a9b30173d02c-9ba911a5-4571-42ea-a3c8-a9b30174a9a4.mp4
 commentator: "Richard Pe\xf1a"
 avatar: pena
 

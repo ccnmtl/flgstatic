@@ -12,8 +12,8 @@ source: 1999 Universal
 title: First Sighting
 year: '1958'
 commentary: yes
-clip_original: http://stream.ccnmtl.columbia.edu/public/8cef786e-a1f0-43e9-9538-2ffb884986fb_480-021_vertigo_FLG_et.mp4
-clip_commentary: http://stream.ccnmtl.columbia.edu/public/5597d5ee-aee3-442d-97bd-af0c0facfd8b_480-021_vertigo_commentary_FLG_et.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/5c32dd94-fdf3-4f5d-830c-a9b30173aba5/a39e22a4-9385-4f0d-b708-a9b30173abaf-24d3248c-d6d4-4bf4-8c01-a9b3017471dd.mp4
+clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/132d9b42-04ea-4f4f-b807-a9b30173abdd/59e2e89a-2040-495d-90b2-a9b30173abe6-3a3f1cd7-3918-4528-a4cf-a9b301747cfb.mp4
 commentator: "Richard Pe\xf1a"
 avatar: pena
 

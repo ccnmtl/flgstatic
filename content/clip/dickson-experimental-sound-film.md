@@ -11,7 +11,7 @@ quicktime: dickson_experimental_sound_film.mov
 source: 2004 National Film Preservation Foundation
 title: Dickson Experimental Sound Film
 year: ca. 1894
-clip_original: http://stream.ccnmtl.columbia.edu/public/cc785bc3-ac8a-4044-8b60-c61118b86d60_480-031_sound_FLG_et.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/afae9863-b934-4439-a7fc-a9b30173ac23/e3faa726-6870-4208-9442-a9b30173ac2d-c58b89fb-dd53-4592-8ae3-a9b301748578.mp4
 
 
 ---

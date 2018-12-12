@@ -12,8 +12,8 @@ title: Bathtub Talk
 year: '1959'
 commentary: yes
 annotated: yes
-clip_original: http://stream.ccnmtl.columbia.edu/public/cb98ee29-2ab5-43e2-9424-1dfade8a8ab8-036_pillow_FLG-mp4-aac-480w-850kbps-ffmpeg.mp4
-clip_commentary: http://stream.ccnmtl.columbia.edu/public/4b5c4c42-f0c9-4e81-bdcb-6b0e5e44ed2f_480-036_pillow_commentary_FLG_et.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/86e5d7a6-53e6-4f6c-9dad-a9b30173abfd/b4ec6757-ed3a-4f39-a836-a9b30173ac07-2b270f01-2006-4e41-9fbb-a9b301749663.mp4
+clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/685d5853-619e-411c-8fde-a9b30173aa62/ee356dc2-1f69-4596-818c-a9b30173aa6c-9be631a7-6980-4174-a394-a9b301746aff.mp4
 commentator: David McKenna
 avatar: mckenna
 

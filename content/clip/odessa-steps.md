@@ -12,8 +12,8 @@ thumb: ''
 title: Odessa Steps
 year: '1925'
 commentary: yes
-clip_original: http://stream.ccnmtl.columbia.edu/public/c3371940-a362-471b-888b-d8317e8548bc-002_potemkin_FLG-mp4-aac-480w-850kbps-ffmpeg.mp4
-clip_commentary: http://stream.ccnmtl.columbia.edu/public/540920b1-c3e8-4dbe-9811-25465445b2a8_480-002_potemkin_commentary_FLG_et.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/e0b74f49-a49c-4b40-b56e-a9b30173e21b/ee65cd37-b6f6-451d-ad74-a9b30173e225-68ae7de8-3b09-43ed-87e1-a9b30174b670.mp4
+clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/9b7badd7-23a5-4e92-bb39-a9b30173e158/e59016c8-2ab7-45d6-885e-a9b30173e15d-0455c1d9-6a67-4bff-9e6a-a9b30174be91.mp4
 commentator: "Richard Pe\xf1a"
 avatar: pena
 
