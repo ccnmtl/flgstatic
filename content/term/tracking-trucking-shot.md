@@ -17,6 +17,6 @@ railroad tracks.
 
 {{< embed_clip "Credit Sequence" >}}
 
-A [dolly shot](../dolly-shot/) is a variant on the tracking shot; here
+A [dolly shot](../dolly-dolly-shot/) is a variant on the tracking shot; here
 the camera is mounted on a wheeled platform and then moved through
 space.
