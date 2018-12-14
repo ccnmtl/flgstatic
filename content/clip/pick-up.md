@@ -11,6 +11,6 @@ quicktime: ''
 source: 2004 Kino Int. Corp.
 title: Pick-Up
 year: '1922'
-clip_original: http://stream.ccnmtl.columbia.edu/public/d5390579-f0dc-4e20-9132-30064e244b96_480-059_nosferatu_FLG_et.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/b218aeef-31c6-4ff4-b477-a9b301738871/db387c83-21e5-4ff8-a19f-a9b30173887a-da2bfcdc-decb-4e6b-b91f-a9b3017425c6.mp4
 
 ---

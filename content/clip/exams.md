@@ -11,6 +11,6 @@ quicktime: exams.mov
 source: 1997 Columbia Tristar Home Video
 title: Exams
 year: '1976'
-clip_original: http://stream.ccnmtl.columbia.edu/public/7d507907-0720-4e16-9028-94eb9046526d-061_middleman_FLG-mp4-aac-480w-850kbps-ffmpeg.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/fe0550d2-0102-4fc2-a73c-a9b301738860/3527c8ad-ebfb-47ee-8dd5-a9b301738869-20f58892-dd45-474e-9f04-a9b30174524e.mp4
 
 ---

@@ -12,6 +12,6 @@ quicktime: death_and_the_detective.mov
 source: 1998 Universal Home Video
 title: Death and the Detective
 year: '1960'
-clip_original: http://stream.ccnmtl.columbia.edu/public/28e8ab0d-f9fd-496f-bd90-d2b30eb10470-080_psycho_FLG-mp4-aac-480w-850kbps-ffmpeg.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/6ea4c31e-fcf1-4a74-b5d3-a9b30173761b/aaedf8d3-d540-491a-860a-a9b30173795a-f72e88ea-6eb3-438e-b19b-a9b301741620.mp4
 
 ---

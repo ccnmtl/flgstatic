@@ -11,6 +11,6 @@ quicktime: credit_sequence.mov
 source: 1988 Interama, Inc.
 title: Credit Sequence
 year: '1963'
-clip_original: http://stream.ccnmtl.columbia.edu/public/2de1e6dd-4283-4dfe-b732-ca6d486b22a3-014_doulos_FLG-mp4-aac-480w-850kbps-ffmpeg.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/e32cfaaf-4864-4ea8-b89c-a9b30173bdab/daafee11-f46d-4457-9801-a9b30173bdb4-29c7040f-40ae-475c-8360-a9b301749d05.mp4
 
 ---

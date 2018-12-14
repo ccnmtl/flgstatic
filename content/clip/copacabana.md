@@ -13,8 +13,8 @@ thumb: ''
 title: Copacabana
 year: '1990'
 commentary: yes
-clip_original: http://stream.ccnmtl.columbia.edu/public/12db66e8-b49e-4c94-bc6e-5bc97ece92f3-001_goodfellas_FLG-mp4-aac-480w-850kbps-ffmpeg.mp4
-clip_commentary: http://stream.ccnmtl.columbia.edu/public/a9e0a210-74fc-4d2e-9ac7-fed53acc2b58-001_goodfellas_commentary_FLG-mp4-aac-480w-850kbps-ffmpeg.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/58a9b7ec-7c31-4db0-9be3-a9b30173e1c9/b734422e-0de7-4750-9f73-a9b30173e1d2-dd438148-ef3b-45dc-a1a4-a9b30174c959.mp4
+clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/71ab688e-9d9b-400a-a77e-a9b30173e0a9/72239dac-832d-4c64-a545-a9b30173e0b3-3611b067-aae3-49dd-8a2a-a9b30174c642.mp4
 commentator: "Richard Pe\xf1a"
 avatar: pena
 

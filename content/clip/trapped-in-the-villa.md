@@ -11,8 +11,8 @@ source: 2000 Grapevine
 title: Trapped in the Villa
 year: '1909'
 commentary: yes
-clip_original: http://stream.ccnmtl.columbia.edu/public/c24ce03f-ab5a-4d38-9aaa-427553f0686f_480-076_villa_FLG_et.mp4
-clip_commentary: http://stream.ccnmtl.columbia.edu/public/622a6899-d8e8-4723-9333-2d54dcb367ce_480-076_villa_commentary_FLG_et.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/9814befd-b962-42df-af43-a9b301737618/192e021f-d2b3-42c6-b711-a9b30173795b-833d6ca6-cbfb-422e-b068-a9b30173fcbb.mp4
+clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/d7931585-d977-4768-9c6d-a9b30173766c/f3bf87c8-548a-4a3e-90d7-a9b30173795b-80cc91a0-7982-4a32-a031-a9b3017412ae.mp4
 commentator: James Schamus
 avatar: schamus
 

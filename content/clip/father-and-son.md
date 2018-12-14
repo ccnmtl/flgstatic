@@ -11,8 +11,8 @@ source: 2001 Criterion Collection
 title: Father and Son
 year: '1989'
 commentary: yes
-clip_original: http://stream.ccnmtl.columbia.edu/public/83dfa81e-f631-451a-8c3d-46879e158ac8-066_rightthing_FLG-mp4-aac-480w-850kbps-ffmpeg.mp4
-clip_commentary: http://stream.ccnmtl.columbia.edu/public/dde1e009-fad1-4748-950f-1af15b268e9f-066_rightthing_commentary_FLG-mp4-aac-480w-850kbps-ffmpeg.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/224657c8-793a-4e36-a6fe-a9b301738844/2d5926ff-64ef-4ff8-a5f5-a9b301738852-4284fd61-530e-4725-a503-a9b301744f35.mp4
+clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/846c24d1-e209-4553-83dd-a9b30173881c/9a5f4653-c8ff-4ee2-b2a4-a9b30173882b-8c9c5b0e-10e7-46bc-a86d-a9b301744a91.mp4
 commentator: "Richard Pe\xf1a"
 avatar: pena
 

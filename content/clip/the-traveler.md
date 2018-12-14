@@ -12,8 +12,8 @@ source: 2000 Kino on Video
 title: The Traveler
 year: '1974'
 commentary: yes
-clip_original: http://stream.ccnmtl.columbia.edu/public/b04ce21c-1295-4a40-a5be-52450b0e3d35-083_mirror_FLG-mp4-aac-480w-850kbps-ffmpeg.mp4
-clip_commentary: http://stream.ccnmtl.columbia.edu/public/db6621bd-8572-479c-869a-28a8292f296e-083_mirror_commentary_FLG-mp4-aac-480w-850kbps-ffmpeg.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/a4ae1725-a6f5-4873-acbf-a9b3017362e6/ee7291ee-ab25-44dd-a5d4-a9b3017362f4-58da4a38-5acc-4573-8971-a9b30173fef0.mp4
+clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/990457e3-2ebc-40f8-9f3d-a9b30173761b/17e18d5d-124a-4f52-afc9-a9b30173795b-2824a06b-963c-44f2-9878-a9b3017410d3.mp4
 commentator: James Schamus
 avatar: schamus
 

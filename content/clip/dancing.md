@@ -11,6 +11,6 @@ quicktime: dancing.mov
 source: 1991 MGM/UA Home Video
 title: Dancing
 year: '1959'
-clip_original: http://stream.ccnmtl.columbia.edu/public/23e29c75-cd48-41a6-a375-ff1b38c3b2ed_480-065_hot_FLG_et.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/8bef3704-a783-48ab-b93b-a9b301737714/f8afd7d0-4c46-498a-a5d0-a9b30173795f-03b3c345-5c2f-47fe-8e81-a9b30174145b.mp4
 
 ---

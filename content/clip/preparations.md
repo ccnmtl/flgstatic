@@ -12,8 +12,8 @@ title: Preparations
 year: '1953'
 commentary: yes
 annotated: yes
-clip_original: http://stream.ccnmtl.columbia.edu/public/ab67f726-f2d6-455f-bdb8-a82342cf6fa4-043_tokyo_FLG-mp4-aac-480w-850kbps-ffmpeg.mp4
-clip_commentary: http://stream.ccnmtl.columbia.edu/public/2e837cbc-aa7c-474f-b101-aac389358731-043_tokyo_commentary_FLG-mp4-aac-480w-850kbps-ffmpeg.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/5937b0d1-dc1f-46bf-b129-a9b301739853/97e575f9-add4-49a6-9223-a9b30173985d-b6598724-01bf-41b9-8f61-a9b301744104.mp4
+clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/33017f20-ac83-45bf-8387-a9b30173987b/f06a964e-510c-441a-a948-a9b301739884-16fcc2f7-515f-4c9c-80c0-a9b301744123.mp4
 commentator: Larry Engel
 avatar: engel
 

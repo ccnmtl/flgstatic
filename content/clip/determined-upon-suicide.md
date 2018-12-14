@@ -12,8 +12,8 @@ source: 2002 Kino Int. Corp.
 title: Determined Upon Suicide
 year: '1913'
 commentary: yes
-clip_original: http://stream.ccnmtl.columbia.edu/public/4ebced8a-da1a-4bb3-b5c3-505b9e7bbd7e-006_marathon_FLG-mp4-aac-480w-850kbps-ffmpeg.mp4
-clip_commentary: http://stream.ccnmtl.columbia.edu/public/5d1b04fe-a012-4617-892e-2dc7eface23f-006_marathon_commentary_FLG-mp4-aac-480w-850kbps-ffmpeg.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/0e347a44-5cf3-4106-8abb-a9b30173d02e/7652fbd9-5dd1-4e31-b791-a9b30173d0db-e00e2929-cce9-4ff3-8bae-a9b30174c88d.mp4
+clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/0aaec3d0-38b5-4707-b1a8-a9b30173cffd/b70ac733-3ce0-4025-81dc-a9b30173d006-c8cf92d6-87e9-44e1-8c1e-a9b30174b2ce.mp4
 commentator: "Richard Pe\xf1a"
 avatar: pena
 

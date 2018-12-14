@@ -12,8 +12,8 @@ source: 2002 Mystic Fire Video
 title: In the Garden
 year: '1946'
 commentary: yes
-clip_commentary: http://stream.ccnmtl.columbia.edu/public/e762aa3d-c7e0-4e17-ad53-cdb3bd673314_480-065_time_commentary_FLG_et.mp4
-clip_original: http://stream.ccnmtl.columbia.edu/public/47ab8817-0754-46cd-b6a9-a6e1ff0ce8d0-065_time_FLG-mp4-aac-480w-850kbps-ffmpeg.mp4
+clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/1c5364de-1a0f-4cb4-b3cc-a9b3017387f1/08c8b45c-5495-461c-8208-a9b3017387fa-fa63d3d6-b6fe-4555-8f48-a9b3017428e8.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/4198301a-ae9c-4bf5-9e09-a9b301738869/75df05cc-f78f-4202-b052-a9b301738877-223305f5-e49d-49f1-b757-a9b301744999.mp4
 commentator: "Richard Pe\xf1a"
 avatar: pena
 
