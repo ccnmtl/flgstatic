@@ -40,7 +40,7 @@ var doSearch = function() {
                    'the Columbia Film Glossary content.</div>');
     } else {
         for (var r in results.slice(0, 10)) {
-            if (results.hasOwnProperty(r)) {
+            if (Object.prototype.hasOwnProperty.call(results, r)) {
                 var d = data[results[r].ref];
                 var $result = $('<div class="q-item">');
                 $result.append('<span class="type">' + d.type + ': </span>');
