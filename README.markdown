@@ -6,7 +6,6 @@ current version that this project uses is 0.12.
 
 ## Content Editing
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/ccnmtl/flgstatic.svg)](https://greenkeeper.io/)
 
 To add a new clip to the glossary, run:
 
