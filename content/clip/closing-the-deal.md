@@ -11,8 +11,8 @@ source: 2000 Image Entertainment
 title: Closing the Deal
 year: ' 1945'
 commentary: yes
-clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/7edab14a-077c-4db7-a341-a9b30173881d/e8cd1a67-fd15-4896-bcc6-a9b301738826-6227231a-c349-4451-8b7d-a9b301743dc1.mp4
-clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/41abf586-3252-40e5-9741-a9b30173882f/ae14f4b6-2c70-4341-93d7-a9b301738839-c97ba014-099d-4622-b42e-a9b301742ff9.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/f4fe32be-6406-4d90-8d33-ae31015d0b1c/adf54cf7-1233-41f8-b249-ae31015d0b25-9a4e3ed6-587d-4c62-b2be-ae31015d2c72.mp4
+clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/04c6509e-331c-4d82-90ed-ae31015d0de2/dfdd4445-a09d-4d36-8019-ae31015d0dee-6edbaa5a-0e2d-46bb-ba23-ae31015d388a.mp4
 commentator: "Richard Pe\xf1a"
 avatar: pena
 

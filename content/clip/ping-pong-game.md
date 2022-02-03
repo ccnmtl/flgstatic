@@ -12,8 +12,8 @@ title: Ping Pong Game
 year: '1953'
 commentary: yes
 annotated: yes
-clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/c6202fe3-d21f-4d45-9181-a9b30173ac10/778a183a-923a-40cf-b660-a9b30173ac19-30665917-1dcf-4b24-807e-a9b3017480b1.mp4
-clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/1f20c5f9-479f-4256-8127-a9b30173ac02/f8770513-13cf-475c-aa2f-a9b30173ac0c-2933c5df-6df8-4772-a421-a9b30174700b.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/c6844846-e08a-4279-9257-ae31015d61b6/b9976647-cf44-4ea7-9a3b-ae31015d61bf-eefe9801-c134-439d-99dc-ae31015d7f25.mp4
+clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/5b849d55-28fb-4e16-a12c-ae31015d67dc/8c4e2abd-598b-4511-979e-ae31015d67e5-c5a8be82-3836-44ad-8e36-ae31015d86a2.mp4
 commentator: "Richard Pe\xf1a"
 avatar: pena
 

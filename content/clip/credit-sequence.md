@@ -11,6 +11,6 @@ quicktime: credit_sequence.mov
 source: 1988 Interama, Inc.
 title: Credit Sequence
 year: '1963'
-clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/e32cfaaf-4864-4ea8-b89c-a9b30173bdab/daafee11-f46d-4457-9801-a9b30173bdb4-29c7040f-40ae-475c-8360-a9b301749d05.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/78f17094-855d-479f-9fba-ae31015c7d26/043ae5f5-ec83-4c93-83c1-ae31015c7d2e-1a7d7997-8800-4938-b6d8-ae31015cc4be.mp4
 
 ---

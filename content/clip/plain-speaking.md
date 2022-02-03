@@ -12,8 +12,8 @@ source: 2000 Warner Home Video
 title: Plain Speaking
 year: '1941'
 commentary: yes
-clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/60114bb7-2131-486d-a4ef-a9b301738839/9f290f92-0ecc-42c6-80a1-a9b301738847-1ccb6e0a-0cf3-49b5-889b-a9b301742b73.mp4
-clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/e9e87bd9-7dac-4890-b653-a9b301738850/c8c69d69-6ef4-4dfd-a953-a9b30173885a-05610c27-4ef7-4f08-928f-a9b301742805.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/33bdb6d5-b884-4223-8aed-ae31015d2230/fb660aaf-da6a-45fc-a0ff-ae31015d2237-4f5e2554-4a77-407e-b343-ae31015d4560.mp4
+clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/75b8401e-4c8d-4074-9478-ae31015d17f7/1ddbb825-02ab-4b1e-a8f3-ae31015d1802-7a19bfcb-72a1-48fe-963a-ae31015d3e2b.mp4
 commentator: "Richard Pe\xf1a"
 avatar: pena
 

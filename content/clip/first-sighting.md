@@ -12,8 +12,8 @@ source: 1999 Universal
 title: First Sighting
 year: '1958'
 commentary: yes
-clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/5c32dd94-fdf3-4f5d-830c-a9b30173aba5/a39e22a4-9385-4f0d-b708-a9b30173abaf-24d3248c-d6d4-4bf4-8c01-a9b3017471dd.mp4
-clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/132d9b42-04ea-4f4f-b807-a9b30173abdd/59e2e89a-2040-495d-90b2-a9b30173abe6-3a3f1cd7-3918-4528-a4cf-a9b301747cfb.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/ec8c72db-cc49-4aeb-ae3d-ae31015c5223/6249065f-c1ae-4888-9a1d-ae31015c5230-baee996d-87b9-4d2c-9014-ae31015c7f65.mp4
+clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/7c8a8c1f-5a8f-4670-9060-ae31015c608a/051be2ad-4299-4213-bc4a-ae31015c6092-5375f0df-80f2-4ba6-98f0-ae31015c8bd0.mp4
 commentator: "Richard Pe\xf1a"
 avatar: pena
 

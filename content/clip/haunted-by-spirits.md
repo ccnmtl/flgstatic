@@ -11,6 +11,6 @@ source: 2001 Kino Int. Corp.
 thumb: http://ccnmtl.columbia.edu/projects/filmglossary/web/thumbs/haunted_by_spirits.jpg
 title: Haunted by Spirits
 year: '1924'
-clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/0a44f429-b10e-4303-abdf-a9b30173d14d/50929714-de5a-4645-a0d9-a9b30173d1aa-33cb3559-ddf6-4b37-a7bb-a9b30174bc04.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/45c29d9d-d4d5-41dd-a2d2-ae31015c0f3d/c571e286-3bc0-4885-97a3-ae31015c0f45-2ed5dc6c-72f9-42ed-a3d4-ae31015c5bcb.mp4
 
 ---

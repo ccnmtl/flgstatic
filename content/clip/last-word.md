@@ -11,7 +11,7 @@ quicktime: last_word.mov
 source: 2001 Warner Home Video
 title: Last Word
 year: '1941'
-clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/775f21f8-76aa-460d-89d8-a9b30173876c/5623f933-5093-4727-81af-a9b301738771-92bbdcb4-4224-4517-ac4c-a9b301744545.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/ada99b59-ccef-4e16-8201-ae31015cff04/91bc3075-1a5c-459d-ba13-ae31015cff0c-1478e334-05c2-43f3-bd61-ae31015d2f57.mp4
 
 
 ---

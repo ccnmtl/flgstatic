@@ -12,8 +12,8 @@ source: 2001 Winstar Video
 title: Lunch Date
 year: '1960'
 commentary: yes
-clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/498c7c42-f72f-4bbf-8b18-a9b30173e0c0/584206ad-a2b9-4f18-8e47-a9b30173e0c9-aa1ade67-9402-467a-865e-a9b30174c545.mp4
-clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/0f3ff923-d6d4-4764-92f7-a9b30173cfd9/55f1d17c-5f13-4022-bb3b-a9b30173cfe3-3cb53f2f-9e26-45a6-80a3-a9b301749dec.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/93d7c3b6-2d45-4d8c-9fc3-ae31015c38d4/6e970735-f025-4177-979b-ae31015c3a83-bf9b504f-1bbe-4d8c-a15a-ae31015c5d15.mp4
+clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/a955d0f5-e05d-4eb2-bfa8-ae31015c3233/9392c2e2-c3bd-44e0-b528-ae31015c323a-55371a5c-448d-42dc-bd95-ae31015c5d57.mp4
 commentator: Larry Engel
 avatar: engel
 

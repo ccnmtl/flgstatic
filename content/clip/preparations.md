@@ -12,8 +12,8 @@ title: Preparations
 year: '1953'
 commentary: yes
 annotated: yes
-clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/5937b0d1-dc1f-46bf-b129-a9b301739853/97e575f9-add4-49a6-9223-a9b30173985d-b6598724-01bf-41b9-8f61-a9b301744104.mp4
-clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/33017f20-ac83-45bf-8387-a9b30173987b/f06a964e-510c-441a-a948-a9b301739884-16fcc2f7-515f-4c9c-80c0-a9b301744123.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/704c0da6-5f71-4bce-baee-ae31015d30b4/4b6e6319-cc56-4e4d-ac87-ae31015d30be-e180eb03-5c20-40a8-be9a-ae31015d5a8b.mp4
+clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/589ea4ae-5e7c-4b78-9c44-ae31015d3968/05b0f992-a112-4f41-8bad-ae31015d3972-587bc05c-beaa-4848-99b5-ae31015d6339.mp4
 commentator: Larry Engel
 avatar: engel
 

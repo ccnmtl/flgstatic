@@ -3,3 +3,6 @@ public
 ._.DS_Store
 ._*
 node_modules
+.project
+.pydevproject
+local.mk

@@ -12,8 +12,8 @@ source: 2002 Kino Int. Corp.
 title: Determined Upon Suicide
 year: '1913'
 commentary: yes
-clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/0e347a44-5cf3-4106-8abb-a9b30173d02e/7652fbd9-5dd1-4e31-b791-a9b30173d0db-e00e2929-cce9-4ff3-8bae-a9b30174c88d.mp4
-clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/0aaec3d0-38b5-4707-b1a8-a9b30173cffd/b70ac733-3ce0-4025-81dc-a9b30173d006-c8cf92d6-87e9-44e1-8c1e-a9b30174b2ce.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/7329f8bc-9d41-4ca5-a538-ae31015c1f72/6c9c62c1-6768-4583-8496-ae31015c1f7a-c82a2bbe-837a-444b-a6bb-ae31015c72a5.mp4
+clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/426e4402-39ff-4bbe-8d86-ae31015c22ce/be1f1551-7366-40cb-83d7-ae31015c22d7-163f77c1-03f3-4f07-88b4-ae31015c6cfb.mp4
 commentator: "Richard Pe\xf1a"
 avatar: pena
 

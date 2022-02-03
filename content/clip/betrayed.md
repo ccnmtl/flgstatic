@@ -11,8 +11,8 @@ source: 1991 Arab Film Distribution
 title: Betrayed
 year: '1956'
 commentary: yes
-clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/7b76d24b-8d39-478f-8f3a-a9b30173763c/37185f81-5539-4329-b4be-a9b301737959-c46240a2-208f-4bdc-a17e-a9b3017422b1.mp4
-clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/5fa437a5-240e-42fc-a5c4-a9b30173766b/4eb5201a-7c43-4bde-a90a-a9b30173795b-032d138f-1495-4dde-87bd-a9b3017446c9.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/45db878f-2497-465a-809b-ae31015cd2fe/b7afe1c3-f01a-4cb8-afb3-ae31015cd305-18a07edf-bcc3-46ae-ba23-ae31015d1291.mp4
+clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/ffcc4a59-09be-40c0-8165-ae31015c044b/cb334d04-c690-405e-a73d-ae31015c0452-0512e1aa-0411-46a3-94af-ae31015c597e.mp4
 commentator: "Richard Pe\xf1a"
 avatar: pena
 

@@ -13,8 +13,8 @@ thumb: ''
 title: Last, Great Party
 year: '1942'
 commentary: yes
-clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/511bbf5a-9048-4f93-b5e8-a9b30173d029/a294b112-c686-4e74-93d9-a9b30173d033-38b828fe-4853-41e6-9176-a9b30174afaf.mp4
-clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/83d0a47f-50d6-40f3-8ca8-a9b30173d027/86e31204-8b71-4e67-bc2f-a9b30173d035-417e309d-b447-45a0-b44e-a9b30174bb6f.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/27dc2e70-46d7-4a44-b5d8-ae31015c2646/86c4b4e5-4eb4-4b4b-841e-ae31015c2654-ff38426e-c1a2-46a1-9017-ae31015c6269.mp4
+clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/a81cd405-e855-4dcf-9ae5-ae31015c2f43/4bdb45c3-8bd4-4092-b2cd-ae31015c2f4b-03160475-2d5b-440a-ac77-ae31015c67d8.mp4
 commentator: "Richard Pe\xf1a"
 avatar: pena
 

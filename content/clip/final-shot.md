@@ -11,6 +11,6 @@ quicktime: final_shot.mov
 source: 2002 Kino Int. Corp.
 title: Final Shot
 year: ' 1903'
-clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/d205cac7-6eaf-4245-8971-a9b3017376a8/15a44543-bf7a-4305-81fc-a9b30173795a-19b870ef-32aa-42aa-9515-a9b30173ee19.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/4262c91a-f40b-4bea-a91b-ae31015cbc3a/4e33c42a-2169-49f0-a61b-ae31015cbc42-ee861a97-4420-4f2d-8971-ae31015cd745.mp4
 
 ---

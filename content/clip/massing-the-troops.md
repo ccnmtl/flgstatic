@@ -12,8 +12,8 @@ title: Massing the Troops
 year: '1927'
 commentary: yes
 annotated: yes
-clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/a88175ed-2af1-4783-aef0-a9b301739b18/9584df66-3293-4e5c-9705-a9b301739b20-9523196d-3429-44cc-b470-a9b301746125.mp4
-clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/1108b41d-1033-4a96-ba8a-a9b301739a38/66b3d68d-ab75-4765-9394-a9b301739a3d-310f54a6-7dc5-4f29-8e6f-a9b3017466d6.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/de6da443-feca-4fa8-ae56-ae31015d268c/e420ea9a-f435-403a-a6dc-ae31015d2694-ebca4b75-aaf9-4e25-9f2a-ae31015d43e0.mp4
+clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/3ea903a2-14f9-4f64-b38a-ae31015d285c/d25bc401-3fc8-431d-835c-ae31015d287d-401745d7-86c6-4f4c-b899-ae31015d4ead.mp4
 commentator: David McKenna
 avatar: mckenna
 

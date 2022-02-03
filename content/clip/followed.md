@@ -11,8 +11,8 @@ source: 1999 Paramount Home Video
 title: Followed
 year: '1970'
 commentary: yes
-clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/1609505a-0242-4c47-910a-a9b30173be1d/da74eb89-f3e8-4155-80c0-a9b30173be27-b7bc6b3a-d773-4020-a6a1-a9b301749f3f.mp4
-clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/a729dfdd-8ff0-42b0-b21f-a9b30173be06/a778a5d6-44d3-4616-919c-a9b30173be0a-fc348a4a-f5ff-4dc1-99ca-a9b301749984.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/40efcf88-e82f-4a12-8b26-ae31015c82fa/686fd5fd-c56e-4e02-9bd5-ae31015c8303-24b86ccb-b6c7-420c-af17-ae31015caa77.mp4
+clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/7f21e00c-e875-4176-a0cf-ae31015c86ff/3ab4bb47-7170-4a44-9be3-ae31015c8709-5ec33698-885f-4ec0-80c6-ae31015caf56.mp4
 commentator: "Richard Pe\xf1a"
 avatar: pena
 

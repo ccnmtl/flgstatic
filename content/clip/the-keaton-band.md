@@ -11,7 +11,7 @@ quicktime: the_keaton_band.mov
 source: 1999 Kino on Video
 title: The Keaton Band
 year: '1921'
-clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/2b09b35d-30b8-4e74-84de-a9b301738683/9a0f72fc-5f25-413a-8e9d-a9b301738691-a172a8d0-f954-4c7e-a87f-a9b3017437fc.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/fbd9bd2b-a547-4813-80e4-ae31015cec82/9128d639-72e6-4ea8-921c-ae31015cec8a-f7a58434-5a82-4b88-818f-ae31015d0eac.mp4
 
 
 ---

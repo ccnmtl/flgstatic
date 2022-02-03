@@ -11,8 +11,8 @@ source: 2003 Warner Home Video
 title: Trapped!
 year: '1945'
 commentary: yes
-clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/bbabdd24-a818-4119-a6f9-a9b301737481/ac3c791a-4300-41ec-8d1b-a9b30173748b-01de8f4d-973c-47fb-8873-a9b3017453b5.mp4
-clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/6e3490af-af0f-484a-8a04-a9b301738821/17f2439e-948e-44cc-a038-a9b30173882a-ba017abc-9291-4f91-ac7a-a9b301744a75.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/481cdaa5-c3b8-4aa3-b6ff-ae31015ce66e/f6a6594f-8653-4bb1-b1f4-ae31015ce676-5546b375-7007-486d-991f-ae31015d391f.mp4
+clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/9ce36eb4-91ed-4f21-9821-ae31015cea50/af8993c5-6154-4d17-b0c5-ae31015cea59-6c519040-95d9-4a80-b706-ae31015d3972.mp4
 commentator: "Richard Pe\xf1a"
 avatar: pena
 
