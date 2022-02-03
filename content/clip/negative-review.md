@@ -13,8 +13,8 @@ title: Negative Review
 year: '1941'
 commentary: yes
 annotated: yes
-clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/c9e1586c-4902-469c-b996-a9b30173d0ab/784d1927-efba-48e9-b6b9-a9b30173d0df-91786bbc-3f3f-4dba-92b5-a9b30174a8b8.mp4
-clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/a6d6d837-3bd9-468f-a778-a9b30173d00b/e495c961-5c69-4a69-8f13-a9b30173d02c-9ba911a5-4571-42ea-a3c8-a9b30174a9a4.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/c4badadd-f0b9-404a-888e-ae31015c3379/711b142f-87ab-4b0e-b2a8-ae31015c3380-d06ca707-f536-4ca4-8778-ae31015c5064.mp4
+clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/effca7b0-0bb9-4a9d-a604-ae31015c3af4/9fecb8fe-27d5-4510-a25c-ae31015c3afb-0015cc84-4b35-4534-b6c0-ae31015c5d99.mp4
 commentator: "Richard Pe\xf1a"
 avatar: pena
 

@@ -12,8 +12,8 @@ title: "March of Napol\xE9on"
 year: '1927'
 commentary: yes
 annotated: yes
-clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/a32eaba6-f850-43d1-915d-a9b301739a27/ae52c3a6-3569-48bb-b817-a9b301739a3a-bcbaac0c-8a11-4131-b6de-a9b3017455af.mp4
-clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/e87e4922-efe9-4dc8-b7dc-a9b301739a48/8e1e34b0-20d5-44ba-b02f-a9b301739a51-122efc41-294a-46da-b48d-a9b301746b20.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/2e8d25f1-c58e-4759-84ae-ae31015d2487/b53b5578-851e-49e0-9392-ae31015d2491-473baa05-a634-4cf4-af1a-ae31015d46ca.mp4
+clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/eb061f1d-6408-4e56-9427-ae31015c06b4/75386922-f33f-41b5-83f1-ae31015c06bb-c0cb6e28-9d93-4d16-adec-ae31015c26f5.mp4
 commentator: David McKenna
 avatar: mckenna
 

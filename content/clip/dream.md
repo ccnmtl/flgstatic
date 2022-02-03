@@ -11,6 +11,6 @@ quicktime: dream.mov
 source: 2002 Criterion Collection
 title: Dream
 year: '1957'
-clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/9ae258f8-bc15-49d4-a964-a9b3017376a2/e573a1bc-b5fe-44f1-a86e-a9b30173795a-551d63c8-184f-41b2-9db4-a9b30174185d.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/b4418021-4c93-43a2-a528-ae31015cd842/0d3f7468-3887-45e6-bf91-ae31015cd84a-09b76439-aac2-4a3b-a17b-ae31015d1131.mp4
 
 ---

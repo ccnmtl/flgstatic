@@ -13,8 +13,8 @@ thumb: ''
 title: Copacabana
 year: '1990'
 commentary: yes
-clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/58a9b7ec-7c31-4db0-9be3-a9b30173e1c9/b734422e-0de7-4750-9f73-a9b30173e1d2-dd438148-ef3b-45dc-a1a4-a9b30174c959.mp4
-clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/71ab688e-9d9b-400a-a77e-a9b30173e0a9/72239dac-832d-4c64-a545-a9b30173e0b3-3611b067-aae3-49dd-8a2a-a9b30174c642.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/e659c6fc-0473-4e4a-807c-ae31015c933d/afcbc1aa-a928-4515-9005-ae31015c9345-83141427-c9dd-4ff9-af2d-ae31015cd04f.mp4
+clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/a4b5cbc9-c835-41f7-ba96-ae31015c8f3c/e9c8ff81-c819-453e-b1f5-ae31015c8f46-3901a91e-bc1a-4623-b96c-ae31015cd0d9.mp4
 commentator: "Richard Pe\xf1a"
 avatar: pena
 

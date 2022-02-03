@@ -12,8 +12,8 @@ title: Showdown
 year: '1962'
 commentary: yes
 annotated: yes
-clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/48a193c1-bdca-4cb5-ba3b-a9b301739a2e/c73acff5-6212-4053-a14a-a9b301739a3c-4ec01e74-571b-47c6-87af-a9b301748334.mp4
-clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/87ad68fa-6358-4901-bdb7-a9b301739855/3c7f72b4-376c-4d20-b965-a9b30173985f-d1b06e40-1364-4595-94ac-a9b3017460d5.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/b8453d88-4a52-4658-90ce-ae31015d436c/0cf0ff8f-acf4-4772-8c69-ae31015d4383-0148ffcf-c20d-4c8d-95fe-ae31015d7c19.mp4
+clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/01c57583-f8b6-401b-90d9-ae31015d4554/3b2164e5-f629-4550-81fe-ae31015d455c-9aab1aa6-abc3-4925-8ff4-ae31015d841d.mp4
 commentator: "Richard Pe\xf1a"
 avatar: pena
 

@@ -10,6 +10,6 @@ length: 1:07
 source: Universal Pictures, Blu-Ray release July 28, 2009
 title: Waking Up
 year: 1995
-clip_original: http://stream.ccnmtl.columbia.edu/public/c42e8dc3-d9c6-4b7a-9a17-c45e6ebe4c31_480-waking_up_et.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/f26e55c2-ef6f-4419-ac71-ae31016f7d9f/513f87ad-9a79-4ea5-932b-ae31016f7da7-96c88295-3cf7-4497-b476-ae31016fad67.mp4
 
 ---

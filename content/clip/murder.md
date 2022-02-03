@@ -11,8 +11,8 @@ source: 2000 Criterion Collection
 title: Murder
 year: '1973 '
 commentary: yes
-clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/502a5342-f3ce-4e07-b327-a9b30173985c/170df3ed-2c56-44d5-9147-a9b30173986a-cb98ebed-2d84-49d0-9687-a9b3017462af.mp4
-clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/be37c4d8-b88f-4fd7-a3f8-a9b301739864/c8a6e487-796f-4dcb-85a8-a9b301739872-3a366e48-a97d-4895-bcc3-a9b3017469e5.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/15ed618e-348b-4055-bc18-ae31015d2c29/64a3e74e-6c93-40d3-bdd0-ae31015d2c31-82d95bcf-139b-40a3-983b-ae31015d6688.mp4
+clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/dd53da27-9b7f-437c-ad95-ae31015d3459/92d080dd-8d37-4dc1-a6fd-ae31015d3465-18c189aa-4a68-4830-a8a4-ae31015d757c.mp4
 commentator: David McKenna
 avatar: mckenna
 

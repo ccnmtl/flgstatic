@@ -11,7 +11,7 @@ quicktime: im_out.mov
 source: 1998 Universal Home Video
 title: I'm Out
 year: '1973'
-clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/c3e87666-60c0-4600-980d-a9b3017362c4/35c24fb9-69aa-4485-a2c1-a9b3017362c9-1a12c2f4-fe82-4e42-a35b-a9b30173ea9b.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/b88672e7-bfbc-4cfa-8cb1-ae31015c010f/895e8a91-5505-4ceb-9602-ae31015c0119-0b08adff-d4bc-43cb-b1c0-ae31015c1a82.mp4
 
 
 ---

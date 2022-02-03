@@ -11,6 +11,6 @@ quicktime: arrival_at_the_festival.mov
 source: 2000 MGM Home Entertainment
 title: Arrival at the Festival
 year: '1980'
-clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/390b595b-a879-4a61-a6b9-a9b30173be02/e787dec9-ef55-43a1-9961-a9b30173be0c-6e6cf6e5-602e-4cc7-b380-a9b3017494d1.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/b4f5f076-8413-41a0-bb37-ae31015c779f/b436286e-9ad4-4ef5-b9d5-ae31015c77a8-cb5d7405-19da-40f6-b830-ae31015c9e0f.mp4
 
 ---

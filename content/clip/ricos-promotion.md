@@ -12,8 +12,8 @@ title: Rico's Promotion
 year: '1930'
 commentary: yes
 annotated: yes
-clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/8a00bdc6-aff8-46d6-a9a4-a9b30173d043/016a9eae-e61e-474c-99c4-a9b30173d0de-df30d305-4ce4-49f6-9d79-a9b30174c285.mp4
-clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/9445672d-ed9f-4a9d-aaa0-a9b30173d04f/e7588e6a-3a6f-4d0a-a443-a9b30173d0dc-61bd8c38-13b3-4779-a2d9-a9b30174d24b.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/8e868687-ce08-4136-b061-ae31015c1291/54c56a25-6a89-428b-8311-ae31015c1298-29a5231b-02ac-4646-9824-ae31015c60ed.mp4
+clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/7fcaa804-5b89-4262-8c98-ae31015c1c3f/6be0bf65-7098-4fcc-9f3e-ae31015c1c48-876bc5f5-4563-445a-b398-ae31015c66ca.mp4
 commentator: "Richard Pe\xf1a"
 avatar: pena
 

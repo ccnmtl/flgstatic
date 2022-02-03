@@ -11,5 +11,6 @@ quicktime: angels_in_the_library.mov
 source: 2003 MGM Home Entertainment
 title: Angels in the Library
 year: '1988'
-clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/d4eaa2b2-07e1-4804-90ea-a9b30173abef/a4f759a2-e51a-4d14-8d79-a9b30173abf9-3e6f5d2d-a340-4dab-907e-a9b301748c27.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/18493f07-fcca-4fc2-8b4b-ae31015d57f4/0ea65546-e49c-407e-a328-ae31015d57fb-5df71251-c884-40be-8421-ae31015d7ea0.mp4
+
 ---

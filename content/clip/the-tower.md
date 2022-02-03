@@ -11,6 +11,6 @@ quicktime: the_tower.mov
 source: 1999 Universal
 title: The Tower
 year: '1958'
-clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/915b56e1-9a37-49e5-a480-a9b30173885d/54652b73-2f96-4a60-8a1b-a9b301738866-6f7c5301-ec1b-4cb5-ae0c-a9b301743def.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/c0b87dba-25c8-4386-bacc-ae31015cf098/31370a1f-c56b-4fb5-bb12-ae31015cf0a1-beb5a611-f647-4183-b903-ae31015d155f.mp4
 
 ---

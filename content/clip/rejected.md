@@ -11,7 +11,7 @@ clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/6de57f35-7c3e-447c
 source: 1997 Columbia Tristar Home Video
 title: Rejected
 year: '1976'
-clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/4cccf43f-b5bb-4027-9155-a9b30173abe9/1e4fb111-d9a0-40d1-9046-a9b30173abf7-f34a9abb-6fe6-463b-934d-a9b301749b2b.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/c1d034af-28e8-4ec9-9653-ae31015c5a71/bd8c4577-5f8e-4342-86fc-ae31015c5a79-010b1e78-e91f-4f82-bf0d-ae31015c7cf2.mp4
 
 
 ---

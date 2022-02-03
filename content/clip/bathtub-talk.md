@@ -12,10 +12,9 @@ title: Bathtub Talk
 year: '1959'
 commentary: yes
 annotated: yes
-clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/86e5d7a6-53e6-4f6c-9dad-a9b30173abfd/b4ec6757-ed3a-4f39-a836-a9b30173ac07-2b270f01-2006-4e41-9fbb-a9b301749663.mp4
-clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/685d5853-619e-411c-8fde-a9b30173aa62/ee356dc2-1f69-4596-818c-a9b30173aa6c-9be631a7-6980-4174-a394-a9b301746aff.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/041dc87b-6ee4-48a9-9d8a-ae31015d5c87/ed57abf4-9b33-4881-a78b-ae31015d5c8f-4ea7451d-21d0-40ce-bce4-ae31015d8420.mp4
+clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/cf3ee4fd-1707-4489-899b-ae31015d5f56/57cc24b2-d982-4d67-b861-ae31015d5f60-947fe579-2feb-48bd-b17f-ae31015d8f4f.mp4
 commentator: David McKenna
 avatar: mckenna
-
 
 ---

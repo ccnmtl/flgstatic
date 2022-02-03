@@ -11,8 +11,8 @@ source: 1999 Criterion Collection
 title: Who Are You!?!
 year: '1967'
 commentary: yes
-clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/0e4804ab-62e5-4fac-9600-a9b30173986a/cd63ba5f-0dca-4a4e-b4ab-a9b301739878-0cdd8e83-b006-46f1-a5e1-a9b3017439ec.mp4
-clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/0726a99e-067d-465b-9721-a9b301739846/b1f0c915-739b-4ce6-951d-a9b301739850-fd9311a4-6692-4801-8e10-a9b301743adc.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/dc02b6de-e083-4ae3-b381-ae31015d3e89/ecded75b-2b93-4c56-87c8-ae31015d3e90-375bb7e4-84ea-46d2-b9b4-ae31015d5b25.mp4
+clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/b0954a9f-8882-4ba1-a456-ae31015d4843/158ebc53-3101-4ef8-aaee-ae31015d484b-f25c301f-ba33-4d7d-986c-ae31015d647b.mp4
 commentator: "Richard Pe\xf1a"
 avatar: pena
 

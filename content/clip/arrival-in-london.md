@@ -11,8 +11,8 @@ source: 1999 Docurama
 title: Arrival in London
 year: '1967'
 commentary: yes
-clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/6e77fafb-c623-4cf0-9b36-a9b30173abe1/bda5e422-02c3-41c8-8de4-a9b30173abeb-e4836ba4-7b90-4c17-aa56-a9b301747bad.mp4
-clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/3aba6b66-8758-4350-a046-a9b30173abdc/9db962e6-383a-419b-b068-a9b30173abe6-92c14fa4-9c0e-4be5-9396-a9b301746da9.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/102aeeaa-89d4-4530-a8ae-ae31015d661d/f1e732ec-45f3-48b5-988c-ae31015d6624-0915755a-d2a7-42d6-a508-ae31015d95a8.mp4
+clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/a2d88868-b42b-4ddd-8cab-ae31015c3f30/b2540edb-cec0-4e1d-a363-ae31015c3f38-6ab74533-087c-4b83-ad9d-ae31015c6eff.mp4
 commentator: Larry Engel
 avatar: engel
 

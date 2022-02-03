@@ -11,7 +11,7 @@ quicktime: mexicoohio.mov
 source: 2002 Universal Studios
 title: Mexico-Ohio
 year: '2000'
-clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/30eb2a2f-a20d-4382-9290-a9b301738802/fe22d118-3b50-414f-82f9-a9b30173880b-0428eb3a-dc2d-4d00-a89a-a9b301743202.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/5645e9b8-8836-4e9f-9515-ae31015d0833/7e471d68-c3b3-47aa-bd6e-ae31015d083c-56538e96-2045-49ca-bc99-ae31015d33e1.mp4
 
 
 ---

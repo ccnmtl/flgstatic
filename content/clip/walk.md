@@ -12,8 +12,8 @@ source: 2005 Fox Lorber Video
 title: Walk
 year: '2003'
 commentary: yes
-clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/e4a79863-ded3-4bc0-9116-a9b30173ac1a/ff978ed5-4556-4793-bc1e-a9b30173ac1e-060d10eb-5df5-4e79-9d7a-a9b301748f6f.mp4
-clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/80caf058-07eb-43b5-ab5e-a9b30173ac1b/cd5457a4-9930-4a70-8d5b-a9b30173ac25-52bc0063-4797-42f9-b2cc-a9b3017491fb.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/b6f21bf7-afd8-4aed-a391-ae31015d4da2/616f4862-46cd-4024-b1de-ae31015d4dac-5f8b895b-84cd-4ebe-8c2c-ae31015d721f.mp4
+clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/4097ebde-e0a1-43dd-b40e-ae31015d5562/5cbf5c61-c2ee-406b-8322-ae31015d5569-8161f9d5-4d7f-44de-8c5c-ae31015d7621.mp4
 commentator: "Richard Pe\xf1a"
 avatar: pena
 

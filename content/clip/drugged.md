@@ -11,6 +11,6 @@ quicktime: drugged.mov
 source: 2003 Paramount Home Video
 title: Drugged
 year: '1966'
-clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/b9988e4f-6ae9-467f-b6a0-a9b3017386b4/63133380-d2c6-4bac-91b6-a9b3017386bd-4edc8e3f-3298-4bd7-bad4-a9b301742249.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/49a940f0-1b42-477c-82c8-ae31015cf25a/54f27f2f-00a1-4bea-b15e-ae31015cf262-2b80bea1-9051-49e7-8190-ae31015d0fd1.mp4
 
 ---

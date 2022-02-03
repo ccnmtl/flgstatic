@@ -12,8 +12,8 @@ source: 2002 Mystic Fire Video
 title: In the Garden
 year: '1946'
 commentary: yes
-clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/1c5364de-1a0f-4cb4-b3cc-a9b3017387f1/08c8b45c-5495-461c-8208-a9b3017387fa-fa63d3d6-b6fe-4555-8f48-a9b3017428e8.mp4
-clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/4198301a-ae9c-4bf5-9e09-a9b301738869/75df05cc-f78f-4202-b052-a9b301738877-223305f5-e49d-49f1-b757-a9b301744999.mp4
+clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/1c179923-272c-4a24-a25f-ae31015cf8f1/62aba0e7-0c10-496f-98e9-ae31015cf8f9-0bb5fb2b-2f9c-4025-9bf8-ae31015d27d0.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/f396a7eb-f95d-453f-b69c-ae31015cf60a/ad3ad763-9b6a-40ed-873f-ae31015cf612-d329bde0-0950-4637-9968-ae31015d1925.mp4
 commentator: "Richard Pe\xf1a"
 avatar: pena
 

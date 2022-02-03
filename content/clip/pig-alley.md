@@ -11,8 +11,8 @@ source: 2002 Image Entertainment
 title: Pig Alley
 year: '1912'
 commentary: yes
-clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/1740a359-a0c4-4e2a-bd7f-a9b3017376d7/7dd326df-542e-40a1-b552-a9b301737959-58249933-39bc-4ca8-a9ad-a9b301741298.mp4
-clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/97c63f68-1cc0-44ad-b4fd-a9b30173749f/4b11bae8-061e-43e9-b634-a9b3017374b2-390040f1-90d6-4a17-9ad1-a9b30174156a.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/6fd3bf77-08a8-4ead-912a-ae31015cc826/29017e8e-8d2f-4da3-9386-ae31015cc82e-d99ceecb-864a-469c-9096-ae31015ce5c0.mp4
+clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/707aa6d9-0890-496e-9c19-ae31015cce71/c66d5a3b-6ce3-48b1-aa6e-ae31015cce79-6f145d8b-6ad0-4430-b602-ae31015cefe2.mp4
 commentator: James Schamus
 avatar: schamus
 

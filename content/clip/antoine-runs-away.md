@@ -11,6 +11,6 @@ quicktime: antoine_runs_away.mov
 source: 2003 Criterion Collection
 title: Antoine Runs Away
 year: '1959'
-clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/ba81b8a3-3523-4cf1-a8aa-a9b30173868e/95ce8275-4bab-49f2-ac45-a9b301738697-b9bc2937-c5a9-4f1b-b29e-a9b3017421c6.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/98518016-c711-4b9a-b144-ae31015d03fe/16b398e2-5fa2-4c17-af2a-ae31015d0406-dbcd49a6-ef11-4112-93bf-ae31015d217d.mp4
 
 ---

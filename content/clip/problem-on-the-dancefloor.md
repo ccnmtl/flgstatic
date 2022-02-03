@@ -11,6 +11,6 @@ quicktime: problem_on_the_dancefloor.mov
 source: 1994 Turner Entertainment
 title: Problem on the Dancefloor
 year: '1933'
-clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/dd0e4656-3d3b-4cb3-9b7e-a9b301738808/1c247c5d-18d1-4051-9565-a9b301738812-d7f27aff-9bcc-4c78-bfe7-a9b301742c1d.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/45dea927-b6b1-4f47-bfd7-ae31015d1a48/fec3dd41-9c87-4eea-8052-ae31015d1a55-554747ad-0f88-4048-a57c-ae31015d3c4a.mp4
 
 ---

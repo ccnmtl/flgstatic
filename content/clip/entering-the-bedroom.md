@@ -13,8 +13,8 @@ title: Entering the Bedroom
 year: '1919'
 commentary: yes
 annotated: yes
-clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/204d8165-adbc-4eb2-8f6c-a9b30173bdf4/b0a94ae9-2d62-40f0-ad9e-a9b30173bdfe-2b852b49-b26b-42de-b497-a9b30174ad43.mp4
-clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/9acf3184-6110-4036-9c64-a9b30173be29/5331c4f8-2fbc-4b58-bf08-a9b30173be32-a11e4942-e126-4164-b46e-a9b30174b8e2.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/cf8582d5-ad32-4aac-a6d3-ae31015c704d/51af0b66-6c6c-4034-9290-ae31015c7056-b70e2aea-5202-4747-aea2-ae31015cbdf9.mp4
+clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/261c58ac-3ec4-44fe-b7be-ae31015c670c/bed59472-7198-4556-9177-ae31015c6715-e3916b3e-2230-47ba-b668-ae31015caeeb.mp4
 commentator: "Richard Pe\xf1a"
 avatar: pena
 

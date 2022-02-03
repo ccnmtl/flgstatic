@@ -11,6 +11,6 @@ quicktime: the_pleasure_dome.mov
 source: 1987 Mystic Fire Video
 title: The Pleasure Dome
 year: '1954'
-clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/218ede82-b5d8-410c-af02-a9b3017376db/775353ca-311c-4bbb-bb6e-a9b30173795e-2cdd435d-c910-451e-bb15-a9b301740fb9.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/e9ba3b44-7731-422d-ab29-ae31015cb50c/106b1580-c59b-483a-af72-ae31015cb518-9a5e2c4a-e779-4efa-9882-ae31015cde80.mp4
 
 ---

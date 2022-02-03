@@ -13,8 +13,8 @@ title: Take-Off
 year: '1902'
 commentary: yes
 annotated: yes
-clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/92421803-d0d1-4d38-a3ea-a9b30173abf5/c0b2945d-87e4-4fde-ae0d-a9b30173abfa-54e053df-5609-4f44-bb0a-a9b301749b4d.mp4
-clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/e5d48428-ef68-4fff-b9fe-a9b30173abde/9e2b66b2-8c63-4e81-a68a-a9b30173abe8-7b071a2f-6024-40b4-b8cd-a9b301747428.mp4
+clip_original: https://d2y36twrtb17ty.cloudfront.net/sessions/44f8e9f6-fc2a-45fa-ad74-ae31015c48f4/a7d6637e-b399-4789-8b52-ae31015c48fd-144573ef-dabf-4b09-8b53-ae31015c714e.mp4
+clip_commentary: https://d2y36twrtb17ty.cloudfront.net/sessions/973caab8-2cc2-4ce0-8219-ae31015c462e/a4f15fae-088f-41f5-90a2-ae31015c4637-86b9b1a1-17ef-44dc-88d8-ae31015c7115.mp4
 commentator: Larry Engel
 avatar: engel
 
