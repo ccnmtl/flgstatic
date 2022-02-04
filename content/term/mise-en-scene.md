@@ -54,7 +54,7 @@ escape and the state of being on the run.
 ### International Styles
 
 There are numerous interesting examples of mise-en-scène throughout
-world cinema. Here, in a scene from Youssef Chahine's 1956 film <i>Cairo
+world cinema. Here, in a scene from Youssef Chahine's 1958 film <i>Cairo
 Station</i>, we see a sophisticated mise-en-scène that used onscreen
 space, camera movement, sound, and symbolism.
 
