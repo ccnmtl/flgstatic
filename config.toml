@@ -2,6 +2,7 @@ baseurl = "http://ccnmtl.columbia.edu/"
 languageCode = "en-us"
 title = "Columbia Film Language Glossary"
 MetaDataFormat = "yaml"
+removePathAccents = "true"
 [taxonomies]
   clipterm = "clipterms"
   relatedterm = "relatedterms"
