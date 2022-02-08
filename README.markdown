@@ -1,3 +1,5 @@
+[![Actions Status](https://github.com/ccnmtl/flgstatic/workflows/build-and-test/badge.svg)](https://github.com/ccnmtl/flgstatic/actions)
+
 Experimental [Hugo](http://http://gohugo.io/) based version of the
 [Film Language Glossary](http://ccnmtl.columbia.edu/projects/filmglossary/).
 
