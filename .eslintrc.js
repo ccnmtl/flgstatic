@@ -5,9 +5,7 @@ module.exports = {
         "jquery": true
     },
     "plugins": [
-        "security",
-        "scanjs-rules",
-        "no-unsafe-innerhtml"
+        "security"
     ],
     "extends": [
         "eslint:recommended",
