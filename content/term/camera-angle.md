@@ -16,12 +16,12 @@ at eye level, or up to six feet off the ground.
 
 
 
-[Low angle](../lowangle-shot/) refers to when the camera is placed
+[Low angle](../low-angle-shot/) refers to when the camera is placed
 below eye level. The viewer is therefore looking up at the subject.
 
 {{< embed_clip "Plain Speaking" >}}
 
-[High angle](../highangle-shot/), on the other hand, refers to when
+[High angle](../high-angle-shot/), on the other hand, refers to when
 the camera is placed above eye level, so that the viewer is looking
 down at the subject.
 
