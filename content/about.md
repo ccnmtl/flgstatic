@@ -10,12 +10,12 @@ The Film Language Glossary is available to any student of film. Definitions and 
 <div class="about-div" id="Feedback">
 <h3>Feedback</h3>
 
-<p>If you are interested in contributing to the glossary or using it in your course, please send an e-mail to ccnmtl-filmglossary@columbia.edu.</p>
+<p>If you are interested in contributing to the glossary or using it in your course, please send an e-mail to columbiactl+filmglossary@columbia.edu.</p>
 </div>
 
 ### Copyrights and Permissions
 
-The Film Language Glossary is developed and maintained by the Columbia Center for Teaching & Learning for the purpose of promoting and advancing education and scholarship related to film and media studies. Other uses are not authorized by Columbia University. Inquiries about copyright or other matters may be sent by e-mail to ccnmtl-filmglossary@columbia.edu.
+The Film Language Glossary is developed and maintained by the Columbia Center for Teaching & Learning for the purpose of promoting and advancing education and scholarship related to film and media studies. Other uses are not authorized by Columbia University. Inquiries about copyright or other matters may be sent by e-mail to columbiactl+filmglossary@columbia.edu.
 
 For information about copyright at Columbia University, visit the website of the Copyright Advisory Office at <http://copyright.columbia.edu/copyright/>.
 
