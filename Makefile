@@ -1,4 +1,4 @@
-STAGING_URL=https://flgstatic.stage.ccnmtl.columbia.edu/
+STAGING_URL=https://filmglossary.stage.ccnmtl.columbia.edu/
 PROD_URL=https://filmglossary.ccnmtl.columbia.edu/
 STAGING_BUCKET=flgstatic.stage.ccnmtl.columbia.edu
 PROD_BUCKET=filmglossary.ccnmtl.columbia.edu
