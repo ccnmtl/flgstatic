@@ -16,7 +16,7 @@
     "url": "https://github.com/ccnmtl/flgstatic/issues"
   },
   "devDependencies": {
-    "eslint": "~9.39.1",
+    "eslint": "~9.39.2",
     "eslint-plugin-security": "^3.0.1",
     "globals": "^16.5.0"
   }
