@@ -1,4 +1,3 @@
-import security from "eslint-plugin-security";
 import globals from "globals";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
@@ -14,12 +13,8 @@ const compat = new FlatCompat({
 });
 
 export default [
-    ...compat.extends("eslint:recommended", "plugin:security/recommended-legacy"),
+    ...compat.extends("eslint:recommended"),
     {
-        plugins: {
-            security,
-        },
-
         languageOptions: {
             globals: {
                 ...globals.browser,
@@ -41,7 +36,6 @@ export default [
             }],
 
             quotes: ["error", "single"],
-            "security/detect-object-injection": "off",
             semi: ["error", "always"],
         },
     },
