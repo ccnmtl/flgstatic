@@ -1,5 +1,3 @@
-/* eslint-env jquery */
-
 (function() {
     /* Sidebar other-terms menu */
     jQuery('.widget-allterms-menu h4').click(function() {
