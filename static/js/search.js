@@ -1,4 +1,3 @@
-/* eslint-env jquery */
 /* globals lunr */
 
 var index = lunr(function() {

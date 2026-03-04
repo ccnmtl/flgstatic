@@ -1,5 +1,3 @@
-/* eslint-env jquery */
-
 jQuery(document).ready(function() {
     var offsetHeight = 130;
     jQuery('body').scrollspy({

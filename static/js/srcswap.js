@@ -1,4 +1,3 @@
-/* eslint-env jquery */
 /* globals videojs */
 
 (function() {
